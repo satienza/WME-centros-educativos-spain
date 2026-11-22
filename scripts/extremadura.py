@@ -1,4 +1,4 @@
-"""Extremadura -> Extremadura/centros.geojson
+"""Extremadura -> Extremadura/centros_extremadura.geojson
 
 Datos: Registro Estatal de Centros Docentes del Ministerio (exportación Excel del buscador, sin
 coordenadas). La Junta no publica un directorio con código ni dirección.
@@ -15,7 +15,7 @@ from comun import (RCD, Geocache, descargar, feature, guardar, normalizar_direcc
 IDEEX = ("https://mapas.ideex.es/CICTEX/centrosEducativos?SERVICE=WFS&VERSION=1.1.0"
          "&REQUEST=GetFeature&SRSNAME=EPSG:4326&TYPENAME=ms:CICTEX_CENTROS_EDUCATIVOS_")
 CAPAS = ("PUBLICO_CONCERTADO", "ARTE_IDIOMA_ADULTOS", "RECURSOS")
-SALIDA = os.path.join(os.path.dirname(__file__), "..", "Extremadura", "centros.geojson")
+SALIDA = os.path.join(os.path.dirname(__file__), "..", "Extremadura", "centros_extremadura.geojson")
 NS = {"gml": "http://www.opengis.net/gml", "ms": "http://mapserver.gis.umn.edu/mapserver"}
 
 ABREV = {

@@ -1,4 +1,4 @@
-"""Región de Murcia -> Región de Murcia/centros.geojson
+"""Región de Murcia -> Región de Murcia/centros_murcia.geojson
 
 Fuente: "Sedes de los Centros Educativos de la Región de Murcia" (datosabiertos.regiondemurcia.es,
 CKAN), que apunta a la API del Mapa Escolar de MurciaEduca, con coordenadas.
@@ -14,7 +14,7 @@ from comun import (_norm, Geocache, descargar, feature, guardar, normalizar_dire
 
 PAQUETE = ("https://datosabiertos.regiondemurcia.es/api/3/action/package_show"
            "?id=sedes-de-los-centros-educativos-de-la-region-de-murcia")
-SALIDA = os.path.join(os.path.dirname(__file__), "..", "Región de Murcia", "centros.geojson")
+SALIDA = os.path.join(os.path.dirname(__file__), "..", "Región de Murcia", "centros_murcia.geojson")
 EXCLUIR = {"AHOS"}  # aulas hospitalarias
 ABREV = {"CE INF-PRI": "CEIP", "CP PRI": "CEP", "EXT.DE E.O.I.": "Extensión EOI", "C.Prv.": "CPR"}
 GENERICAS = {  # registro del Ministerio -> sigla de la API

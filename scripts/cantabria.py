@@ -1,4 +1,4 @@
-"""Cantabria -> Cantabria/centros.geojson
+"""Cantabria -> Cantabria/centros_cantabria.geojson
 
 No hay fichero descargable: el buscador de educantabria incrusta todos los centros en el HTML
 (bloques 'var centroAux = new Object(); centroAux.latitud = ...' que alimentan su mapa Leaflet).
@@ -12,7 +12,7 @@ import re
 from comun import descargar, expandir_via, feature, guardar, titulo
 
 URL = "https://www.educantabria.es/centros/buscador-de-centros"
-SALIDA = os.path.join(os.path.dirname(__file__), "..", "Cantabria", "centros.geojson")
+SALIDA = os.path.join(os.path.dirname(__file__), "..", "Cantabria", "centros_cantabria.geojson")
 CAMPO = re.compile(r"centroAux\.(\w+) = '((?:[^'\\]|\\.)*)';")
 
 # La fuente no trae el tipo: se deduce de la abreviatura con la que empieza el nombre.

@@ -1,4 +1,4 @@
-"""Andalucía -> Andalucía/centros.geojson (datos abiertos Junta, "Directorio de centros docentes no universitarios")"""
+"""Andalucía -> Andalucía/centros_andalucia.geojson (datos abiertos Junta, "Directorio de centros docentes no universitarios")"""
 import csv
 import io
 import json
@@ -9,7 +9,7 @@ from comun import descargar, expandir_via, feature, guardar
 
 API = ("https://www.juntadeandalucia.es/datosabiertos/portal/api/3/action/package_show"
        "?id=directorio-de-centros-docentes-de-andalucia")
-SALIDA = os.path.join(os.path.dirname(__file__), "..", "Andalucía", "centros.geojson")
+SALIDA = os.path.join(os.path.dirname(__file__), "..", "Andalucía", "centros_andalucia.geojson")
 
 # La fuente solo da el tipo completo. Abreviaturas oficiales sacadas de los listados PDF de
 # educaweb (C.E.I.P., S.E.P., ...) sin puntos; los tipos que no estén aquí usan el nombre completo.

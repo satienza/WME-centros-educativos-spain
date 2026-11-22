@@ -25,7 +25,7 @@ Los ficheros GeoJSON se organizan en carpetas por comunidad autónoma:
 
 ## Formato del GeoJSON
 
-Cada comunidad tiene un `centros.geojson` (WGS84) con un `Point` por centro y estas propiedades:
+Cada comunidad tiene un `centros_<comunidad>.geojson` (WGS84), con el mismo nombre que su script (`Andalucía/centros_andalucia.geojson`, `Comunidad de Madrid/centros_madrid.geojson`…), para distinguirlos al descargar varios. Cada uno tiene un `Point` por centro y estas propiedades:
 
 | Propiedad | Ejemplo | Notas |
 |---|---|---|

@@ -1,4 +1,4 @@
-"""Comunitat Valenciana -> Comunidad Valenciana/centros.geojson
+"""Comunitat Valenciana -> Comunidad Valenciana/centros_valencia.geojson
 
 Fuente: "Centros docentes de la Comunitat Valenciana" en dadesobertes.gva.es (CKAN), con
 coordenadas oficiales. Es el registro que consulta la Guía de centros docentes de la Conselleria.
@@ -12,7 +12,7 @@ import re
 from comun import descargar, feature, guardar, titulo
 
 PAQUETE = "https://dadesobertes.gva.es/api/3/action/package_show?id=edu-centros"
-SALIDA = os.path.join(os.path.dirname(__file__), "..", "Comunidad Valenciana", "centros.geojson")
+SALIDA = os.path.join(os.path.dirname(__file__), "..", "Comunidad Valenciana", "centros_valencia.geojson")
 # Nombres que solo dicen el tipo ("EI 1er Cicle Municipal"): se les añade la localidad.
 GENERICO = re.compile(r"(MUNICIPAL|DE MÚSICA|DE DANSA|DE DANZA)$")
 

@@ -1,4 +1,4 @@
-"""Castilla y León -> Castilla y León/centros.geojson"""
+"""Castilla y León -> Castilla y León/centros_castilla_y_leon.geojson"""
 import csv
 import io
 import os
@@ -6,7 +6,7 @@ import os
 from comun import descargar, direccion, feature, guardar, titulo
 
 URL = "https://directorio.educa.jcyl.es/es/datos-abiertos-centros-docentes"
-SALIDA = os.path.join(os.path.dirname(__file__), "..", "Castilla y León", "centros.geojson")
+SALIDA = os.path.join(os.path.dirname(__file__), "..", "Castilla y León", "centros_castilla_y_leon.geojson")
 
 
 # La fuente escribe los tipos sin tildes.

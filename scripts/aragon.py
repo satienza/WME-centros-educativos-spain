@@ -1,4 +1,4 @@
-"""Aragón -> Aragón/centros.geojson (centrosdocentes.catedu.es, botón "Exportar" sin filtros)"""
+"""Aragón -> Aragón/centros_aragon.geojson (centrosdocentes.catedu.es, botón "Exportar" sin filtros)"""
 import csv
 import io
 import os
@@ -9,7 +9,7 @@ import urllib.request
 from comun import SSL_CTX, descargar, expandir_via, feature, guardar, titulo
 
 URL = "https://centrosdocentes.catedu.es/ee/php/export/export_centros.php"
-SALIDA = os.path.join(os.path.dirname(__file__), "..", "Aragón", "centros.geojson")
+SALIDA = os.path.join(os.path.dirname(__file__), "..", "Aragón", "centros_aragon.geojson")
 
 # Las abreviaturas que muestra la web (C.E.I.P., C.P.E.P.A., E.E.O.I...) son las iniciales de las
 # palabras con mayúscula del tipo; el CSV solo trae el tipo completo. Excepciones:

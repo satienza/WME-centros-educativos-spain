@@ -1,4 +1,4 @@
-"""Galicia -> Galicia/centros.geojson (abertos.xunta.gal, dataset 0257, un CSV por provincia)"""
+"""Galicia -> Galicia/centros_galicia.geojson (abertos.xunta.gal, dataset 0257, un CSV por provincia)"""
 import csv
 import io
 import os
@@ -9,7 +9,7 @@ from comun import descargar, feature, guardar, titulo
 BASE = "https://abertos.xunta.gal/catalogo/ensino-formacion/-/dataset/0257/centros-educativos-galicia"
 # 001 A Coruña, 003 Lugo, 005 Ourense, 007 Pontevedra (los pares son el mismo dato en XML).
 URLS = [f"{BASE}/{n}/descarga-directa-ficheiro.csv" for n in ("001", "003", "005", "007")]
-SALIDA = os.path.join(os.path.dirname(__file__), "..", "Galicia", "centros.geojson")
+SALIDA = os.path.join(os.path.dirname(__file__), "..", "Galicia", "centros_galicia.geojson")
 
 # La fuente solo trae la abreviatura. ponytail: los tipos que no estén aquí se quedan con la abreviatura.
 TIPOS = {

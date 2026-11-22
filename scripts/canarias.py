@@ -1,4 +1,4 @@
-"""Canarias -> Canarias/centros.geojson"""
+"""Canarias -> Canarias/centros_canarias.geojson"""
 import csv
 import io
 import json
@@ -11,7 +11,7 @@ URL = ("https://datos.canarias.es/catalogos/general/dataset/f6b15811-014b-46f7-a
 # API CKAN: da la fecha de actualización del recurso sin descargar el CSV.
 META = ("https://datos.canarias.es/catalogos/general/api/3/action/resource_show"
         "?id=b5e08adf-841b-4ba5-a599-4339e772d792")
-SALIDA = os.path.join(os.path.dirname(__file__), "..", "Canarias", "centros.geojson")
+SALIDA = os.path.join(os.path.dirname(__file__), "..", "Canarias", "centros_canarias.geojson")
 
 def main():
     actualizado = json.loads(descargar(META))["result"]["last_modified"]

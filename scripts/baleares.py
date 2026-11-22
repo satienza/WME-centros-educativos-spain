@@ -1,4 +1,4 @@
-"""Baleares -> Baleares/centros.geojson
+"""Baleares -> Baleares/centros_baleares.geojson
 
 Datos: Excel "Llistat de centres educatius" de la Conselleria (sin coordenadas).
 Coordenadas: capa "Equipament educatiu" de IDEIB, cruzada por código de centro.
@@ -18,7 +18,7 @@ PAGINA = ("https://intranet.caib.es/sites/planificacioicentres/es/"
           "llistat_de_centres_educatius_de_les_illes_balears/")
 IDEIB = ("https://ideib.caib.es/geoserveis/rest/services/public/GOIB_SUPE_IB/MapServer/0/query"
          "?where=1%3D1&outFields=ID_REGISTRE,FUNCIO&outSR=4326&f=geojson")
-SALIDA = os.path.join(os.path.dirname(__file__), "..", "Baleares", "centros.geojson")
+SALIDA = os.path.join(os.path.dirname(__file__), "..", "Baleares", "centros_baleares.geojson")
 
 # Servicios educativos (equipos de orientación, centros de profesorado...), no son centros docentes.
 SERVICIOS = {"EAP", "EOEP", "CEP", "CEFIRDE", "SAED", "EPEP", "MEIB"}

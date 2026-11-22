@@ -1,4 +1,4 @@
-"""Asturias -> Asturias/centros.geojson
+"""Asturias -> Asturias/centros_asturias.geojson
 
 Datos: Excel del directorio de educastur (sin coordenadas).
 Coordenadas: capa "Centros Educativos" de SIG Asturias, cruzada por código de centro. Los que no
@@ -18,7 +18,7 @@ from comun import SSL_CTX, descargar, expandir_via, Geocache, feature, guardar
 PAGINA = "https://www.educastur.es/directorio-de-centros"
 SIG = ("https://sig.asturias.es/servicios/rest/services/Visor/Educacion/MapServer/0/query"
        "?where=1%3D1&outFields=codigo,tipo&outSR=4326&f=geojson")
-SALIDA = os.path.join(os.path.dirname(__file__), "..", "Asturias", "centros.geojson")
+SALIDA = os.path.join(os.path.dirname(__file__), "..", "Asturias", "centros_asturias.geojson")
 # Nombres que llegan con el tipo escrito entero -> misma abreviatura que el resto del fichero.
 LARGOS = {
     "Escuela Infantil": "EEI", "Colegio Público": "CP", "Instituto de Educación Secundaria": "IES",

@@ -1,4 +1,4 @@
-"""Navarra -> Navarra/centros.geojson
+"""Navarra -> Navarra/centros_navarra.geojson
 
 Fuente: dataset "Centros educativos" de datosabiertos.navarra.es (CKAN), un CSV por curso con
 coordenadas; se toma el curso más reciente. El tipo de centro y los pocos centros que faltan salen
@@ -14,7 +14,7 @@ from comun import (Geocache, descargar, feature, guardar, normalizar_direccion, 
                    titulo, utm_a_latlon)
 
 PAQUETE = "https://datosabiertos.navarra.es/api/3/action/package_show?id=centros-educativos"
-SALIDA = os.path.join(os.path.dirname(__file__), "..", "Navarra", "centros.geojson")
+SALIDA = os.path.join(os.path.dirname(__file__), "..", "Navarra", "centros_navarra.geojson")
 # Servicios sin alumnos: centros de apoyo al profesorado, unidades de orientación, recursos.
 EXCLUIR = ("CAP ", "ORG ", "CREENA", "CRikasNOVA", "EIBZ", "EPA Euskarabidea")
 # Primer token del "Nombre corto" -> sigla del nombre (el resto se usa tal cual: CPEIP, IES, EI...).

@@ -1,4 +1,4 @@
-"""País Vasco -> País Vasco/centros.geojson
+"""País Vasco -> País Vasco/centros_pais_vasco.geojson
 
 Fuente: "Centros docentes no universitarios de Euskadi" (opendata.euskadi.eus), CSV mensual con
 coordenadas UTM (ETRS89 huso 30). Los pocos centros sin coordenadas se geocodifican con CartoCiudad.
@@ -16,7 +16,7 @@ from comun import (SSL_CTX, Geocache, feature, guardar, normalizar_direccion, ti
 
 CSV = ("https://opendata.euskadi.eus/contenidos/ds_localizaciones/centros_docentes_no_universit/"
        "es_euskadi/adjuntos/dirgennouniv.csv")
-SALIDA = os.path.join(os.path.dirname(__file__), "..", "País Vasco", "centros.geojson")
+SALIDA = os.path.join(os.path.dirname(__file__), "..", "País Vasco", "centros_pais_vasco.geojson")
 TIPOS = {
     "CEIP": "Colegio de Educación Infantil y Primaria", "EIC": "Escuela Infantil (Consorcio Haurreskolak)",
     "CPEIPS": "Centro Privado de Educación Infantil, Primaria y Secundaria",

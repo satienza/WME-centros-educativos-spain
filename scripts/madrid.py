@@ -1,4 +1,4 @@
-"""Comunidad de Madrid -> Comunidad de Madrid/centros.geojson
+"""Comunidad de Madrid -> Comunidad de Madrid/centros_madrid.geojson
 
 Fuente: capa WFS "WPAD_V_CENTROS_GIS" de la IDEM (geoservidor de la Comunidad). Es la que pinta
 el mapa del buscador de centros (gestiona.comunidad.madrid/wpad_pub) y contiene los mismos
@@ -17,7 +17,7 @@ WFS = "https://idem.comunidad.madrid/geosrvg/wfs?" + urllib.parse.urlencode({
     # ponytail: GeoServer redondea a 4 decimales (±5 m); EPSG:25830 + conversión UTM si hace falta más
     "srsName": "EPSG:4326",
 })
-SALIDA = os.path.join(os.path.dirname(__file__), "..", "Comunidad de Madrid", "centros.geojson")
+SALIDA = os.path.join(os.path.dirname(__file__), "..", "Comunidad de Madrid", "centros_madrid.geojson")
 
 # Servicios sin edificio escolar propio: orientación, formación del profesorado, aulas
 # hospitalarias, zonas de casas de niños, oficinas, centros en el extranjero, universidades.

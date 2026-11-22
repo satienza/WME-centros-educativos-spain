@@ -1,4 +1,4 @@
-"""Cataluña -> Cataluña/centros.geojson
+"""Cataluña -> Cataluña/centros_cataluna.geojson
 
 Fuente: "Directori de centres docents anual" de Transparència Catalunya (API Socrata), con
 coordenadas oficiales. Es el mismo directorio que muestra mapaescolar.gencat.cat en cada ficha.
@@ -15,7 +15,7 @@ from comun import VIAS_CA, descargar, expandir_via, feature, guardar
 DATASET = "kvmv-ahh4"
 API = f"https://analisi.transparenciacatalunya.cat/resource/{DATASET}.json"
 META = f"https://analisi.transparenciacatalunya.cat/api/views/{DATASET}.json"
-SALIDA = os.path.join(os.path.dirname(__file__), "..", "Cataluña", "centros.geojson")
+SALIDA = os.path.join(os.path.dirname(__file__), "..", "Cataluña", "centros_cataluna.geojson")
 
 # Aulas hospitalarias y unidades de salud mental: no son edificios escolares.
 EXCLUIR = ("HDA ", "AH ", "URPIJ ", "UTCA ")

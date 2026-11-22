@@ -1,4 +1,4 @@
-"""La Rioja -> La Rioja/centros.geojson
+"""La Rioja -> La Rioja/centros_rioja.geojson
 
 Coordenadas y direcciones: capa WFS "iderioja:centros_educativos" de IDERioja (ogc.larioja.org).
 Trae un punto por sede, así que los CRA aparecen con cada escuela de sus pueblos.
@@ -18,7 +18,7 @@ WFS = "https://ogc.larioja.org/wfs?" + urllib.parse.urlencode({
     "TYPENAMES": "iderioja:centros_educativos", "OUTPUTFORMAT": "application/json",
     "SRSNAME": "EPSG:4326",  # ponytail: GeoServer redondea a 4 decimales (±5 m)
 })
-SALIDA = os.path.join(os.path.dirname(__file__), "..", "La Rioja", "centros.geojson")
+SALIDA = os.path.join(os.path.dirname(__file__), "..", "La Rioja", "centros_rioja.geojson")
 # Sin tipo en la capa: universidades, academias, seminario, oficinas. Más servicios sin alumnos.
 EXCLUIR = {None, "Servicios Centrales", "Equipo de Orientación Educativa y Psicopedagógica"}
 PREFIJO = re.compile(r"((?:[A-Za-zÁÉÍÓÚ]+\.)+)\s*(.*)")

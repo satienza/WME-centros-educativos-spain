@@ -1,4 +1,4 @@
-"""Castilla-La Mancha -> Castilla-La Mancha/centros.geojson
+"""Castilla-La Mancha -> Castilla-La Mancha/centros_castilla_la_mancha.geojson
 
 Fuente: buscador EDUCEN de la Consejería (Registro de Centros Docentes), aplicación PrimeFaces sin
 fichero descargable. Se reproduce lo que hace el navegador: búsqueda sin filtro de naturaleza
@@ -15,7 +15,7 @@ import urllib.request
 from comun import SSL_CTX, Geocache, expandir_via, feature, guardar, titulo
 
 URL = "https://educen.jccm.es/educen/public/consulta.xhtml"
-SALIDA = os.path.join(os.path.dirname(__file__), "..", "Castilla-La Mancha", "centros.geojson")
+SALIDA = os.path.join(os.path.dirname(__file__), "..", "Castilla-La Mancha", "centros_castilla_la_mancha.geojson")
 BOTON = "form:tabsBusqueda:tabEligeBusqueda:j_idt386"
 TABLA = "form:tabsBusqueda:tabEligeBusqueda:tblCentros"
 
