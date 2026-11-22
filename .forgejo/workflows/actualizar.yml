@@ -7,10 +7,13 @@ on:
 
 jobs:
   actualizar:
-    # Runner host en España: varias fuentes bloquean IPs extranjeras.
+    # Runner en España: varias fuentes bloquean IPs extranjeras.
     runs-on: linux-amd64
+    # La etiqueta usa Docker; imagen oficial de Python (trae git, sin PEP 668).
+    container:
+      image: python:3.12-bookworm
     steps:
-      # ponytail: checkout con git en vez de actions/checkout, que exige node en el host.
+      # ponytail: checkout con git en vez de actions/checkout, que exige node en la imagen.
       # El token automático (válido solo durante el job) da escritura al repo para el push.
       - name: Checkout
         run: |
@@ -20,12 +23,7 @@ jobs:
           git config http.extraHeader "Authorization: basic $(printf 'x-access-token:%s' "$FORGEJO_TOKEN" | base64 -w0)"
           git fetch -q --depth 1 origin "$GITHUB_SHA"
           git checkout -qf FETCH_HEAD
-      - name: Entorno Python
-        run: |
-          python3 --version
-          python3 -m venv .venv
-          .venv/bin/pip install -q -r requirements.txt
-          echo "$PWD/.venv/bin" >> "$GITHUB_PATH"
+      - run: python --version && pip install -q -r requirements.txt
       - run: python scripts/test_comun.py
       # Cada fuente por separado: si una falla, las demás se actualizan igual.
       - run: python scripts/castilla_y_leon.py
