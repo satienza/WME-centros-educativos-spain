@@ -68,7 +68,8 @@ footer {{ margin-top: 2rem; font-size: .9rem; opacity: .8; }}
 <body>
 <h1>Centros educativos de España para WME</h1>
 <p>GeoJSON por comunidad autónoma para editar zonas escolares en Waze Map Editor.
-Para usarlos, abrir el fichero con WME-Geometries y elegir <code>nombre</code> como propiedad de etiqueta.</p>
+Para cargarlos en WME es necesario el script <a href="https://greasyfork.org/en/scripts/8129-wme-geometries">WME Geometries</a>:
+abrir el fichero con él y elegir <code>nombre</code> como propiedad de etiqueta.</p>
 <a class="todo" href="{ZIP}" download>⬇ Descargar todo (.zip · {zip_tam} · {miles(total)} centros)</a>
 <div class="tabla">
 <table>
