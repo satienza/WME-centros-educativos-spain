@@ -1,6 +1,8 @@
 # WME-centros-educativos-spain
 Geojson de los centros educativos en españa para la edición de zonas escolares.
 
+**Descarga:** <https://satienza.github.io/WME-centros-educativos-spain/> (cada comunidad o un zip con todas). La genera `scripts/web.py` y la publica [pages.yml](.github/workflows/pages.yml) en cada push a `main`.
+
 ## Estructura
 
 Los ficheros GeoJSON se organizan en carpetas por comunidad autónoma:
