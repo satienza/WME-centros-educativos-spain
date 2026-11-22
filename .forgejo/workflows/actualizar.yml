@@ -5,18 +5,27 @@ on:
     - cron: "0 5 * * 1" # lunes 05:00 UTC
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   actualizar:
-    runs-on: ubuntu-latest
+    # Runner host en España: varias fuentes bloquean IPs extranjeras.
+    runs-on: linux-amd64
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - run: pip install -r requirements.txt
+      # ponytail: checkout con git en vez de actions/checkout, que exige node en el host.
+      # El token automático (válido solo durante el job) da escritura al repo para el push.
+      - name: Checkout
+        run: |
+          git init -q .
+          git remote remove origin 2>/dev/null || true
+          git remote add origin "$GITHUB_SERVER_URL/$GITHUB_REPOSITORY.git"
+          git config http.extraHeader "Authorization: basic $(printf 'x-access-token:%s' "$FORGEJO_TOKEN" | base64 -w0)"
+          git fetch -q --depth 1 origin "$GITHUB_SHA"
+          git checkout -qf FETCH_HEAD
+      - name: Entorno Python
+        run: |
+          python3 --version
+          python3 -m venv .venv
+          .venv/bin/pip install -q -r requirements.txt
+          echo "$PWD/.venv/bin" >> "$GITHUB_PATH"
       - run: python scripts/test_comun.py
       # Cada fuente por separado: si una falla, las demás se actualizan igual.
       - run: python scripts/castilla_y_leon.py
@@ -57,7 +66,7 @@ jobs:
         run: |
           git add -A '*/centros.geojson' 'scripts/cache/*.json'
           if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "forgejo-actions"
+          git config user.email "actions@noreply.petricor.net"
           git commit -m "Actualizar centros: $(git diff --cached --name-only | xargs -n1 dirname | paste -sd ', ' -)"
-          git push
+          git push origin "HEAD:$GITHUB_REF_NAME"

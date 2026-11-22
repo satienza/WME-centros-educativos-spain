@@ -90,7 +90,7 @@ python3 scripts/pais_vasco.py
 | País Vasco | ["Centros docentes no universitarios de Euskadi" — opendata.euskadi.eus](https://opendata.euskadi.eus/catalogo/-/centros-docentes-no-universitarios-euskadi/) (CSV mensual con UTM ETRS89; los que vienen con 0,0 se geocodifican con CartoCiudad) | cabecera `Last-Modified` del CSV |
 | Región de Murcia | ["Sedes de los Centros Educativos de la Región de Murcia"](https://datosabiertos.regiondemurcia.es/dataset/sedes-de-los-centros-educativos-de-la-region-de-murcia) (CKAN → API JSON del [Mapa Escolar de MurciaEduca](https://mapaescolar.murciaeduca.es/mapaescolar-api/api/centros), con coordenadas) + centros que faltan del [Registro Estatal de Centros Docentes](https://www.educacion.gob.es/centros/) (`idComunidad=14`), geocodificados con CartoCiudad | API CKAN `package_show` → `last_modified` del recurso |
 
-El workflow [actualizar.yml](.github/workflows/actualizar.yml) se ejecuta cada lunes (o a mano), regenera los GeoJSON y hace commit solo si alguno cambió.
+El workflow [actualizar.yml](.forgejo/workflows/actualizar.yml) se ejecuta cada lunes (o a mano) en un Forgejo Runner con IP española (Galicia, Cantabria, Murcia y La Rioja bloquean IPs extranjeras). Regenera los GeoJSON y hace commit solo si alguno cambió. El repositorio de GitHub es una réplica (push mirror) del de Forgejo.
 
 `scripts/cache/` guarda las coordenadas obtenidas con CartoCiudad por código de centro. Un centro solo se vuelve a geocodificar si es nuevo o cambia su dirección, así la ejecución semanal no repite miles de consultas. El workflow versiona también la caché.
 
