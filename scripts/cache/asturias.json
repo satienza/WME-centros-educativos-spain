@@ -1,0 +1,126 @@
+{
+"33029081": {
+"clave": "La Pedrera, 38|Oviedo",
+"res": [
+43.371757627253174,
+-5.860428192231739,
+"toponimo"
+]
+},
+"33029524": {
+"clave": "Calle Las Vegas, s/n|Allande",
+"res": null
+},
+"33029883": {
+"clave": "Fernando Álvarez Bajos, urb. Montecerrao|Oviedo",
+"res": null
+},
+"33029901": {
+"clave": "Calle Media Legua, s/n|Oviedo",
+"res": [
+43.38242132630604,
+-5.815086850419798,
+"calle"
+]
+},
+"33029913": {
+"clave": "Travesía de la Depuradora, 2-3|Avilés",
+"res": [
+43.546023515326205,
+-5.921295314253895,
+"portal"
+]
+},
+"33029925": {
+"clave": "Ponce de León s/n|Avilés",
+"res": [
+43.5386844935462,
+-5.910502826066775,
+"calle"
+]
+},
+"33029950": {
+"clave": "Villar,19-Trubia|Oviedo",
+"res": [
+43.342643006054715,
+-5.985780187717357,
+"portal"
+]
+},
+"33029962": {
+"clave": "Aniceto Sela, s/n|Oviedo",
+"res": [
+43.35779940124366,
+-5.854388079346504,
+"calle"
+]
+},
+"33029974": {
+"clave": "General Elorza, 66|Oviedo",
+"res": [
+43.36707201563254,
+-5.848108148338599,
+"portal"
+]
+},
+"33029986": {
+"clave": "Calle Eduardo Martínez Torner, s/n|Mieres",
+"res": [
+43.25659477131316,
+-5.778582027586232,
+"calle"
+]
+},
+"33030009": {
+"clave": "Fermín Cristóbal, nº 4|Noreña",
+"res": [
+43.39091488508742,
+-5.705488081112802,
+"calle"
+]
+},
+"33030034": {
+"clave": "Calle Bernardo A. Galán, 35|Salinas",
+"res": null
+},
+"33030046": {
+"clave": "Camino de Leorio, 380|Gijón",
+"res": [
+43.49127697011919,
+-5.683696980850896,
+"portal"
+]
+},
+"33030058": {
+"clave": "Benito Otero Martínez, s/n|Gijón",
+"res": [
+43.51203592848891,
+-5.669190811557031,
+"calle"
+]
+},
+"33030061": {
+"clave": "Quintana, 11, bajo|Oviedo",
+"res": [
+43.36539399881569,
+-5.829171023817348,
+"portal"
+]
+},
+"33030071": {
+"clave": "General Elorza, 68|Oviedo",
+"res": [
+43.36712822649934,
+-5.848503674602574,
+"portal"
+]
+},
+"33030083": {
+"clave": "Doña Jimena, 9|Oviedo",
+"res": [
+43.37597958791296,
+-5.836221232805948,
+"portal"
+]
+}
+}

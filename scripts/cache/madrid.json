@@ -1,0 +1,358 @@
+{
+"28001231": {
+"clave": "Avenida de Montepríncipe|Boadilla del Monte",
+"res": [
+40.40998276372125,
+-3.8419629292418476,
+"calle"
+]
+},
+"28032353": {
+"clave": "Calle de Segovia, 5|Alcobendas",
+"res": [
+40.54440687120491,
+-3.635057736655237,
+"portal"
+]
+},
+"28042139": {
+"clave": "Avenida de las Provincias, 51|Fuenlabrada",
+"res": [
+40.29652495222992,
+-3.798604422694902,
+"portal"
+]
+},
+"28056400": {
+"clave": "Carretera de Meco k, 4|Alcalá de Henares",
+"res": null
+},
+"28056412": {
+"clave": "Carretera de Meco k, 4|Alcalá de Henares",
+"res": null
+},
+"28059073": {
+"clave": "Calle Valle del Alberche, 45|Guadarrama",
+"res": [
+40.645710287938726,
+-4.036941439205319,
+"portal"
+]
+},
+"28060968": {
+"clave": "Avenida de valencia (centro Joven Daniel Rodríguez), 3|San Sebastián de los Reyes",
+"res": null
+},
+"28069315": {
+"clave": "Calle Santa Emilia, 20|Guadarrama",
+"res": [
+40.63237898383987,
+-4.027039624445721,
+"portal"
+]
+},
+"28070950": {
+"clave": "Calle Alfonso Rodríguez de Santa María, 23|Madrid",
+"res": null
+},
+"28077737": {
+"clave": "Carretera de Boadilla del Monte K 5,3|Boadilla del Monte",
+"res": null
+},
+"28078389": {
+"clave": "Calle Transversal Cuatro, 4|Pozuelo de Alarcón",
+"res": null
+},
+"28078420": {
+"clave": "Avenida POBLADOS, S/N|Madrid",
+"res": [
+40.3771790177405,
+-3.736133073989057,
+"calle"
+]
+},
+"28078833": {
+"clave": "Carretera Colmenar Viejo, Km 14,200|Madrid",
+"res": [
+40.54377007721477,
+-3.7010344032739244,
+"calle"
+]
+},
+"28078870": {
+"clave": "Calle Buenavista, S/N|Santa María de la Alameda",
+"res": [
+40.56965446358421,
+-4.266104986536582,
+"calle"
+]
+},
+"28079692": {
+"clave": "Avenida de los Prados, 3|El Boalo",
+"res": [
+40.7177730441716,
+-3.917479215089911,
+"portal"
+]
+},
+"28081121": {
+"clave": "Calle de Móstoles, 7|Leganés",
+"res": [
+40.31537424002328,
+-3.7889868286172366,
+"calle"
+]
+},
+"28081467": {
+"clave": "Calle Felipe II, S/N|Valdemoro",
+"res": [
+40.19362365760581,
+-3.6699854422518463,
+"calle"
+]
+},
+"28081546": {
+"clave": "Calle de Eloy Gonzalo 3 y, 5|Madrid",
+"res": [
+40.4340412307078,
+-3.70351889058112,
+"portal"
+]
+},
+"28081595": {
+"clave": "Via de Servicio A1 KM, 28|San Sebastián de los Reyes",
+"res": null
+},
+"28081613": {
+"clave": "Calle Embalse de Navacerrada c/v Emb de la Pinilla|Madrid",
+"res": null
+},
+"28081911": {
+"clave": "Carretera de Carabanchel a Villaverde, 54|Madrid",
+"res": [
+40.352640408868275,
+-3.7090610924904577,
+"calle"
+]
+},
+"28081996": {
+"clave": "Calle Sauce sin|Fuenlabrada",
+"res": [
+40.30241151080742,
+-3.8185508222391036,
+"calle"
+]
+},
+"28082022": {
+"clave": "Calle de Miguel Ángel Cantero Oliva, S/N|Boadilla del Monte",
+"res": [
+40.41792203567152,
+-3.8955487517426954,
+"calle"
+]
+},
+"28082058": {
+"clave": "Carretera N320 334,5|Torrelaguna",
+"res": null
+},
+"28082083": {
+"clave": "Carretera Nacional V, Km. 10,600|Alcorcón",
+"res": null
+},
+"28082101": {
+"clave": "Calle de Arturo Soria, 245|Madrid",
+"res": [
+40.46567070734793,
+-3.6659198943394506,
+"portal"
+]
+},
+"28082150": {
+"clave": "Calle del Arte Hiperrealista, 6|Madrid",
+"res": [
+40.35775779237969,
+-3.587842432062765,
+"portal"
+]
+},
+"28082162": {
+"clave": "Calle de la Jacaranda|Madrid",
+"res": [
+40.39763093804115,
+-3.6790734252202486,
+"calle"
+]
+},
+"28082174": {
+"clave": "Calle Eras de Arriba, 56|Navalafuente",
+"res": [
+40.81938535821524,
+-3.6811241072442416,
+"calle"
+]
+},
+"28082204": {
+"clave": "Calle Bolivar, 24|Madrid",
+"res": [
+40.39243569246723,
+-3.6909714305606864,
+"portal"
+]
+},
+"28082289": {
+"clave": "Avenida del Ferrocarril, 17|Arganda del Rey",
+"res": [
+40.30432690394208,
+-3.4491340104742525,
+"portal"
+]
+},
+"28082307": {
+"clave": "Calle Manzanares El Real, 10|El Boalo",
+"res": null
+},
+"28082371": {
+"clave": "Avenida de la Aviación, S/N|Madrid",
+"res": [
+40.37601440655035,
+-3.7783356085593374,
+"calle"
+]
+},
+"28082381": {
+"clave": "Calle C/de Benicarló c/v a C/ Valencia, S/N|Arroyomolinos",
+"res": null
+},
+"28082435": {
+"clave": "Avenida de las Estrellas, 45|Parla",
+"res": [
+40.22712156009457,
+-3.751726495319034,
+"portal"
+]
+},
+"28082484": {
+"clave": "Calle Juan Álvarez Mendizabal, 56|Madrid",
+"res": [
+40.42821370464665,
+-3.7179035732562338,
+"portal"
+]
+},
+"28082502": {
+"clave": "Ronda de Poniente, 2-16|Tres Cantos",
+"res": [
+40.602349809139966,
+-3.7158581960997603,
+"portal"
+]
+},
+"28082514": {
+"clave": "Calle de Xaudaró, 24|Madrid",
+"res": [
+40.48962138919974,
+-3.691769292440941,
+"portal"
+]
+},
+"28082538": {
+"clave": "Calle Juan de Guzmán, cv Garcilaso de la Vega s/n, 1|Alcalá de Henares",
+"res": [
+40.48452802067661,
+-3.3554189265496492,
+"calle"
+]
+},
+"28082541": {
+"clave": "Calle Diálogo, 20|Madrid",
+"res": [
+40.40598813814848,
+-3.555964538654412,
+"calle"
+]
+},
+"28082575": {
+"clave": "Calle Olimpio López, 10|Madrid",
+"res": [
+40.46836521643778,
+-3.6522131565652294,
+"portal"
+]
+},
+"28082587": {
+"clave": "Calle Marie Curie, 15|Rivas-Vaciamadrid",
+"res": [
+40.33805162931914,
+-3.5251134611725465,
+"calle"
+]
+},
+"28082599": {
+"clave": "Calle del Teniente Coronel Noreña, 28|Madrid",
+"res": [
+40.3878935749857,
+-3.692807240321145,
+"portal"
+]
+},
+"28082691": {
+"clave": "Calle Camino de los Ingenieros, 6|Madrid",
+"res": null
+},
+"28082708": {
+"clave": "Carretera Nacional II, km 22,800|Torrejón de Ardoz",
+"res": [
+40.467747207309955,
+-3.451960348875659,
+"calle"
+]
+},
+"28082711": {
+"clave": "Carretera Nacional V, Km 10,600|Madrid",
+"res": null
+},
+"28083245": {
+"clave": "Calle Hostal Campus de la Berzosa, S/N|Hoyo de Manzanares",
+"res": null
+},
+"28083257": {
+"clave": "Calle de la Comunidad Canaria, 8|Boadilla del Monte",
+"res": [
+40.44287963479389,
+-3.8721413640062186,
+"portal"
+]
+},
+"28083440": {
+"clave": "Calle de El Parral, 2|Madrid",
+"res": [
+40.35784385330409,
+-3.694825349885816,
+"portal"
+]
+},
+"28083476": {
+"clave": "Calle Cesar Cort Botí, 12|Madrid",
+"res": [
+40.49622449596172,
+-3.612125856686161,
+"portal"
+]
+},
+"28083491": {
+"clave": "Calle José Escobar y Saliente, 2|Madrid",
+"res": [
+40.400856211730975,
+-3.5659939821318902,
+"portal"
+]
+},
+"28701056": {
+"clave": "Calle de los Frailes|Leganés",
+"res": [
+40.32004745098,
+-3.77234840437509,
+"calle"
+]
+}
+}

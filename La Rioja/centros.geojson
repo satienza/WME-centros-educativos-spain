@@ -1,0 +1,5499 @@
+{
+ "type": "FeatureCollection",
+ "fuente": {
+  "url": "https://ogc.larioja.org/wfs?SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&TYPENAMES=iderioja%3Acentros_educativos&OUTPUTFORMAT=application%2Fjson&SRSNAME=EPSG%3A4326",
+  "actualizado": null
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4759,
+     42.3594
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP San Prudencio",
+    "direccion": "San Prudencio, 6",
+    "poblacion": "Albelda de Iregua",
+    "municipio": "Albelda de Iregua",
+    "codigo_postal": "26120",
+    "latitud": 42.3594,
+    "longitud": -2.4759,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26000063"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4372,
+     42.4057
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Doña Avelina Cortázar",
+    "direccion": "Doctor Navarro Díaz, 1",
+    "poblacion": "Alberite",
+    "municipio": "Alberite",
+    "codigo_postal": "26141",
+    "latitud": 42.4057,
+    "longitud": -2.4372,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26000087"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.8816,
+     42.2285
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Miguel Ángel Sáinz",
+    "direccion": "Avenida de Rincón de Soto, 8",
+    "poblacion": "Aldeanueva de Ebro",
+    "municipio": "Aldeanueva de Ebro",
+    "codigo_postal": "26559",
+    "latitud": 42.2285,
+    "longitud": -1.8816,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26000105"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.7512,
+     42.1809
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Obispo Ezequiel Moreno",
+    "direccion": "Paseo de la Florida, 27",
+    "poblacion": "Alfaro",
+    "municipio": "Alfaro",
+    "codigo_postal": "26540",
+    "latitud": 42.1809,
+    "longitud": -1.7512,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26000130"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.7517,
+     42.178
+    ]
+   },
+   "properties": {
+    "nombre": "CPEIPS Amor Misericordioso",
+    "direccion": "Mayor, 19",
+    "poblacion": "Alfaro",
+    "municipio": "Alfaro",
+    "codigo_postal": "26540",
+    "latitud": 42.178,
+    "longitud": -1.7517,
+    "tipo_centro": "Centro Privado de Educación Infantil Primaria y Secundaria",
+    "codigo": "26000154"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.7517,
+     42.178
+    ]
+   },
+   "properties": {
+    "nombre": "CPC Amor Misericordioso",
+    "direccion": "Mayor, 19",
+    "poblacion": "Alfaro",
+    "municipio": "Alfaro",
+    "codigo_postal": "26540",
+    "latitud": 42.178,
+    "longitud": -1.7517,
+    "tipo_centro": "Centro Privado Concertado",
+    "codigo": "26000154"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.1031,
+     42.221
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Antonio Delgado Calvete",
+    "direccion": "Avenida Deportiva, 21",
+    "poblacion": "Arnedo",
+    "municipio": "Arnedo",
+    "codigo_postal": "26580",
+    "latitud": 42.221,
+    "longitud": -2.1031,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26000257"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.1101,
+     42.2211
+    ]
+   },
+   "properties": {
+    "nombre": "CPEIPS Sagrado Corazón de Jesús (Arnedo)",
+    "direccion": "Avenida Reyes Católicos, 47",
+    "poblacion": "Arnedo",
+    "municipio": "Arnedo",
+    "codigo_postal": "26580",
+    "latitud": 42.2211,
+    "longitud": -2.1101,
+    "tipo_centro": "Centro Privado de Educación Infantil Primaria y Secundaria",
+    "codigo": "26000269"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.1119,
+     42.2232
+    ]
+   },
+   "properties": {
+    "nombre": "IES Celso Díaz",
+    "direccion": "Avenida Numancia, 5",
+    "poblacion": "Arnedo",
+    "municipio": "Arnedo",
+    "codigo_postal": "26580",
+    "latitud": 42.2232,
+    "longitud": -2.1119,
+    "tipo_centro": "Sección de Instituto de Educación Secundaria",
+    "codigo": "26000270"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.0997,
+     42.2226
+    ]
+   },
+   "properties": {
+    "nombre": "IES Virgen de Vico",
+    "direccion": "Eliseo Pinedo, S/N",
+    "poblacion": "Arnedo",
+    "municipio": "Arnedo",
+    "codigo_postal": "26580",
+    "latitud": 42.2226,
+    "longitud": -2.0997,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "26000282"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.7584,
+     42.3319
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP San Pelayo",
+    "direccion": "Monseñor Martínez Somalo, / N",
+    "poblacion": "Baños de Río Tobía",
+    "municipio": "Baños de Río Tobía",
+    "codigo_postal": "26320",
+    "latitud": 42.3319,
+    "longitud": -2.7584,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26000373"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9677,
+     42.3106
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Aurelio Prudencio",
+    "direccion": "Carretera Murillo, 14",
+    "poblacion": "Calahorra",
+    "municipio": "Calahorra",
+    "codigo_postal": "26500",
+    "latitud": 42.3106,
+    "longitud": -1.9677,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26000464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9567,
+     42.3019
+    ]
+   },
+   "properties": {
+    "nombre": "CPEIP San Andrés",
+    "direccion": "San Andrés, 55",
+    "poblacion": "Calahorra",
+    "municipio": "Calahorra",
+    "codigo_postal": "26500",
+    "latitud": 42.3019,
+    "longitud": -1.9567,
+    "tipo_centro": "Centro Privado de Educación Infantil y Primaria",
+    "codigo": "26000476"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9644,
+     42.3018
+    ]
+   },
+   "properties": {
+    "nombre": "CPEIPS Santa Teresa",
+    "direccion": "Mediavilla, 2",
+    "poblacion": "Calahorra",
+    "municipio": "Calahorra",
+    "codigo_postal": "26500",
+    "latitud": 42.3018,
+    "longitud": -1.9644,
+    "tipo_centro": "Centro Privado de Educación Infantil Primaria y Secundaria",
+    "codigo": "26000488"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9713,
+     42.3028
+    ]
+   },
+   "properties": {
+    "nombre": "CPEIP La Milagrosa",
+    "direccion": "Avenida de Numancia, 35",
+    "poblacion": "Calahorra",
+    "municipio": "Calahorra",
+    "codigo_postal": "26500",
+    "latitud": 42.3028,
+    "longitud": -1.9713,
+    "tipo_centro": "Centro Privado de Educación Infantil y Primaria",
+    "codigo": "26000506"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9635,
+     42.3065
+    ]
+   },
+   "properties": {
+    "nombre": "IES Valle del Cidacos",
+    "direccion": "Basconia, S/N",
+    "poblacion": "Calahorra",
+    "municipio": "Calahorra",
+    "codigo_postal": "26500",
+    "latitud": 42.3065,
+    "longitud": -1.9635,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "26000543"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9736,
+     42.3052
+    ]
+   },
+   "properties": {
+    "nombre": "CPFPE La Planilla",
+    "direccion": "Avenida de los Angeles, S/N",
+    "poblacion": "Calahorra",
+    "municipio": "Calahorra",
+    "codigo_postal": "26500",
+    "latitud": 42.3052,
+    "longitud": -1.9736,
+    "tipo_centro": "Centro Privado de Formación Profesional Específica",
+    "codigo": "26000555"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9645,
+     42.3071
+    ]
+   },
+   "properties": {
+    "nombre": "IES Marco Fabio Quintiliano",
+    "direccion": "Basconia, S/N",
+    "poblacion": "Calahorra",
+    "municipio": "Calahorra",
+    "codigo_postal": "26500",
+    "latitud": 42.3071,
+    "longitud": -1.9645,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "26000579"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.96,
+     42.3069
+    ]
+   },
+   "properties": {
+    "nombre": "CPEIPS San Agustín",
+    "direccion": "Avenida de la Estación, 11",
+    "poblacion": "Calahorra",
+    "municipio": "Calahorra",
+    "codigo_postal": "26500",
+    "latitud": 42.3069,
+    "longitud": -1.96,
+    "tipo_centro": "Centro Privado de Educación Infantil Primaria y Secundaria",
+    "codigo": "26000592"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.6337,
+     42.4828
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Gregoria Artacho",
+    "direccion": "Víctimas del Terrorismo, 13",
+    "poblacion": "Cenicero",
+    "municipio": "Cenicero",
+    "codigo_postal": "26350",
+    "latitud": 42.4828,
+    "longitud": -2.6337,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26000661"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.5625,
+     42.4659
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Cervantes",
+    "direccion": "Donantes de Sangre, S/N",
+    "poblacion": "Fuenmayor",
+    "municipio": "Fuenmayor",
+    "codigo_postal": "26360",
+    "latitud": 42.4659,
+    "longitud": -2.5625,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26000919"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.8509,
+     42.5756
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP San Felices de Bibilio",
+    "direccion": "Avenida de La Rioja, 2",
+    "poblacion": "Haro",
+    "municipio": "Haro",
+    "codigo_postal": "26200",
+    "latitud": 42.5756,
+    "longitud": -2.8509,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26000971"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.861,
+     42.5734
+    ]
+   },
+   "properties": {
+    "nombre": "CPEIPS Sagrado Corazón (Haro)",
+    "direccion": "Bretón de los Herreros, 31",
+    "poblacion": "Haro",
+    "municipio": "Haro",
+    "codigo_postal": "26200",
+    "latitud": 42.5734,
+    "longitud": -2.861,
+    "tipo_centro": "Centro Privado de Educación Infantil Primaria y Secundaria",
+    "codigo": "26000993"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4598,
+     42.4285
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Eduardo González Gallarza (Lardero)",
+    "direccion": "Avenida San Marcial, 3",
+    "poblacion": "Lardero",
+    "municipio": "Lardero",
+    "codigo_postal": "26140",
+    "latitud": 42.4285,
+    "longitud": -2.4598,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26001122"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4518,
+     42.4371
+    ]
+   },
+   "properties": {
+    "nombre": "IES La Laboral",
+    "direccion": "Carretera de Soria, 72",
+    "poblacion": "Lardero",
+    "municipio": "Lardero",
+    "codigo_postal": "26140",
+    "latitud": 42.4371,
+    "longitud": -2.4518,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "26001134"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4504,
+     42.4589
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Vuelo Madrid-Manila",
+    "direccion": "Avenida Rep blica Argentina, 54",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26002",
+    "latitud": 42.4589,
+    "longitud": -2.4504,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26001201"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4378,
+     42.4594
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Bretón de los Herreros",
+    "direccion": "Villamediana, 30",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26003",
+    "latitud": 42.4594,
+    "longitud": -2.4378,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26001213"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4363,
+     42.4555
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Gonzalo de Berceo (Logroño)",
+    "direccion": "Estambrera, 28",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26006",
+    "latitud": 42.4555,
+    "longitud": -2.4363,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26001237"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4534,
+     42.4684
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Navarrete el Mudo",
+    "direccion": "General Urrutia, 2",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26006",
+    "latitud": 42.4684,
+    "longitud": -2.4534,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26001249"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4267,
+     42.4523
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP San Pío X",
+    "direccion": "Río Alhama, 1",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26006",
+    "latitud": 42.4523,
+    "longitud": -2.4267,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26001250"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4766,
+     42.4636
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Ana María Matute",
+    "direccion": "Alemania, 19",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26007",
+    "latitud": 42.4636,
+    "longitud": -2.4766,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26001262"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4501,
+     42.4622
+    ]
+   },
+   "properties": {
+    "nombre": "CPEIPS Los Boscos",
+    "direccion": "Múgica, 9",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26002",
+    "latitud": 42.4622,
+    "longitud": -2.4501,
+    "tipo_centro": "Centro Privado de Educación Infantil Primaria y Secundaria",
+    "codigo": "26001328"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.466,
+     42.4666
+    ]
+   },
+   "properties": {
+    "nombre": "CPEIPS Paula Montal",
+    "direccion": "Portillejo, 40",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26006",
+    "latitud": 42.4666,
+    "longitud": -2.466,
+    "tipo_centro": "Centro Privado de Educación Infantil Primaria y Secundaria",
+    "codigo": "26001331"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4528,
+     42.4561
+    ]
+   },
+   "properties": {
+    "nombre": "CPEIPS Divino Maestro",
+    "direccion": "Avenida Club Deportivo, 25",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26007",
+    "latitud": 42.4561,
+    "longitud": -2.4528,
+    "tipo_centro": "Centro Privado de Educación Infantil Primaria y Secundaria",
+    "codigo": "26001341"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4552,
+     42.4642
+    ]
+   },
+   "properties": {
+    "nombre": "CPEIPS Rey Pastor",
+    "direccion": "Vélez de Guevara, 6",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26005",
+    "latitud": 42.4642,
+    "longitud": -2.4552,
+    "tipo_centro": "Centro Privado de Educación Infantil Primaria y Secundaria",
+    "codigo": "26001353"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4268,
+     42.466
+    ]
+   },
+   "properties": {
+    "nombre": "CPEE Los Ángeles",
+    "direccion": "Luis de Ulloa, 24",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26004",
+    "latitud": 42.466,
+    "longitud": -2.4268,
+    "tipo_centro": "Centro Privado de Educación Especial",
+    "codigo": "26001377"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4541,
+     42.4589
+    ]
+   },
+   "properties": {
+    "nombre": "CPEIPS Sagrado Corazón (Logroño)",
+    "direccion": "Huesca, 39",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26005",
+    "latitud": 42.4589,
+    "longitud": -2.4541,
+    "tipo_centro": "Centro Privado de Educación Infantil Primaria y Secundaria",
+    "codigo": "26001419"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4381,
+     42.4662
+    ]
+   },
+   "properties": {
+    "nombre": "CPEIPS Escuelas Pías",
+    "direccion": "Doce Ligero, 2",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26004",
+    "latitud": 42.4662,
+    "longitud": -2.4381,
+    "tipo_centro": "Centro Privado de Educación Infantil Primaria y Secundaria",
+    "codigo": "26001420"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4392,
+     42.4492
+    ]
+   },
+   "properties": {
+    "nombre": "CPEIPS San José",
+    "direccion": "Calleja Vieja (I), S/N",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26003",
+    "latitud": 42.4492,
+    "longitud": -2.4392,
+    "tipo_centro": "Centro Privado de Educación Infantil Primaria y Secundaria",
+    "codigo": "26001432"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.44,
+     42.4678
+    ]
+   },
+   "properties": {
+    "nombre": "CPEIPS Compañía de María",
+    "direccion": "Capitán Gaona, 2",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26001",
+    "latitud": 42.4678,
+    "longitud": -2.44,
+    "tipo_centro": "Centro Privado de Educación Infantil Primaria y Secundaria",
+    "codigo": "26001444"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4484,
+     42.4565
+    ]
+   },
+   "properties": {
+    "nombre": "CPEIPS Escolapias Sotillo",
+    "direccion": "General Vara de Rey, 76",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26006",
+    "latitud": 42.4565,
+    "longitud": -2.4484,
+    "tipo_centro": "Centro Privado de Educación Infantil Primaria y Secundaria",
+    "codigo": "26001456"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4449,
+     42.4615
+    ]
+   },
+   "properties": {
+    "nombre": "CPEIPS Nuestra Señora del Buen Consejo",
+    "direccion": "General Vara de Rey, 35",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26002",
+    "latitud": 42.4615,
+    "longitud": -2.4449,
+    "tipo_centro": "Centro Privado de Educación Infantil Primaria y Secundaria",
+    "codigo": "26001468"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4428,
+     42.4634
+    ]
+   },
+   "properties": {
+    "nombre": "CPEIPS Purísima Concepción y Santa María Micaela",
+    "direccion": "Avenida Juan XXIII, 10",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26003",
+    "latitud": 42.4634,
+    "longitud": -2.4428,
+    "tipo_centro": "Centro Privado de Educación Infantil Primaria y Secundaria",
+    "codigo": "26001471"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.462,
+     42.4468
+    ]
+   },
+   "properties": {
+    "nombre": "CPEIPS Salesianos Domingo Savio",
+    "direccion": "Camino de San Adrián, 22",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26006",
+    "latitud": 42.4468,
+    "longitud": -2.462,
+    "tipo_centro": "Centro Privado de Educación Infantil Primaria y Secundaria",
+    "codigo": "26001481"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4304,
+     42.4632
+    ]
+   },
+   "properties": {
+    "nombre": "CPC La Inmaculada",
+    "direccion": "Avenida de la Paz, 100",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26004",
+    "latitud": 42.4632,
+    "longitud": -2.4304,
+    "tipo_centro": "Centro Privado Concertado",
+    "codigo": "26001501"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4369,
+     42.4619
+    ]
+   },
+   "properties": {
+    "nombre": "IES Hermanos D Elhuyar",
+    "direccion": "Albia de Castro, 9",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26003",
+    "latitud": 42.4619,
+    "longitud": -2.4369,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "26001559"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4428,
+     42.4656
+    ]
+   },
+   "properties": {
+    "nombre": "IES Práxedes Mateo Sagasta",
+    "direccion": "Glorieta del Doctor Zubía, S/N",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26003",
+    "latitud": 42.4656,
+    "longitud": -2.4428,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "26001560"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4158,
+     42.4501
+    ]
+   },
+   "properties": {
+    "nombre": "CPEIPS Santa María - Marianistas",
+    "direccion": "Camino de Puente Madre, 2",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26006",
+    "latitud": 42.4501,
+    "longitud": -2.4158,
+    "tipo_centro": "Centro Privado de Educación Infantil y Secundaria",
+    "codigo": "26001584"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4158,
+     42.4501
+    ]
+   },
+   "properties": {
+    "nombre": "CPC Santa María - Marianistas",
+    "direccion": "Camino de Puente Madre, 2",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26006",
+    "latitud": 42.4501,
+    "longitud": -2.4158,
+    "tipo_centro": "Centro Privado Concertado",
+    "codigo": "26001584"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4526,
+     42.4551
+    ]
+   },
+   "properties": {
+    "nombre": "IES Inventor Cosme García",
+    "direccion": "Avenida República Argentina, 68",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26002",
+    "latitud": 42.4551,
+    "longitud": -2.4526,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "26001596"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4335,
+     42.4671
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Madre de Dios",
+    "direccion": "Cantabria, S/N",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26004",
+    "latitud": 42.4671,
+    "longitud": -2.4335,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26001626"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4294,
+     42.4698
+    ]
+   },
+   "properties": {
+    "nombre": "IES Comercio",
+    "direccion": "Paseo del Prior, 97",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26004",
+    "latitud": 42.4698,
+    "longitud": -2.4294,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "26001638"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4072,
+     42.4625
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Varia",
+    "direccion": "Torrecillas, 7",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26006",
+    "latitud": 42.4625,
+    "longitud": -2.4072,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26001717"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.3246,
+     42.4051
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Don Eladio del Campo Íñiguez",
+    "direccion": "Jesús Ruiz del Río, 10",
+    "poblacion": "Murillo de Río Leza",
+    "municipio": "Murillo de Río Leza",
+    "codigo_postal": "26143",
+    "latitud": 42.4051,
+    "longitud": -2.3246,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26001791"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.731,
+     42.4144
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP San Fernando",
+    "direccion": "Paseo San Julián, 19",
+    "poblacion": "Nájera",
+    "municipio": "Nájera",
+    "codigo_postal": "26300",
+    "latitud": 42.4144,
+    "longitud": -2.731,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26001811"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.7341,
+     42.4152
+    ]
+   },
+   "properties": {
+    "nombre": "CPEIPS Nuestra Señora de la Piedad",
+    "direccion": "Cantarranas, 19",
+    "poblacion": "Nájera",
+    "municipio": "Nájera",
+    "codigo_postal": "26300",
+    "latitud": 42.4152,
+    "longitud": -2.7341,
+    "tipo_centro": "Centro Privado de Educación Infantil Primaria y Secundaria",
+    "codigo": "26001821"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.7195,
+     42.4196
+    ]
+   },
+   "properties": {
+    "nombre": "IES Esteban Manuel Villegas",
+    "direccion": "Carretera de Huércanos, S/N",
+    "poblacion": "Nájera",
+    "municipio": "Nájera",
+    "codigo_postal": "26300",
+    "latitud": 42.4196,
+    "longitud": -2.7195,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "26001845"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.558,
+     42.4261
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Nuestra Señora del Sagrario",
+    "direccion": "Carretera de Entrena, S/N",
+    "poblacion": "Navarrete",
+    "municipio": "Navarrete",
+    "codigo_postal": "26370",
+    "latitud": 42.4261,
+    "longitud": -2.558,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26001894"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.0701,
+     42.3323
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP José Ortega Valderrama",
+    "direccion": "La Fuente, 23",
+    "poblacion": "Pradejón",
+    "municipio": "Pradejón",
+    "codigo_postal": "26510",
+    "latitud": 42.3323,
+    "longitud": -2.0701,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26002023"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.854,
+     42.2362
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Eduardo González Gallarza (Rincón de Soto)",
+    "direccion": "Avenida de Aldeanueva, 2",
+    "poblacion": "Rincón de Soto",
+    "municipio": "Rincón de Soto",
+    "codigo_postal": "26550",
+    "latitud": 42.2362,
+    "longitud": -1.854,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26002096"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.7488,
+     42.5168
+    ]
+   },
+   "properties": {
+    "nombre": "CPES La Salle - La Estrella",
+    "direccion": "La Estrella, 5",
+    "poblacion": "San Asensio",
+    "municipio": "San Asensio",
+    "codigo_postal": "26340",
+    "latitud": 42.5168,
+    "longitud": -2.7488,
+    "tipo_centro": "Centro Privado de Educación Secundaria",
+    "codigo": "26002138"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.9525,
+     42.436
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Beato Jerónimo Hermosilla",
+    "direccion": "Carretera de Gallinero, 3",
+    "poblacion": "Santo Domingo de la Calzada",
+    "municipio": "Santo Domingo de la Calzada",
+    "codigo_postal": "26250",
+    "latitud": 42.436,
+    "longitud": -2.9525,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26002199"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.9544,
+     42.4418
+    ]
+   },
+   "properties": {
+    "nombre": "CPEIP Sagrados Corazones",
+    "direccion": "Cristo, 15",
+    "poblacion": "Santo Domingo de la Calzada",
+    "municipio": "Santo Domingo de la Calzada",
+    "codigo_postal": "26250",
+    "latitud": 42.4418,
+    "longitud": -2.9544,
+    "tipo_centro": "Centro Privado de Educación Infantil y Primaria",
+    "codigo": "26002205"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.9524,
+     42.4353
+    ]
+   },
+   "properties": {
+    "nombre": "IES Valle del Oja",
+    "direccion": "Carretera de Gallinero, S/N",
+    "poblacion": "Santo Domingo de la Calzada",
+    "municipio": "Santo Domingo de la Calzada",
+    "codigo_postal": "26250",
+    "latitud": 42.4353,
+    "longitud": -2.9524,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "26002230"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4168,
+     42.4231
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Gonzalo de Berceo",
+    "direccion": "Albina Balda, S/N",
+    "poblacion": "Villamediana de Iregua",
+    "municipio": "Villamediana de Iregua",
+    "codigo_postal": "26142",
+    "latitud": 42.4231,
+    "longitud": -2.4168,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26002473"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.8445,
+     42.5725
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Nuestra Señora de la Vega",
+    "direccion": "Gonzalo de Berceo, S/N",
+    "poblacion": "Haro",
+    "municipio": "Haro",
+    "codigo_postal": "26200",
+    "latitud": 42.5725,
+    "longitud": -2.8445,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26002588"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.9613,
+     42.419
+    ]
+   },
+   "properties": {
+    "nombre": "CPES Menesiano",
+    "direccion": "Carretera de Ezcaray, S/N",
+    "poblacion": "Santo Domingo de la Calzada",
+    "municipio": "Santo Domingo de la Calzada",
+    "codigo_postal": "26250",
+    "latitud": 42.419,
+    "longitud": -2.9613,
+    "tipo_centro": "Centro Privado de Educación Secundaria",
+    "codigo": "26002692"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.7243,
+     42.4186
+    ]
+   },
+   "properties": {
+    "nombre": "IES Rey Don García",
+    "direccion": "Carretera de Uruñuela, 2",
+    "poblacion": "Nájera",
+    "municipio": "Nájera",
+    "codigo_postal": "26300",
+    "latitud": 42.4186,
+    "longitud": -2.7243,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "26002710"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4599,
+     42.465
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Milenario de la Lengua",
+    "direccion": "Ramírez de Velasco, S/N",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26005",
+    "latitud": 42.465,
+    "longitud": -2.4599,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26002734"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4619,
+     42.4615
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Doctor Castroviejo",
+    "direccion": "Duques de Nájera, 113",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26005",
+    "latitud": 42.4615,
+    "longitud": -2.4619,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26002761"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4291,
+     42.4618
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Obispo Blanco Nájera",
+    "direccion": "Duquesa de la Victoria, S/N",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26004",
+    "latitud": 42.4618,
+    "longitud": -2.4291,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26002771"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4259,
+     42.4673
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Caballero de la Rosa",
+    "direccion": "Madre de Dios, 51",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26006",
+    "latitud": 42.4673,
+    "longitud": -2.4259,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26002795"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.7207,
+     42.4197
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Sancho III El Mayor",
+    "direccion": "Carretera de Huércanos, 8",
+    "poblacion": "Nájera",
+    "municipio": "Nájera",
+    "codigo_postal": "26300",
+    "latitud": 42.4197,
+    "longitud": -2.7207,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26002825"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.5092,
+     42.4498
+    ]
+   },
+   "properties": {
+    "nombre": "CEE Marqués de Vallejo",
+    "direccion": "Carretera de Burgos , KM 4,5",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26006",
+    "latitud": 42.4498,
+    "longitud": -2.5092,
+    "tipo_centro": "Centro de Educación Especial",
+    "codigo": "26002849"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4357,
+     42.4636
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Duquesa de la Victoria",
+    "direccion": "Duquesa de la Victoria, 64",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26004",
+    "latitud": 42.4636,
+    "longitud": -2.4357,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26002850"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4615,
+     42.4667
+    ]
+   },
+   "properties": {
+    "nombre": "IES Escultor Daniel",
+    "direccion": "Gonzalo de Berceo, 49",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26005",
+    "latitud": 42.4667,
+    "longitud": -2.4615,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "26002862"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.1016,
+     42.2248
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP La Estación",
+    "direccion": "Avenida Reyes Católicos, 8",
+    "poblacion": "Arnedo",
+    "municipio": "Arnedo",
+    "codigo_postal": "26580",
+    "latitud": 42.2248,
+    "longitud": -2.1016,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26002898"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4605,
+     42.4644
+    ]
+   },
+   "properties": {
+    "nombre": "Conservatorio Profesional de Música Eliseo Pinedo",
+    "direccion": "Marqu s de Murrieta, 76",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26005",
+    "latitud": 42.4644,
+    "longitud": -2.4605,
+    "tipo_centro": "Conservatorio Profesional de Música",
+    "codigo": "26002928"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4338,
+     42.4596
+    ]
+   },
+   "properties": {
+    "nombre": "CEPA Plus Ultra",
+    "direccion": "Madre de Dios, 1",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26004",
+    "latitud": 42.4596,
+    "longitud": -2.4338,
+    "tipo_centro": "Centro Público de Educación de Personas Adultas",
+    "codigo": "26002941"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4507,
+     42.4793
+    ]
+   },
+   "properties": {
+    "nombre": "CPEIPS Alcaste",
+    "direccion": "Carretera de Laguardia, KM 1",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26006",
+    "latitud": 42.4793,
+    "longitud": -2.4507,
+    "tipo_centro": "Centro Privado de Educación Infantil Primaria y Secundaria",
+    "codigo": "26002953"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9588,
+     42.3048
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Ángel Oliván",
+    "direccion": "Plaza Eras, S/N",
+    "poblacion": "Calahorra",
+    "municipio": "Calahorra",
+    "codigo_postal": "26500",
+    "latitud": 42.3048,
+    "longitud": -1.9588,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26002977"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9716,
+     42.3051
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Quintiliano",
+    "direccion": "Antonio Machado, 1",
+    "poblacion": "Calahorra",
+    "municipio": "Calahorra",
+    "codigo_postal": "26500",
+    "latitud": 42.3051,
+    "longitud": -1.9716,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26002989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4437,
+     42.4597
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP General Espartero",
+    "direccion": "Calle Belchite, 19",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26003",
+    "latitud": 42.4597,
+    "longitud": -2.4437,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26002990"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.456,
+     42.4622
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Vélez de Guevara",
+    "direccion": "Vélez de Guevara, 33",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26005",
+    "latitud": 42.4622,
+    "longitud": -2.456,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26003003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.748,
+     42.1769
+    ]
+   },
+   "properties": {
+    "nombre": "CPEIPS La Salle - El Pilar",
+    "direccion": "Plaza Bretón, 1",
+    "poblacion": "Alfaro",
+    "municipio": "Alfaro",
+    "codigo_postal": "26540",
+    "latitud": 42.1769,
+    "longitud": -1.748,
+    "tipo_centro": "Centro Privado de Educación Infantil Primaria y Secundaria",
+    "codigo": "26003040"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4603,
+     42.4683
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Escultor Vicente Ochoa",
+    "direccion": "Poniente, 9",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26005",
+    "latitud": 42.4683,
+    "longitud": -2.4603,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26003064"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9592,
+     42.3051
+    ]
+   },
+   "properties": {
+    "nombre": "Conservatorio Elemental de Música de Calahorra",
+    "direccion": "Carretil, S/N",
+    "poblacion": "Calahorra",
+    "municipio": "Calahorra",
+    "codigo_postal": "26500",
+    "latitud": 42.3051,
+    "longitud": -1.9592,
+    "tipo_centro": "Conservatorio Elemental de Música",
+    "codigo": "26003076"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4612,
+     42.4625
+    ]
+   },
+   "properties": {
+    "nombre": "IES Duques de Nájera",
+    "direccion": "Duques de Nájera, 100",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26005",
+    "latitud": 42.4625,
+    "longitud": -2.4612,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "26003088"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4331,
+     42.4594
+    ]
+   },
+   "properties": {
+    "nombre": "EOI Fuero de Logroño",
+    "direccion": "General Sanjurjo, 4",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26004",
+    "latitud": 42.4594,
+    "longitud": -2.4331,
+    "tipo_centro": "Escuela Oficial de Idiomas",
+    "codigo": "26003091"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.7243,
+     42.4186
+    ]
+   },
+   "properties": {
+    "nombre": "EOI Logroño (Extensión Nájera)",
+    "direccion": "Carretera de Uruñuela, 2",
+    "poblacion": "Nájera",
+    "municipio": "Nájera",
+    "codigo_postal": "",
+    "latitud": 42.4186,
+    "longitud": -2.7243,
+    "tipo_centro": "Escuela Oficial de Idiomas",
+    "codigo": "26003091"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.9524,
+     42.4353
+    ]
+   },
+   "properties": {
+    "nombre": "EOI Logroño (Extensión Santo Domingo de la Calzada)",
+    "direccion": "Carretera de Gallinero, S/N",
+    "poblacion": "Santo Domingo de la Calzada",
+    "municipio": "Santo Domingo de la Calzada",
+    "codigo_postal": "",
+    "latitud": 42.4353,
+    "longitud": -2.9524,
+    "tipo_centro": "Escuela Oficial de Idiomas",
+    "codigo": "26003091"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4597,
+     42.4586
+    ]
+   },
+   "properties": {
+    "nombre": "IES Tomás Mingot",
+    "direccion": "Siete Infantes de Lara, 1",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26007",
+    "latitud": 42.4586,
+    "longitud": -2.4597,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "26003209"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4518,
+     42.4571
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Las Gaunas (educación primaria)",
+    "direccion": "Avenida República Argentina, 62",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26006",
+    "latitud": 42.4571,
+    "longitud": -2.4518,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26003210"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4576,
+     42.4583
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Las Gaunas (educación infantil)",
+    "direccion": "Chile, 42",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26006",
+    "latitud": 42.4583,
+    "longitud": -2.4576,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26003210"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9581,
+     42.3006
+    ]
+   },
+   "properties": {
+    "nombre": "CEP A San Francisco",
+    "direccion": "Rasillo San Francisco, S/N",
+    "poblacion": "Calahorra",
+    "municipio": "Calahorra",
+    "codigo_postal": "26500",
+    "latitud": 42.3006,
+    "longitud": -1.9581,
+    "tipo_centro": "Centro Público de Educación de Personas Adultas",
+    "codigo": "26003301"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9647,
+     42.3059
+    ]
+   },
+   "properties": {
+    "nombre": "EOI Calahorra",
+    "direccion": "Basconia, S/N",
+    "poblacion": "Calahorra",
+    "municipio": "Calahorra",
+    "codigo_postal": "26500",
+    "latitud": 42.3059,
+    "longitud": -1.9647,
+    "tipo_centro": "Escuela Oficial de Idiomas",
+    "codigo": "26003313"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.0997,
+     42.2226
+    ]
+   },
+   "properties": {
+    "nombre": "EOI Calahorra (Extensión Arnedo)",
+    "direccion": "Avenida Deportiva, S/N",
+    "poblacion": "Arnedo",
+    "municipio": "Arnedo",
+    "codigo_postal": "",
+    "latitud": 42.2226,
+    "longitud": -2.0997,
+    "tipo_centro": "Escuela Oficial de Idiomas",
+    "codigo": "26003313"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.7519,
+     42.1801
+    ]
+   },
+   "properties": {
+    "nombre": "EOI Calahorra (Extensión Alfaro)",
+    "direccion": "Paseo de la Florida, 25",
+    "poblacion": "Alfaro",
+    "municipio": "Alfaro",
+    "codigo_postal": "",
+    "latitud": 42.1801,
+    "longitud": -1.7519,
+    "tipo_centro": "Escuela Oficial de Idiomas",
+    "codigo": "26003313"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.7589,
+     42.5649
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Entreviñas (Base-San Vicente de la Sonsierra)",
+    "direccion": "El Remedio, S/N",
+    "poblacion": "San Vicente de la Sonsierra",
+    "municipio": "San Vicente de la Sonsierra",
+    "codigo_postal": "26338",
+    "latitud": 42.5649,
+    "longitud": -2.7589,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003374"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.7131,
+     42.5714
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Entreviñas (Ábalos)",
+    "direccion": "El Ramal, S/N",
+    "poblacion": "Ábalos",
+    "municipio": "Ábalos",
+    "codigo_postal": "",
+    "latitud": 42.5714,
+    "longitud": -2.7131,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003374"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.7803,
+     42.544
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Entreviñas (Briones)",
+    "direccion": "Cuesta Dulce, S/N",
+    "poblacion": "Briones",
+    "municipio": "Briones",
+    "codigo_postal": "",
+    "latitud": 42.544,
+    "longitud": -2.7803,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003374"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.7502,
+     42.4998
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Entreviñas (San Asensio)",
+    "direccion": "Avenida de La Rioja, 37",
+    "poblacion": "San Asensio",
+    "municipio": "San Asensio",
+    "codigo_postal": "",
+    "latitud": 42.4998,
+    "longitud": -2.7502,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003374"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.6283,
+     42.2562
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Cameros Nuevo (Base-Torrecilla en Cameros)",
+    "direccion": "Carretera de Logroño, S/N",
+    "poblacion": "Torrecilla en Cameros",
+    "municipio": "Torrecilla en Cameros",
+    "codigo_postal": "",
+    "latitud": 42.2562,
+    "longitud": -2.6283,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003386"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.7054,
+     42.1747
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Cameros Nuevo (Ortigosa de Cameros)",
+    "direccion": "Cirujales, S/N",
+    "poblacion": "Ortigosa de Cameros",
+    "municipio": "Ortigosa de Cameros",
+    "codigo_postal": "",
+    "latitud": 42.1747,
+    "longitud": -2.7054,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003386"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.6739,
+     42.1142
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Cameros Nuevo (Villoslada de Cameros)",
+    "direccion": "Plaza La Solana, 9",
+    "poblacion": "Villoslada de Cameros",
+    "municipio": "Villoslada de Cameros",
+    "codigo_postal": "",
+    "latitud": 42.1142,
+    "longitud": -2.6739,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003386"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.708,
+     42.4428
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Cuenca del Najerilla (Base-Uruñuela)",
+    "direccion": "Avenida Juan Carlos I, S/N",
+    "poblacion": "Uruñuela",
+    "municipio": "Uruñuela",
+    "codigo_postal": "26313",
+    "latitud": 42.4428,
+    "longitud": -2.708,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003398"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.8174,
+     42.4122
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Cuenca del Najerilla (Alesanco)",
+    "direccion": "Escuelas, 7",
+    "poblacion": "Alesanco",
+    "municipio": "Alesanco",
+    "codigo_postal": "",
+    "latitud": 42.4122,
+    "longitud": -2.8174,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003398"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.7165,
+     42.3874
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Cuenca del Najerilla (Arenzana de Abajo)",
+    "direccion": "Tricio, 1",
+    "poblacion": "Arenzana de Abajo",
+    "municipio": "Arenzana de Abajo",
+    "codigo_postal": "",
+    "latitud": 42.3874,
+    "longitud": -2.7165,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003398"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.723,
+     42.354
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Cuenca del Najerilla (Camprovín)",
+    "direccion": "Plaza de la Iglesia, 1",
+    "poblacion": "Camprovín",
+    "municipio": "Camprovín",
+    "codigo_postal": "",
+    "latitud": 42.354,
+    "longitud": -2.723,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003398"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.7726,
+     42.4388
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Cuenca del Najerilla (Hormilla)",
+    "direccion": "Pecho Santa Ana, 24",
+    "poblacion": "Hormilla",
+    "municipio": "Hormilla",
+    "codigo_postal": "",
+    "latitud": 42.4388,
+    "longitud": -2.7726,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003398"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.6951,
+     42.4268
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Cuenca del Najerilla (Huércanos)",
+    "direccion": "Muelo, 9",
+    "poblacion": "Huércanos",
+    "municipio": "Huércanos",
+    "codigo_postal": "",
+    "latitud": 42.4268,
+    "longitud": -2.6951,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003398"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.7181,
+     42.4009
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Cuenca del Najerilla (Tricio)",
+    "direccion": "Salera, S/N",
+    "poblacion": "Tricio",
+    "municipio": "Tricio",
+    "codigo_postal": "",
+    "latitud": 42.4009,
+    "longitud": -2.7181,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003398"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.0122,
+     42.0727
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Valle del Linares (Base-Igea)",
+    "direccion": "Mayor, 201",
+    "poblacion": "Igea",
+    "municipio": "Igea",
+    "codigo_postal": "26525",
+    "latitud": 42.0727,
+    "longitud": -2.0122,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003416"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.0922,
+     42.0673
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Valle del Linares (Cornago)",
+    "direccion": "Camino de las Máquinas, 6",
+    "poblacion": "Cornago",
+    "municipio": "Cornago",
+    "codigo_postal": "",
+    "latitud": 42.0673,
+    "longitud": -2.0922,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003416"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9692,
+     42.0504
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Valle del Linares (Rincón de Olivedo)",
+    "direccion": "Carretera de Igea, S/N",
+    "poblacion": "Rincón de Olivedo o Las Casas",
+    "municipio": "Rincón de Olivedo o Las Casas",
+    "codigo_postal": "",
+    "latitud": 42.0504,
+    "longitud": -1.9692,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003416"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9999,
+     42.1079
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Valle del Linares (Grávalos)",
+    "direccion": null,
+    "poblacion": "Grávalos",
+    "municipio": "Grávalos",
+    "codigo_postal": "",
+    "latitud": 42.1079,
+    "longitud": -1.9999,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003416"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.95,
+     42.0067
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Alhama (Base-Cervera del Río Alhama)",
+    "direccion": "San Miguel, S/N",
+    "poblacion": "Cervera del Río Alhama",
+    "municipio": "Cervera del Río Alhama",
+    "codigo_postal": "26520",
+    "latitud": 42.0067,
+    "longitud": -1.95,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003428"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9938,
+     41.9631
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Alhama (Aguilar del Río Alhama)",
+    "direccion": "Jiménez Montero, 15",
+    "poblacion": "Aguilar del Río Alhama",
+    "municipio": "Aguilar del Río Alhama",
+    "codigo_postal": "",
+    "latitud": 41.9631,
+    "longitud": -1.9938,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003428"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.867,
+     41.9803
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Alhama (Valverde)",
+    "direccion": "Carretera de Cervera, S/N",
+    "poblacion": "Valverde",
+    "municipio": "Valverde",
+    "codigo_postal": "",
+    "latitud": 41.9803,
+    "longitud": -1.867,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003428"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.456,
+     42.4692
+    ]
+   },
+   "properties": {
+    "nombre": "IES Batalla de Clavijo",
+    "direccion": "General Urrutia, 4",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26005",
+    "latitud": 42.4692,
+    "longitud": -2.456,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "26003441"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4865,
+     42.3346
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Moncalvillo (Nalda)",
+    "direccion": "Plaza de la Tela, S/N",
+    "poblacion": "Nalda",
+    "municipio": "Nalda",
+    "codigo_postal": "26190",
+    "latitud": 42.3346,
+    "longitud": -2.4865,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003465"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.5286,
+     42.3864
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Moncalvillo (Entrena)",
+    "direccion": "Avenida de La Rioja, 23",
+    "poblacion": "Entrena",
+    "municipio": "Entrena",
+    "codigo_postal": "",
+    "latitud": 42.3864,
+    "longitud": -2.5286,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003465"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.5547,
+     42.3834
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Moncalvillo (Medrano)",
+    "direccion": "Barrera, 17",
+    "poblacion": "Medrano",
+    "municipio": "Medrano",
+    "codigo_postal": "",
+    "latitud": 42.3834,
+    "longitud": -2.5547,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003465"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.5292,
+     42.3436
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Moncalvillo (Sorzano)",
+    "direccion": "de la Fuente, 2",
+    "poblacion": "Sorzano",
+    "municipio": "Sorzano",
+    "codigo_postal": "",
+    "latitud": 42.3436,
+    "longitud": -2.5292,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003465"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.5338,
+     42.308
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Moncalvillo (Viguera)",
+    "direccion": "Plaza de España, 2",
+    "poblacion": "Viguera",
+    "municipio": "Viguera",
+    "codigo_postal": "",
+    "latitud": 42.308,
+    "longitud": -2.5338,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003465"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.8099,
+     42.368
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Entrevalles (Base-Badarán)",
+    "direccion": "Los Hoyos, S/N",
+    "poblacion": "Badarán",
+    "municipio": "Badarán",
+    "codigo_postal": "26310",
+    "latitud": 42.368,
+    "longitud": -2.8099,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003477"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.7733,
+     42.2585
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Entrevalles (Anguiano)",
+    "direccion": "Plaza del Sol, 14",
+    "poblacion": "Anguiano",
+    "municipio": "Anguiano",
+    "codigo_postal": "",
+    "latitud": 42.2585,
+    "longitud": -2.7733,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003477"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.7595,
+     42.3178
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Entrevalles (Bobadilla)",
+    "direccion": "Plaza Mayor, S/N",
+    "poblacion": "Bobadilla",
+    "municipio": "Bobadilla",
+    "codigo_postal": "",
+    "latitud": 42.3178,
+    "longitud": -2.7595,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003477"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.8593,
+     42.3304
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Entrevalles (San Millán de la Cogolla)",
+    "direccion": "Carretera de Estollo, S/N",
+    "poblacion": "San Millán de la Cogolla",
+    "municipio": "San Millán de la Cogolla",
+    "codigo_postal": "",
+    "latitud": 42.3304,
+    "longitud": -2.8593,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003477"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.8895,
+     42.152
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Entrevalles (Viniegra de Abajo)",
+    "direccion": "Plaza Elías Romero Marull, S/N",
+    "poblacion": "Viniegra de Abajo",
+    "municipio": "Viniegra de Abajo",
+    "codigo_postal": "",
+    "latitud": 42.152,
+    "longitud": -2.8895,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003477"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.9294,
+     42.5117
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Valle Oja-Tirón (Base-Castañares de Rioja)",
+    "direccion": "Miguel Villanueva, 39",
+    "poblacion": "Castañares de Rioja",
+    "municipio": "Castañares de Rioja",
+    "codigo_postal": "26240",
+    "latitud": 42.5117,
+    "longitud": -2.9294,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003490"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.899,
+     42.5736
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Valle Oja-Tirón (Anguciana)",
+    "direccion": "Doctores Castroviejo, S/N",
+    "poblacion": "Anguciana",
+    "municipio": "Anguciana",
+    "codigo_postal": "",
+    "latitud": 42.5736,
+    "longitud": -2.899,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003490"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.9796,
+     42.3898
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Valle Oja-Tirón (Santurde de Rioja)",
+    "direccion": "Plaza Fundador, 1",
+    "poblacion": "Santurde de Rioja",
+    "municipio": "Santurde de Rioja",
+    "codigo_postal": "",
+    "latitud": 42.3898,
+    "longitud": -2.9796,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003490"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.9651,
+     42.544
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Valle Oja-Tirón (Cuzcurrita de Río Tirón)",
+    "direccion": "San Sebastián, S/N",
+    "poblacion": "Cuzcurrita de Río Tirón",
+    "municipio": "Cuzcurrita de Río Tirón",
+    "codigo_postal": "",
+    "latitud": 42.544,
+    "longitud": -2.9651,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26003490"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.7519,
+     42.1801
+    ]
+   },
+   "properties": {
+    "nombre": "IES Gonzalo de Berceo",
+    "direccion": "Paseo de la Florida, 25",
+    "poblacion": "Alfaro",
+    "municipio": "Alfaro",
+    "codigo_postal": "26540",
+    "latitud": 42.1801,
+    "longitud": -1.7519,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "26003507"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.8503,
+     42.5767
+    ]
+   },
+   "properties": {
+    "nombre": "Conservatorio Elemental de Música Lucrecia Arana ",
+    "direccion": "Virgen de la Vega, 36",
+    "poblacion": "Haro",
+    "municipio": "Haro",
+    "codigo_postal": "26200",
+    "latitud": 42.5767,
+    "longitud": -2.8503,
+    "tipo_centro": "Conservatorio Elemental de Música",
+    "codigo": "26003520"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.0169,
+     42.327
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP San Lorenzo",
+    "direccion": "Doctor Eliseo Cadarso, 1",
+    "poblacion": "Ezcaray",
+    "municipio": "Ezcaray",
+    "codigo_postal": "26280",
+    "latitud": 42.327,
+    "longitud": -3.0169,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26003532"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.9525,
+     42.436
+    ]
+   },
+   "properties": {
+    "nombre": "CEPA Rioja Alta",
+    "direccion": "Carretera de Gallinero, 3",
+    "poblacion": "Santo Domingo de la Calzada",
+    "municipio": "Santo Domingo de la Calzada",
+    "codigo_postal": "26250",
+    "latitud": 42.436,
+    "longitud": -2.9525,
+    "tipo_centro": "Centro Público de Educación de Personas Adultas",
+    "codigo": "26003556"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.0997,
+     42.2226
+    ]
+   },
+   "properties": {
+    "nombre": "CEPA Arnedo",
+    "direccion": "Avenida Deportiva, S/N",
+    "poblacion": "Arnedo",
+    "municipio": "Arnedo",
+    "codigo_postal": "26580",
+    "latitud": 42.2226,
+    "longitud": -2.0997,
+    "tipo_centro": "Centro Público de Educación de Personas Adultas",
+    "codigo": "26003568"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.7519,
+     42.1801
+    ]
+   },
+   "properties": {
+    "nombre": "CEPA Alfaro",
+    "direccion": "Paseo de la Florida, 25",
+    "poblacion": "Alfaro",
+    "municipio": "Alfaro",
+    "codigo_postal": "26540",
+    "latitud": 42.1801,
+    "longitud": -1.7519,
+    "tipo_centro": "Centro Público de Educación de Personas Adultas",
+    "codigo": "26003571"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.5646,
+     42.4708
+    ]
+   },
+   "properties": {
+    "nombre": "IES Francisco Tomás y Valiente",
+    "direccion": "Avenida Príncipe de Asturias, 5",
+    "poblacion": "Fuenmayor",
+    "municipio": "Fuenmayor",
+    "codigo_postal": "26360",
+    "latitud": 42.4708,
+    "longitud": -2.5646,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "26003581"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4588,
+     42.4594
+    ]
+   },
+   "properties": {
+    "nombre": "Píccolo y Saxo",
+    "direccion": "Barrera, 18",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26005",
+    "latitud": 42.4594,
+    "longitud": -2.4588,
+    "tipo_centro": "Escuela Privada de Música",
+    "codigo": "26003611"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9515,
+     42.006
+    ]
+   },
+   "properties": {
+    "nombre": "SIES Cervera del Río Alhama",
+    "direccion": "San Miguel, S/N",
+    "poblacion": "Cervera del Río Alhama",
+    "municipio": "Cervera del Río Alhama",
+    "codigo_postal": "26520",
+    "latitud": 42.006,
+    "longitud": -1.9515,
+    "tipo_centro": "Sección de Instituto de Educación Secundaria",
+    "codigo": "26003635"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.0701,
+     42.3323
+    ]
+   },
+   "properties": {
+    "nombre": "SIES de Pradejón",
+    "direccion": "La Fuente, 23",
+    "poblacion": "Pradejón",
+    "municipio": "Pradejón",
+    "codigo_postal": "26510",
+    "latitud": 42.3323,
+    "longitud": -2.0701,
+    "tipo_centro": "Sección de Instituto de Educación Secundaria",
+    "codigo": "26003647"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.8538,
+     42.236
+    ]
+   },
+   "properties": {
+    "nombre": "SIES del I.E.S Gonzalo de Berceo",
+    "direccion": "Avenida de La Rioja, 83",
+    "poblacion": "Rincón de Soto",
+    "municipio": "Rincón de Soto",
+    "codigo_postal": "26550",
+    "latitud": 42.236,
+    "longitud": -1.8538,
+    "tipo_centro": "Sección de Instituto de Educación Secundaria",
+    "codigo": "26003659"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.7584,
+     42.3319
+    ]
+   },
+   "properties": {
+    "nombre": "SIES Baños de Río Tobía",
+    "direccion": "Monseñor Martínez Somalo, S/N",
+    "poblacion": "Baños de Río Tobía",
+    "municipio": "Baños de Río Tobía",
+    "codigo_postal": "26320",
+    "latitud": 42.3319,
+    "longitud": -2.7584,
+    "tipo_centro": "Sección de Instituto de Educación Secundaria",
+    "codigo": "26003660"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.7243,
+     42.4186
+    ]
+   },
+   "properties": {
+    "nombre": "CEPA Nájera",
+    "direccion": "Carretera de Uruñuela, 2",
+    "poblacion": "Nájera",
+    "municipio": "Nájera",
+    "codigo_postal": "26300",
+    "latitud": 42.4186,
+    "longitud": -2.7243,
+    "tipo_centro": "Centro Público de Educación de Personas Adultas",
+    "codigo": "26003684"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.2908,
+     42.4445
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Las Cuatro Villas (Base-Agoncillo)",
+    "direccion": "José María de la Vega, 36",
+    "poblacion": "Agoncillo",
+    "municipio": "Agoncillo",
+    "codigo_postal": "26509",
+    "latitud": 42.4445,
+    "longitud": -2.2908,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26007744"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.2518,
+     42.4325
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Las Cuatro Villas (Arrúbal)",
+    "direccion": "Escuelas, S/N",
+    "poblacion": "Arrúbal",
+    "municipio": "Arrúbal",
+    "codigo_postal": "",
+    "latitud": 42.4325,
+    "longitud": -2.2518,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26007744"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.3875,
+     42.3525
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Las Cuatro Villas (Ribafrecha)",
+    "direccion": "Las Parras, S/N",
+    "poblacion": "Ribafrecha",
+    "municipio": "Ribafrecha",
+    "codigo_postal": "",
+    "latitud": 42.3525,
+    "longitud": -2.3875,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26007744"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.475,
+     42.2317
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Las Cuatro Villas (San Román de Cameros)",
+    "direccion": "Diego Ágreda, 1",
+    "poblacion": "San Román de Cameros",
+    "municipio": "San Román de Cameros",
+    "codigo_postal": "",
+    "latitud": 42.2317,
+    "longitud": -2.475,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26007744"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.1655,
+     42.3417
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Vista La Hez (Base-Ausejo)",
+    "direccion": "Camino del Cementerio, 2",
+    "poblacion": "Ausejo",
+    "municipio": "Ausejo",
+    "codigo_postal": "26513",
+    "latitud": 42.3417,
+    "longitud": -2.1655,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26007756"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.1173,
+     42.4048
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Vista La Hez (Alcanadre)",
+    "direccion": "Tejadas, 62",
+    "poblacion": "Alcanadre",
+    "municipio": "Alcanadre",
+    "codigo_postal": "",
+    "latitud": 42.4048,
+    "longitud": -2.1173,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26007756"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.2208,
+     42.3411
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Vista La Hez (Corera)",
+    "direccion": "Mayor, 18",
+    "poblacion": "Corera",
+    "municipio": "Corera",
+    "codigo_postal": "",
+    "latitud": 42.3411,
+    "longitud": -2.2208,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26007756"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.0983,
+     42.3217
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Vista La Hez (El Villar de Arnedo)",
+    "direccion": "Santo Cristo, S/N",
+    "poblacion": "El Villar de Arnedo",
+    "municipio": "El Villar de Arnedo",
+    "codigo_postal": "",
+    "latitud": 42.3217,
+    "longitud": -2.0983,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26007756"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.2364,
+     42.3472
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Vista La Hez (Galilea)",
+    "direccion": "Eduardo Fernandéz Balmaseda, 6",
+    "poblacion": "Galilea",
+    "municipio": "Galilea",
+    "codigo_postal": "",
+    "latitud": 42.3472,
+    "longitud": -2.2364,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26007756"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.1159,
+     42.2993
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Vista La Hez (Tudelilla)",
+    "direccion": "Riachuelo, 39",
+    "poblacion": "Tudelilla",
+    "municipio": "Tudelilla",
+    "codigo_postal": "",
+    "latitud": 42.2993,
+    "longitud": -2.1159,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26007756"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.2351,
+     42.2122
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Alto Cidacos (Base-Arnedillo)",
+    "direccion": "Joaquín Velasco, S/N",
+    "poblacion": "Arnedillo",
+    "municipio": "Arnedillo",
+    "codigo_postal": "26589",
+    "latitud": 42.2122,
+    "longitud": -2.2351,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26007768"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.2706,
+     42.1479
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Alto Cidacos (Enciso)",
+    "direccion": "Portillo, 23",
+    "poblacion": "Enciso",
+    "municipio": "Enciso",
+    "codigo_postal": "",
+    "latitud": 42.1479,
+    "longitud": -2.2706,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26007768"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.1673,
+     42.2136
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Alto Cidacos (Herce)",
+    "direccion": "Fray Anastasio Lobera, S/N",
+    "poblacion": "Herce",
+    "municipio": "Herce",
+    "codigo_postal": "",
+    "latitud": 42.2136,
+    "longitud": -2.1673,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26007768"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.178,
+     42.189
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Alto Cidacos (Préjano)",
+    "direccion": "Carretera, S/N",
+    "poblacion": "Préjano",
+    "municipio": "Préjano",
+    "codigo_postal": "",
+    "latitud": 42.189,
+    "longitud": -2.178,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "26007768"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.0528,
+     42.2283
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Sáenz de Tejada",
+    "direccion": "Avenida del Ferrocarril, 134",
+    "poblacion": "Quel",
+    "municipio": "Quel",
+    "codigo_postal": "26570",
+    "latitud": 42.2283,
+    "longitud": -2.0528,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26007771"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.462,
+     42.4592
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Siete Infantes de Lara",
+    "direccion": "Sancho el Mayor, 1",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26000",
+    "latitud": 42.4592,
+    "longitud": -2.462,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26007781"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.102,
+     42.2269
+    ]
+   },
+   "properties": {
+    "nombre": "EMM Agustín Ruiz",
+    "direccion": "Carrera, 9",
+    "poblacion": "Arnedo",
+    "municipio": "Arnedo",
+    "codigo_postal": "26580",
+    "latitud": 42.2269,
+    "longitud": -2.102,
+    "tipo_centro": "Escuela Pública de Música",
+    "codigo": "26007793"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.7489,
+     42.18
+    ]
+   },
+   "properties": {
+    "nombre": "EMM Marqués de Orovio",
+    "direccion": "La Sardina, de, S/N",
+    "poblacion": "Alfaro",
+    "municipio": "Alfaro",
+    "codigo_postal": "26540",
+    "latitud": 42.18,
+    "longitud": -1.7489,
+    "tipo_centro": "Escuela Pública de Música",
+    "codigo": "26007801"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4507,
+     42.4793
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Entreviñas del Plano",
+    "direccion": "Carretera de Laguardia, KM 1",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26000",
+    "latitud": 42.4793,
+    "longitud": -2.4507,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26007823"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4502,
+     42.4608
+    ]
+   },
+   "properties": {
+    "nombre": "EPM Musicalia",
+    "direccion": "María Teresa Gil de Gárate , 54",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "",
+    "latitud": 42.4608,
+    "longitud": -2.4502,
+    "tipo_centro": "Escuela Privada de Música",
+    "codigo": "26007835"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4323,
+     42.4683
+    ]
+   },
+   "properties": {
+    "nombre": "EPM Musicalia",
+    "direccion": "Plaza Fermín Gurbindo, 9",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "",
+    "latitud": 42.4683,
+    "longitud": -2.4323,
+    "tipo_centro": "Escuela Privada de Música",
+    "codigo": "26007835"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.8523,
+     42.5758
+    ]
+   },
+   "properties": {
+    "nombre": "EMM Harense",
+    "direccion": "Tenerías, S/N",
+    "poblacion": "Haro",
+    "municipio": "Haro",
+    "codigo_postal": "26200",
+    "latitud": 42.5758,
+    "longitud": -2.8523,
+    "tipo_centro": "Escuela Pública de Música",
+    "codigo": "26007847"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9581,
+     42.3006
+    ]
+   },
+   "properties": {
+    "nombre": "EMM Maestro Arroyo",
+    "direccion": "Rasillo de San Francisco, S/N",
+    "poblacion": "Calahorra",
+    "municipio": "Calahorra",
+    "codigo_postal": "26500",
+    "latitud": 42.3006,
+    "longitud": -1.9581,
+    "tipo_centro": "Escuela Pública de Música",
+    "codigo": "26007859"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4498,
+     42.466
+    ]
+   },
+   "properties": {
+    "nombre": "EMM Logroño",
+    "direccion": "Once de Junio, 2",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26001",
+    "latitud": 42.466,
+    "longitud": -2.4498,
+    "tipo_centro": "Escuela Pública de Música",
+    "codigo": "26007860"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4366,
+     42.4693
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI El Parque",
+    "direccion": "Madre de Dios, 16",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26004",
+    "latitud": 42.4693,
+    "longitud": -2.4366,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26007872"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.0063,
+     42.2148
+    ]
+   },
+   "properties": {
+    "nombre": "EMM Maestro Pinilla",
+    "direccion": "Plaza del Moral, 14",
+    "poblacion": "Autol",
+    "municipio": "Autol",
+    "codigo_postal": "26560",
+    "latitud": 42.2148,
+    "longitud": -2.0063,
+    "tipo_centro": "Escuela Pública de Música",
+    "codigo": "26007884"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.0697,
+     42.333
+    ]
+   },
+   "properties": {
+    "nombre": "EMM Guillermo Miranda",
+    "direccion": "Plaza de la Constitución, 1",
+    "poblacion": "Pradejón",
+    "municipio": "Pradejón",
+    "codigo_postal": "26510",
+    "latitud": 42.333,
+    "longitud": -2.0697,
+    "tipo_centro": "Escuela Pública de Música",
+    "codigo": "26007896"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.8895,
+     42.2279
+    ]
+   },
+   "properties": {
+    "nombre": "EMM Aldenueva de Ebro",
+    "direccion": "Díaz de Rada, 7",
+    "poblacion": "Aldeanueva de Ebro",
+    "municipio": "Aldeanueva de Ebro",
+    "codigo_postal": "26559",
+    "latitud": 42.2279,
+    "longitud": -1.8895,
+    "tipo_centro": "Escuela Pública de Música",
+    "codigo": "26007902"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4644000000000674,
+     42.461030000930506
+    ]
+   },
+   "properties": {
+    "nombre": "Centro Privado de Educación Infantil Ding-Dong",
+    "direccion": "C/ Rio Isla, 2",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26008",
+    "latitud": 42.461030000930506,
+    "longitud": -2.4644000000000674,
+    "tipo_centro": "Centro Privado de Educación Infantil",
+    "codigo": "26007926",
+    "geocodificado": "portal"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4369,
+     42.4542
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Chiquitines",
+    "direccion": "Avenida Lope de Vega, 37",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26006",
+    "latitud": 42.4542,
+    "longitud": -2.4369,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26007938"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4581,
+     42.4576
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Sol y Luna",
+    "direccion": "Avenida Club Deportivo, 54",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26006",
+    "latitud": 42.4576,
+    "longitud": -2.4581,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26007963"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4741,
+     42.4691
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Ricuras",
+    "direccion": "Calle Suecia , 2",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26007",
+    "latitud": 42.4691,
+    "longitud": -2.4741,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26007987"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.9072,
+     42.5475
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Casalarreina",
+    "direccion": "Las Escuelas, S/N",
+    "poblacion": "Casalarreina",
+    "municipio": "Casalarreina",
+    "codigo_postal": "26230",
+    "latitud": 42.5475,
+    "longitud": -2.9072,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26007999"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4541,
+     42.4505
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP La Guindalera",
+    "direccion": "Nestares, 4",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26007",
+    "latitud": 42.4505,
+    "longitud": -2.4541,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26008001"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4692,
+     42.4637
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Pompitas",
+    "direccion": "Calle Carretil, 10",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26007",
+    "latitud": 42.4637,
+    "longitud": -2.4692,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008013"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4647,
+     42.4647
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Cuenta Cuentos",
+    "direccion": "Eibar, 7",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26007",
+    "latitud": 42.4647,
+    "longitud": -2.4647,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008025"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.724,
+     42.4206
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCM Reina Estefanía",
+    "direccion": "None, PARCELA 3B R5 DEL SECTOR",
+    "poblacion": "Nájera",
+    "municipio": "Nájera",
+    "codigo_postal": "26300",
+    "latitud": 42.4206,
+    "longitud": -2.724,
+    "tipo_centro": "Escuela Infantil Primer Ciclo Municipal",
+    "codigo": "26008037"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.420840000000068,
+     42.45977000093049
+    ]
+   },
+   "properties": {
+    "nombre": "Centro Privado de Educación Infantil Los Lirios",
+    "direccion": "Parque de los Lirios 13-14 Bajo",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26006",
+    "latitud": 42.45977000093049,
+    "longitud": -2.420840000000068,
+    "tipo_centro": "Centro Privado de Educación Infantil",
+    "codigo": "26008049",
+    "geocodificado": "portal"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4514,
+     42.4659
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCM La Casa Cuna",
+    "direccion": "Plaza Diversidad, 3",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26001",
+    "latitud": 42.4659,
+    "longitud": -2.4514,
+    "tipo_centro": "Escuela Infantil Primer Ciclo Municipal",
+    "codigo": "26008050"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4606,
+     42.461
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Disneylandia",
+    "direccion": "Duques de Nájera, 88",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26005",
+    "latitud": 42.461,
+    "longitud": -2.4606,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008062"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4565,
+     42.4653
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Luna Lunera",
+    "direccion": "Calle Industria, 4",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26005",
+    "latitud": 42.4653,
+    "longitud": -2.4565,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008074"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4351,
+     42.4664
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI D Acuarela",
+    "direccion": "Calle Alcalde Emilio Francés, 28",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26004",
+    "latitud": 42.4664,
+    "longitud": -2.4351,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008098"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4312,
+     42.4556
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Arco Iris",
+    "direccion": "Antonio de Nebrija, 4",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26006",
+    "latitud": 42.4556,
+    "longitud": -2.4312,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008104"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4583,
+     42.4581
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Colorín Colorado",
+    "direccion": "Pintor Sorolla, 5",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26006",
+    "latitud": 42.4581,
+    "longitud": -2.4583,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008128"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.293,
+     42.4487
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCM Piruleta",
+    "direccion": "Tomás de la Cruz, S/N",
+    "poblacion": "Agoncillo",
+    "municipio": "Agoncillo",
+    "codigo_postal": "26160",
+    "latitud": 42.4487,
+    "longitud": -2.293,
+    "tipo_centro": "Escuela Infantil Primer Ciclo Municipal",
+    "codigo": "26008131"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.6471,
+     42.4821
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCM El Trenecito",
+    "direccion": "Paseo de los Labradores, 23",
+    "poblacion": "Cenicero",
+    "municipio": "Cenicero",
+    "codigo_postal": "26350",
+    "latitud": 42.4821,
+    "longitud": -2.6471,
+    "tipo_centro": "Escuela Infantil Primer Ciclo Municipal",
+    "codigo": "26008141"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4547,
+     42.4519
+    ]
+   },
+   "properties": {
+    "nombre": "Federacion Riojana de Fútbol",
+    "direccion": "Avenida del Moncalvillo, 1",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "",
+    "latitud": 42.4519,
+    "longitud": -2.4547,
+    "tipo_centro": "Centro Privado Autorizado de Enseñanzas Deportivas",
+    "codigo": "26008153"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4627,
+     42.4576
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Dreams",
+    "direccion": "Sancho El Mayor, 5",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26007",
+    "latitud": 42.4576,
+    "longitud": -2.4627,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008165"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4787,
+     42.4573
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP El Arco",
+    "direccion": "Manuel de Falla, 20",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26007",
+    "latitud": 42.4573,
+    "longitud": -2.4787,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26008177"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4573,
+     42.4361
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Villa Patro",
+    "direccion": "Río Linares, 2",
+    "poblacion": "Lardero",
+    "municipio": "Lardero",
+    "codigo_postal": "26140",
+    "latitud": 42.4361,
+    "longitud": -2.4573,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "26008189"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.7588,
+     42.5645
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCM San Pelayo",
+    "direccion": "calle Donantes de SAngre, 6",
+    "poblacion": "San Vicente de la Sonsierra",
+    "municipio": "San Vicente de la Sonsierra",
+    "codigo_postal": "26338",
+    "latitud": 42.5645,
+    "longitud": -2.7588,
+    "tipo_centro": "Escuela Infantil Primer Ciclo Municipal",
+    "codigo": "26008190"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.9554,
+     42.4409
+    ]
+   },
+   "properties": {
+    "nombre": "CIPFP Camino de Santiago (Escuela de Hostelería de La Rioja)",
+    "direccion": "Mayor, 83",
+    "poblacion": "Santo Domingo de la Calzada",
+    "municipio": "Santo Domingo de la Calzada",
+    "codigo_postal": "26250",
+    "latitud": 42.4409,
+    "longitud": -2.9554,
+    "tipo_centro": "Centro Público Integrado de Formación Profesional",
+    "codigo": "26008207"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4408,
+     42.4664
+    ]
+   },
+   "properties": {
+    "nombre": "ESD Escuela Superior de Diseño",
+    "direccion": "Avenida de la Paz, 9",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26004",
+    "latitud": 42.4664,
+    "longitud": -2.4408,
+    "tipo_centro": "Escuela Superior de Diseño",
+    "codigo": "26008219"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4493,
+     42.4542
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Piñata",
+    "direccion": "Diego Velázquez, 5",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26007",
+    "latitud": 42.4542,
+    "longitud": -2.4493,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008220"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4637,
+     42.4717
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCM El Cubo",
+    "direccion": "Segundo Santo Tomás, 6",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26005",
+    "latitud": 42.4717,
+    "longitud": -2.4637,
+    "tipo_centro": "Escuela Infantil Primer Ciclo Municipal",
+    "codigo": "26008232"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4797,
+     42.4581
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCM El Arco",
+    "direccion": "Joaquín Turina, 2",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26007",
+    "latitud": 42.4581,
+    "longitud": -2.4797,
+    "tipo_centro": "Escuela Infantil Primer Ciclo Municipal",
+    "codigo": "26008244"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4372,
+     42.4651
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Los Pitufos",
+    "direccion": "Avenida de la Paz, 25",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26004",
+    "latitud": 42.4651,
+    "longitud": -2.4372,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008256"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4613,
+     42.4675
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI A Gatas",
+    "direccion": "Luis Barrón, 58",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26005",
+    "latitud": 42.4675,
+    "longitud": -2.4613,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008268"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4674,
+     42.4659
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI La Noria II",
+    "direccion": "Portillejo, 31",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26007",
+    "latitud": 42.4659,
+    "longitud": -2.4674,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008281"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4419,
+     42.4633
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Olyma Garden",
+    "direccion": "Calle Ciriaco Garrido, 2",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26003",
+    "latitud": 42.4633,
+    "longitud": -2.4419,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008301"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4451,
+     42.4598
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Cole Petete",
+    "direccion": "Oviedo, 2",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26003",
+    "latitud": 42.4598,
+    "longitud": -2.4451,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008311"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4432,
+     42.4681
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Entrepuentes",
+    "direccion": "Calle la Cadena, 16",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26001",
+    "latitud": 42.4681,
+    "longitud": -2.4432,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008323"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4561,
+     42.463
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Caramelo",
+    "direccion": "Avenida Pérez Galdós, 69",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26005",
+    "latitud": 42.463,
+    "longitud": -2.4561,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008347"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4539,
+     42.4611
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Nannys",
+    "direccion": "Plaza Primero de Mayo, 17",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26002",
+    "latitud": 42.4611,
+    "longitud": -2.4539,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008359"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4472,
+     42.4586
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Pin y Pon",
+    "direccion": "Huesca, 1",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26002",
+    "latitud": 42.4586,
+    "longitud": -2.4472,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008372"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.7512,
+     42.1817
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCCAR La Florida",
+    "direccion": "Calle la Estrella, 3",
+    "poblacion": "Alfaro",
+    "municipio": "Alfaro",
+    "codigo_postal": "26540",
+    "latitud": 42.1817,
+    "longitud": -1.7512,
+    "tipo_centro": "Escuela Infantil Primer Ciclo CAR",
+    "codigo": "26008384"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.1101,
+     42.2225
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCCAR Nuestra Señora de Vico",
+    "direccion": "Avenida del Cidacos, 22",
+    "poblacion": "Arnedo",
+    "municipio": "Arnedo",
+    "codigo_postal": "26580",
+    "latitud": 42.2225,
+    "longitud": -2.1101,
+    "tipo_centro": "Escuela Infantil Primer Ciclo CAR",
+    "codigo": "26008396"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9662,
+     42.3056
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCCAR Nuestra Señora del Carmen",
+    "direccion": "Calle General Gallarza, 26",
+    "poblacion": "Calahorra",
+    "municipio": "Calahorra",
+    "codigo_postal": "26500",
+    "latitud": 42.3056,
+    "longitud": -1.9662,
+    "tipo_centro": "Escuela Infantil Primer Ciclo CAR",
+    "codigo": "26008402"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4314,
+     42.4596
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCCAR Carrusel",
+    "direccion": "Calle Obispo Rubio Montiel, 4",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26004",
+    "latitud": 42.4596,
+    "longitud": -2.4314,
+    "tipo_centro": "Escuela Infantil Primer Ciclo CAR",
+    "codigo": "26008414"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.8442,
+     42.5731
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCCAR Las Luces",
+    "direccion": "Calle Gonzalo de Berceo, 10",
+    "poblacion": "Haro",
+    "municipio": "Haro",
+    "codigo_postal": "26200",
+    "latitud": 42.5731,
+    "longitud": -2.8442,
+    "tipo_centro": "Escuela Infantil Primer Ciclo CAR",
+    "codigo": "26008426"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.8482,
+     42.2311
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCCAR Príncipe Felipe",
+    "direccion": "Avenida Río Alfaro, 1",
+    "poblacion": "Rincón de Soto",
+    "municipio": "Rincón de Soto",
+    "codigo_postal": "26550",
+    "latitud": 42.2311,
+    "longitud": -1.8482,
+    "tipo_centro": "Escuela Infantil Primer Ciclo CAR",
+    "codigo": "26008438"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.7285,
+     42.42
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Aladín",
+    "direccion": "Río Ebro, 6",
+    "poblacion": "Nájera",
+    "municipio": "Nájera",
+    "codigo_postal": "26300",
+    "latitud": 42.42,
+    "longitud": -2.7285,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008441"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4362,
+     42.467
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Do Re Mi",
+    "direccion": "Calle Ateneo Riojano, 20",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26004",
+    "latitud": 42.467,
+    "longitud": -2.4362,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008451"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.8502,
+     42.5712
+    ]
+   },
+   "properties": {
+    "nombre": "IES Manuel Bartolomé Cossío",
+    "direccion": "El Mazo, 11",
+    "poblacion": "Haro",
+    "municipio": "Haro",
+    "codigo_postal": "26200",
+    "latitud": 42.5712,
+    "longitud": -2.8502,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "26008475"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.0018,
+     42.2173
+    ]
+   },
+   "properties": {
+    "nombre": "CEO Villa de Autol",
+    "direccion": "Donantes de Sangre, 2",
+    "poblacion": "Autol",
+    "municipio": "Autol",
+    "codigo_postal": "26560",
+    "latitud": 42.2173,
+    "longitud": -2.0018,
+    "tipo_centro": "Centro de Educación Obligatoria",
+    "codigo": "26008499"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.7603,
+     42.3349
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Nuestra Señora del Pilar",
+    "direccion": "Calle José Alonso Tejada, 1",
+    "poblacion": "Baños de Río Tobía",
+    "municipio": "Baños de Río Tobía",
+    "codigo_postal": "26320",
+    "latitud": 42.3349,
+    "longitud": -2.7603,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008505"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4287,
+     42.4571
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Trompín",
+    "direccion": "Tirso de Molina, 12",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26006",
+    "latitud": 42.4571,
+    "longitud": -2.4287,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008517"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.44,
+     42.4678
+    ]
+   },
+   "properties": {
+    "nombre": "CPFPE Ciencias Radiológicas",
+    "direccion": "Capitán Gaona, 2",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26007",
+    "latitud": 42.4678,
+    "longitud": -2.44,
+    "tipo_centro": "Centro Privado de Formación Profesional Específica",
+    "codigo": "26008529"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4495,
+     42.4599
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Soletes",
+    "direccion": "Avenida República Argentina, 27",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "",
+    "latitud": 42.4599,
+    "longitud": -2.4495,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008530"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4741,
+     42.3581
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCM Nuestra Señora de Bueyo",
+    "direccion": "Plaza Mayor, 9",
+    "poblacion": "Albelda de Iregua",
+    "municipio": "Albelda de Iregua",
+    "codigo_postal": "26120",
+    "latitud": 42.3581,
+    "longitud": -2.4741,
+    "tipo_centro": "Escuela Infantil Primer Ciclo Municipal",
+    "codigo": "26008542"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4365,
+     42.4057
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCM Mercedes Benito",
+    "direccion": "Travesía Trasera del Cerrado, 4",
+    "poblacion": "Alberite",
+    "municipio": "Alberite",
+    "codigo_postal": "26141",
+    "latitud": 42.4057,
+    "longitud": -2.4365,
+    "tipo_centro": "Escuela Infantil Primer Ciclo Municipal",
+    "codigo": "26008554"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.1183,
+     42.4054
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCM Daniel Alonso",
+    "direccion": "Parque Virgen de Aradón, 1",
+    "poblacion": "Alcanadre",
+    "municipio": "Alcanadre",
+    "codigo_postal": "26509",
+    "latitud": 42.4054,
+    "longitud": -2.1183,
+    "tipo_centro": "Escuela Infantil Primer Ciclo Municipal",
+    "codigo": "26008566"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.1702,
+     42.3459
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCM Pelusín",
+    "direccion": "Posadas, 4",
+    "poblacion": "Ausejo",
+    "municipio": "Ausejo",
+    "codigo_postal": "26513",
+    "latitud": 42.3459,
+    "longitud": -2.1702,
+    "tipo_centro": "Escuela Infantil Primer Ciclo Municipal",
+    "codigo": "26008578"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.0009,
+     42.2169
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCM Dino",
+    "direccion": "Paseo del Cidacos, S/N",
+    "poblacion": "Autol",
+    "municipio": "Autol",
+    "codigo_postal": "26560",
+    "latitud": 42.2169,
+    "longitud": -2.0009,
+    "tipo_centro": "Escuela Infantil Primer Ciclo Municipal",
+    "codigo": "26008581"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9663,
+     42.3106
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCM Santos Mártires",
+    "direccion": "Plaza Maestro Arroyo, S/N",
+    "poblacion": "Calahorra",
+    "municipio": "Calahorra",
+    "codigo_postal": "26500",
+    "latitud": 42.3106,
+    "longitud": -1.9663,
+    "tipo_centro": "Escuela Infantil Primer Ciclo Municipal",
+    "codigo": "26008591"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.5643,
+     42.4691
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCM Gloria Fuertes",
+    "direccion": "Calle Cañas, S/N",
+    "poblacion": "Fuenmayor",
+    "municipio": "Fuenmayor",
+    "codigo_postal": "26360",
+    "latitud": 42.4691,
+    "longitud": -2.5643,
+    "tipo_centro": "Escuela Infantil Primer Ciclo Municipal",
+    "codigo": "26008608"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.2365,
+     42.3472
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCM Coletitas y Cuquín",
+    "direccion": "Calle Eduardo Fernández Balmaseda, 5",
+    "poblacion": "Galilea",
+    "municipio": "Galilea",
+    "codigo_postal": "26144",
+    "latitud": 42.3472,
+    "longitud": -2.2365,
+    "tipo_centro": "Escuela Infantil Primer Ciclo Municipal",
+    "codigo": "26008611"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4585,
+     42.4259
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCM Los Almendros",
+    "direccion": "Los Almendros, 16",
+    "poblacion": "Lardero",
+    "municipio": "Lardero",
+    "codigo_postal": "26140",
+    "latitud": 42.4259,
+    "longitud": -2.4585,
+    "tipo_centro": "Escuela Infantil Primer Ciclo Municipal",
+    "codigo": "26008621"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4506,
+     42.4571
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCM Chispita",
+    "direccion": "Avenida República Argentina, 53",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26002",
+    "latitud": 42.4571,
+    "longitud": -2.4506,
+    "tipo_centro": "Escuela Infantil Primer Ciclo Municipal",
+    "codigo": "26008633"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.325,
+     42.4045
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCM Eladio del Campo",
+    "direccion": "Calle Jesús Ruiz del Río, 8",
+    "poblacion": "Murillo de Río Leza",
+    "municipio": "Murillo de Río Leza",
+    "codigo_postal": "26143",
+    "latitud": 42.4045,
+    "longitud": -2.325,
+    "tipo_centro": "Escuela Infantil Primer Ciclo Municipal",
+    "codigo": "26008645"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.5588,
+     42.4264
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCM Las Santitas",
+    "direccion": "Niabina, 5",
+    "poblacion": "Navarrete",
+    "municipio": "Navarrete",
+    "codigo_postal": "26370",
+    "latitud": 42.4264,
+    "longitud": -2.5588,
+    "tipo_centro": "Escuela Infantil Primer Ciclo Municipal",
+    "codigo": "26008657"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.0688,
+     42.3321
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCM La Alegría",
+    "direccion": "Vadillos, 13",
+    "poblacion": "Pradejón",
+    "municipio": "Pradejón",
+    "codigo_postal": "26510",
+    "latitud": 42.3321,
+    "longitud": -2.0688,
+    "tipo_centro": "Escuela Infantil Primer Ciclo Municipal",
+    "codigo": "26008669"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.9525,
+     42.436
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCM Virgen de la Plaza",
+    "direccion": "Miguel de Estete, 3",
+    "poblacion": "Santo Domingo de la Calzada",
+    "municipio": "Santo Domingo de la Calzada",
+    "codigo_postal": "26250",
+    "latitud": 42.436,
+    "longitud": -2.9525,
+    "tipo_centro": "Escuela Infantil Primer Ciclo Municipal",
+    "codigo": "26008670"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4178,
+     42.423
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCM Gonzalo de Berceo",
+    "direccion": "Portillo, 19",
+    "poblacion": "Villamediana de Iregua",
+    "municipio": "Villamediana de Iregua",
+    "codigo_postal": "26142",
+    "latitud": 42.423,
+    "longitud": -2.4178,
+    "tipo_centro": "Escuela Infantil Primer Ciclo Municipal",
+    "codigo": "26008682"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9504,
+     42.0065
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCM San Miguel",
+    "direccion": "Calle San Miguel, S/N",
+    "poblacion": "Cervera del Río Alhama",
+    "municipio": "Cervera del Río Alhama",
+    "codigo_postal": "26520",
+    "latitud": 42.0065,
+    "longitud": -1.9504,
+    "tipo_centro": "Escuela Infantil Primer Ciclo Municipal",
+    "codigo": "26008694"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4691,
+     42.4605
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI Coquitos",
+    "direccion": "Rodejón, 34",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26007",
+    "latitud": 42.4605,
+    "longitud": -2.4691,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008712"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.8513,
+     42.5731
+    ]
+   },
+   "properties": {
+    "nombre": "EOI Haro",
+    "direccion": "Plaza Bartolomé Cossío, S/N",
+    "poblacion": "Haro",
+    "municipio": "Haro",
+    "codigo_postal": "26200",
+    "latitud": 42.5731,
+    "longitud": -2.8513,
+    "tipo_centro": "Escuela Oficial de Idiomas",
+    "codigo": "26008724"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.0137,
+     42.3269
+    ]
+   },
+   "properties": {
+    "nombre": "EIPCM Villa de Ezcaray",
+    "direccion": "Avenida de Navarra, 1",
+    "poblacion": "Ezcaray",
+    "municipio": "Ezcaray",
+    "codigo_postal": "26280",
+    "latitud": 42.3269,
+    "longitud": -3.0137,
+    "tipo_centro": "Escuela Infantil Primer Ciclo Municipal",
+    "codigo": "26008736"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4516,
+     42.45
+    ]
+   },
+   "properties": {
+    "nombre": "Montessori SchoolHouse Logroño",
+    "direccion": "Los Guindos, 1",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26007",
+    "latitud": 42.45,
+    "longitud": -2.4516,
+    "tipo_centro": "Centro Docente Privado Extranjero en España",
+    "codigo": "26008748"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.8511699999996314,
+     42.235040000929885
+    ]
+   },
+   "properties": {
+    "nombre": "Escuela Pública de Música Rincon de Soto",
+    "direccion": "Plaza Gonzalez Gallarza 7",
+    "poblacion": "Rincón de Soto",
+    "municipio": "Rincón de Soto",
+    "codigo_postal": "26550",
+    "latitud": 42.235040000929885,
+    "longitud": -1.8511699999996314,
+    "tipo_centro": "Escuela Pública de Música",
+    "codigo": "26008751",
+    "geocodificado": "portal"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4263,
+     42.4549
+    ]
+   },
+   "properties": {
+    "nombre": "CPCEI La Casita de Coco",
+    "direccion": "Valderuga, 14",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26006",
+    "latitud": 42.4549,
+    "longitud": -2.4263,
+    "tipo_centro": "Centro Docente Primer Ciclo Educación Infantil",
+    "codigo": "26008761"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.3246,
+     42.4051
+    ]
+   },
+   "properties": {
+    "nombre": "SIES Murillo de Río Leza",
+    "direccion": "Jesús Ruíz del Río, 10",
+    "poblacion": "Murillo de Río Leza",
+    "municipio": "Murillo de Río Leza",
+    "codigo_postal": "26143",
+    "latitud": 42.4051,
+    "longitud": -2.3246,
+    "tipo_centro": "Sección de Instituto de Educación Secundaria",
+    "codigo": "26008773"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.8816,
+     42.2285
+    ]
+   },
+   "properties": {
+    "nombre": "SIES Aldeanueva de Ebro",
+    "direccion": "Presidente Adolfo Suárez, 8",
+    "poblacion": "Aldeanueva de Ebro",
+    "municipio": "Aldeanueva de Ebro",
+    "codigo_postal": "26559",
+    "latitud": 42.2285,
+    "longitud": -1.8816,
+    "tipo_centro": "Sección de Instituto de Educación Secundaria",
+    "codigo": "26008785"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.0169,
+     42.327
+    ]
+   },
+   "properties": {
+    "nombre": "SIES Ezcaray",
+    "direccion": "Eliseo Cadarso, 1",
+    "poblacion": "Ezcaray",
+    "municipio": "Ezcaray",
+    "codigo_postal": "26280",
+    "latitud": 42.327,
+    "longitud": -3.0169,
+    "tipo_centro": "Sección de Instituto de Educación Secundaria",
+    "codigo": "26008797"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4552000000000667,
+     42.452980000930474
+    ]
+   },
+   "properties": {
+    "nombre": "Centro Privado Autorizado de Enseñanzas Deportivas Escuela Deportiva de la Federacion Riojana de Natacion",
+    "direccion": "Avenida Moncalvillo, 2 (Edificio Federaciones)",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26008",
+    "latitud": 42.452980000930474,
+    "longitud": -2.4552000000000667,
+    "tipo_centro": "Centro Privado Autorizado de Enseñanzas Deportivas",
+    "codigo": "26008803",
+    "geocodificado": "portal"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.432,
+     42.4642
+    ]
+   },
+   "properties": {
+    "nombre": "Cuarto Creciente Montessori School",
+    "direccion": "Calle Beatos Mena y Navarrete, 6",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26004",
+    "latitud": 42.4642,
+    "longitud": -2.432,
+    "tipo_centro": "Centro Docente Privado Extranjero en España",
+    "codigo": "26008827"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.747753027265378,
+     42.49519721474657
+    ]
+   },
+   "properties": {
+    "nombre": "Escuela de Musica de San Asensio",
+    "direccion": "Calle José Iturmendi, Número 11",
+    "poblacion": "San Asensio",
+    "municipio": "San Asensio",
+    "codigo_postal": "26340",
+    "latitud": 42.49519721474657,
+    "longitud": -2.747753027265378,
+    "tipo_centro": "Escuela de Música",
+    "codigo": "26008852",
+    "geocodificado": "calle"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4338,
+     42.4596
+    ]
+   },
+   "properties": {
+    "nombre": "Centro Integrado Público de Formación Profesional a Distancia de la Rioja",
+    "direccion": "Avenida Lobete, 17",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26003",
+    "latitud": 42.4596,
+    "longitud": -2.4338,
+    "tipo_centro": "Centro Público Integrado de Formación Profesional",
+    "codigo": "26008864"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4163,
+     42.4238
+    ]
+   },
+   "properties": {
+    "nombre": "SIES Villamediana de Iregua",
+    "direccion": "Calle El Palomar",
+    "poblacion": "Villamediana de Iregua",
+    "municipio": "Villamediana de Iregua",
+    "codigo_postal": "26142",
+    "latitud": 42.4238,
+    "longitud": -2.4163,
+    "tipo_centro": "Sección de Instituto de Educación Secundaria",
+    "codigo": "26008876"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.459160000000067,
+     42.451180000930485
+    ]
+   },
+   "properties": {
+    "nombre": "Centro Privado de Educación Infantil El Viñedo Magico",
+    "direccion": "Medrano 2, Bis",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "26008",
+    "latitud": 42.451180000930485,
+    "longitud": -2.459160000000067,
+    "tipo_centro": "Centro Privado de Educación Infantil",
+    "codigo": "26008888",
+    "geocodificado": "portal"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.953019064241028,
+     42.441561370843814
+    ]
+   },
+   "properties": {
+    "nombre": "Escuela Municipal de Musica de Santo Domongo de la Calzada",
+    "direccion": "Pllaza de España, Nº 6",
+    "poblacion": "Santo Domingo de la Calzada",
+    "municipio": "Santo Domingo de la Calzada",
+    "codigo_postal": "26250",
+    "latitud": 42.441561370843814,
+    "longitud": -2.953019064241028,
+    "tipo_centro": "Escuela de Música",
+    "codigo": "26008891",
+    "geocodificado": "calle"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.8896399999997089,
+     42.22780000092989
+    ]
+   },
+   "properties": {
+    "nombre": "Escuela Municipal de Educación Infantil Primeros Pasos",
+    "direccion": "Díaz de Rada, 2",
+    "poblacion": "Aldeanueva de Ebro",
+    "municipio": "Aldeanueva de Ebro",
+    "codigo_postal": "26559",
+    "latitud": 42.22780000092989,
+    "longitud": -1.8896399999997089,
+    "tipo_centro": "Escuela Municipal de Educación Infantil",
+    "codigo": "26008906",
+    "geocodificado": "portal"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.5282700000000617,
+     42.3873200009303
+    ]
+   },
+   "properties": {
+    "nombre": "Escuela Municipal de Educación Infantil Santa Ana",
+    "direccion": "Las Escuelas, 15",
+    "poblacion": "Entrena",
+    "municipio": "Entrena",
+    "codigo_postal": "26375",
+    "latitud": 42.3873200009303,
+    "longitud": -2.5282700000000617,
+    "tipo_centro": "Escuela Municipal de Educación Infantil",
+    "codigo": "26008918",
+    "geocodificado": "portal"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4566,
+     42.4582
+    ]
+   },
+   "properties": {
+    "nombre": "CEE Equipo Apoyo Atención al Invidente ONCE",
+    "direccion": "Chile, 31",
+    "poblacion": "Logroño",
+    "municipio": "Logroño",
+    "codigo_postal": "",
+    "latitud": 42.4582,
+    "longitud": -2.4566,
+    "tipo_centro": "Centro de Educación Especial",
+    "codigo": "26500229"
+   }
+  }
+ ]
+}

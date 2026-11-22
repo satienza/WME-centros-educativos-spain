@@ -1,0 +1,34 @@
+{
+"31001377": {
+"clave": "Udal Enparantza, 2|Auritz/Burguete",
+"res": null
+},
+"31013689": {
+"clave": "Calle Larrazko, 93 Bajo (Parque Empresarial)|Ansoáin/Antsoain",
+"res": [
+42.834767086242486,
+-1.6466117550080757,
+"portal"
+]
+},
+"31013847": {
+"clave": "Calle Bardenas Reales, Número 36, Bajo|Sarriguren",
+"res": null
+},
+"31013975": {
+"clave": "Calle Aoiz, 1|Pamplona/Iruña",
+"res": [
+42.81008056009724,
+-1.6301874118622353,
+"portal"
+]
+},
+"31015017": {
+"clave": "Carretera Larragueta, S/N|Añézcar",
+"res": null
+},
+"31015285": {
+"clave": "Camino de Ardanaz, 4|Gorráiz",
+"res": null
+}
+}

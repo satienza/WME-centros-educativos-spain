@@ -1,0 +1,106 @@
+{
+"010616": {
+"clave": "Paseo de la Universidad, 11|Vitoria-Gasteiz",
+"res": [
+42.84091090969953,
+-2.6724616469988476,
+"calle"
+]
+},
+"010797": {
+"clave": "Euskaldun Berria Plaza, 2|Zigoitia",
+"res": [
+42.9606530009316,
+-2.7298660000000408,
+"portal"
+]
+},
+"012934": {
+"clave": "San Sebastián S/N 244 P.K.|Pasaia",
+"res": null
+},
+"013719": {
+"clave": "Herriko Plaza|Deba",
+"res": [
+43.27662518838528,
+-2.3326791048613087,
+"calle"
+]
+},
+"013739": {
+"clave": "Gabriel Lafitte Plaza, 3|Donostia / San Sebastián",
+"res": null
+},
+"013742": {
+"clave": "Zemoria Kalea, 20|Donostia / San Sebastián",
+"res": null
+},
+"013759": {
+"clave": "Baratzategi, 19|Donostia / San Sebastián",
+"res": null
+},
+"014633": {
+"clave": "Jose María Olavarri, 6|Bilbao",
+"res": [
+43.26058701002299,
+-2.9265824843296357,
+"calle"
+]
+},
+"015587": {
+"clave": "Txiki Otaegi, 1|Amorebieta-Etxano",
+"res": [
+43.22116500093205,
+-2.73531200000004,
+"portal"
+]
+},
+"015793": {
+"clave": "Peña Santa Marina, S/N|Getxo",
+"res": [
+43.3650965735819,
+-3.020518765333107,
+"calle"
+]
+},
+"015933": {
+"clave": "Eskuza, 4|Bilbao",
+"res": [
+43.262494000932136,
+-2.9451940000000083,
+"portal"
+]
+},
+"015964": {
+"clave": "Fdo Jiménez Miembro de Dya, 3|Bilbao",
+"res": [
+43.25062272262133,
+-2.9049370297352857,
+"calle"
+]
+},
+"015968": {
+"clave": "Larraburu, 2|Loiu",
+"res": [
+43.31758500093221,
+-2.9176350000000135,
+"portal"
+]
+},
+"015977": {
+"clave": "Plaza Párroco Elías, S/N|Santurtzi",
+"res": [
+43.332369731273275,
+-3.0389463481406604,
+"calle"
+]
+},
+"016003": {
+"clave": "Eliz-Atea, 10|Lekeitio",
+"res": [
+43.362784400069245,
+-2.5025799681858385,
+"calle"
+]
+}
+}

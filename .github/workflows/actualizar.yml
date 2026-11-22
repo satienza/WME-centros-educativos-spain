@@ -1,0 +1,63 @@
+name: Actualizar GeoJSON
+
+on:
+  schedule:
+    - cron: "0 5 * * 1" # lunes 05:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python scripts/test_comun.py
+      # Cada fuente por separado: si una falla, las demás se actualizan igual.
+      - run: python scripts/castilla_y_leon.py
+        continue-on-error: true
+      - run: python scripts/canarias.py
+        continue-on-error: true
+      - run: python scripts/galicia.py
+        continue-on-error: true
+      - run: python scripts/andalucia.py
+        continue-on-error: true
+      - run: python scripts/aragon.py
+        continue-on-error: true
+      - run: python scripts/asturias.py
+        continue-on-error: true
+      - run: python scripts/baleares.py
+        continue-on-error: true
+      - run: python scripts/cantabria.py
+        continue-on-error: true
+      - run: python scripts/castilla_la_mancha.py
+        continue-on-error: true
+      - run: python scripts/cataluna.py
+        continue-on-error: true
+      - run: python scripts/madrid.py
+        continue-on-error: true
+      - run: python scripts/valencia.py
+        continue-on-error: true
+      - run: python scripts/extremadura.py
+        continue-on-error: true
+      - run: python scripts/rioja.py
+        continue-on-error: true
+      - run: python scripts/murcia.py
+        continue-on-error: true
+      - run: python scripts/navarra.py
+        continue-on-error: true
+      - run: python scripts/pais_vasco.py
+        continue-on-error: true
+      - name: Commit si hay cambios
+        run: |
+          git add -A '*/centros.geojson' 'scripts/cache/*.json'
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Actualizar centros: $(git diff --cached --name-only | xargs -n1 dirname | paste -sd ', ' -)"
+          git push
