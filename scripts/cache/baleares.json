@@ -1,0 +1,1514 @@
+{
+"07002245": {
+"clave": "C/ ROSSELLÓ, NÚM. 3|Manacor",
+"res": [
+39.56578433240181,
+3.2034570365110024,
+"calle"
+]
+},
+"07014223": {
+"clave": "C/ PRINCIPAL, S/N|Capdepera",
+"res": [
+39.70271106184606,
+3.4318255536778364,
+"calle"
+]
+},
+"07014259": {
+"clave": "C/ FORMENTERA, S/N|Alcúdia",
+"res": [
+39.85490598974252,
+3.1262663124593346,
+"toponimo"
+]
+},
+"07014272": {
+"clave": "C/JAUME I , NÚM. 16 (Ses Cases des Mestres)|Santa Maria del Camí",
+"res": null
+},
+"07014302": {
+"clave": "C/ RAMIRO DE MAEZTU, 2|Palma",
+"res": [
+39.57782798776496,
+2.6352406480867723,
+"portal"
+]
+},
+"07014387": {
+"clave": "C/ SANT BARTOMEU, NÚM. 75|Llucmajor",
+"res": [
+39.49868952130631,
+2.7568278623147697,
+"portal"
+]
+},
+"07014399": {
+"clave": "C/ MONTSERRAT PARETS, NÚM. 27|Llucmajor",
+"res": [
+39.491034567308255,
+2.8857053747114207,
+"calle"
+]
+},
+"07014508": {
+"clave": "C/ DURETA, NÚM 5|Inca",
+"res": [
+39.72143946594658,
+2.908937222307939,
+"portal"
+]
+},
+"07014533": {
+"clave": "PLAÇA CONQUERIDOR,  NÚM. 13, 1R PIS|Artà",
+"res": [
+39.69347669641194,
+3.3489960159020367,
+"portal"
+]
+},
+"07014600": {
+"clave": "CTRA. DE SANTANYI, S/N|Felanitx",
+"res": [
+39.46330980772605,
+3.1469788319675027,
+"calle"
+]
+},
+"07014612": {
+"clave": "C/ DES CUBELLS, NÚM 15|Eivissa",
+"res": [
+38.90818879533039,
+1.419485821329231,
+"portal"
+]
+},
+"07014909": {
+"clave": "AV. MARGALIDA CALAFAT, 5|Santa Maria del Camí",
+"res": null
+},
+"07014961": {
+"clave": "C/ MANACOR 59, BAIXOS|Palma",
+"res": [
+39.5716536591015,
+2.662754651355102,
+"portal"
+]
+},
+"07014971": {
+"clave": "C/ GLADIOL, NÚM.23|Marratxí",
+"res": [
+39.61052149535237,
+2.686553639294179,
+"portal"
+]
+},
+"07014983": {
+"clave": "C/GREMI DE FORNERS, 4|Palma",
+"res": [
+39.60876194849424,
+2.664177823979173,
+"portal"
+]
+},
+"07015008": {
+"clave": "CARRER SON OLIVA, 7|Palma",
+"res": [
+39.585322543815664,
+2.6619864504123396,
+"portal"
+]
+},
+"07015011": {
+"clave": "C/ COSTETA DE LA MÚSICA, NÚM. 2|Calvià",
+"res": [
+39.56558431648513,
+2.506899467156742,
+"toponimo"
+]
+},
+"07015021": {
+"clave": "CAMÍ DE C'AN  GUIXO, NÚM. 15|Maó",
+"res": null
+},
+"07015045": {
+"clave": "CTRA.SANT MIQUEL, KM.5 APARTAT CORREUS 333|Santa Eulària des Riu",
+"res": null
+},
+"07015057": {
+"clave": "C/ D'ADRIÀ FERRÀN, 33|Palma",
+"res": null
+},
+"07015070": {
+"clave": "CAMI DE CAS JURAT, NÚM. 15|Sóller",
+"res": [
+39.769838610564406,
+2.7143078512855796,
+"calle"
+]
+},
+"07015082": {
+"clave": "C/ DE PEP FUSTER, NÚM. 1|Manacor",
+"res": [
+39.56520486899192,
+3.2157036108104866,
+"portal"
+]
+},
+"07015094": {
+"clave": "PLAZA DE BARCELONA, NÚM. 17|Palma",
+"res": [
+39.57606202845864,
+2.6460636380287488,
+"toponimo"
+]
+},
+"07015100": {
+"clave": "C/ DE LA CABANA, NÚM. 1 I 3|Marratxí",
+"res": [
+39.61959888652737,
+2.7460487999784866,
+"portal"
+]
+},
+"07015112": {
+"clave": "C/ ANTONI MARQUÈS, 26|Palma",
+"res": [
+39.57911746073707,
+2.649808322870252,
+"portal"
+]
+},
+"07015124": {
+"clave": "VIA PORTUGAL, 1A|Palma",
+"res": null
+},
+"07015151": {
+"clave": "C/ SON GIBERT, NÚM. 11 BAIXOS/ CA NA VINAGRE 11, POLÍGON SON MORRO 07007|Palma",
+"res": [
+39.58355693486259,
+2.6859435235731564,
+"portal"
+]
+},
+"07015161": {
+"clave": "C/ CANONGE PAYERAS, NÚM. 2|Inca",
+"res": [
+39.72138327100873,
+2.903354851704734,
+"calle"
+]
+},
+"07015173": {
+"clave": "C/ DE JAUME II, NÚM. 87 i 89|Inca",
+"res": [
+39.722020054190416,
+2.918467054579494,
+"portal"
+]
+},
+"07015185": {
+"clave": "ARQUITECTE G. BENNÀSAR, NÚM. 41 BAIXOS|Palma",
+"res": null
+},
+"07015197": {
+"clave": "PLAZA DE BARCELONA, NÚM. 17|Palma",
+"res": [
+39.580065018720624,
+2.639305730011274,
+"calle"
+]
+},
+"07015203": {
+"clave": "C/ PINTOR JULI RAMIS, NÚM. 10|Sóller",
+"res": [
+39.76577904843701,
+2.7253939586076954,
+"calle"
+]
+},
+"07015215": {
+"clave": "C/ RECTOR PLANES, NÚM. 38|Felanitx",
+"res": [
+39.47322399056762,
+3.145038271164519,
+"toponimo"
+]
+},
+"07015227": {
+"clave": "AV. PICASSO, NÚM. 59|Palma",
+"res": [
+39.578681497947976,
+2.626524347360351,
+"portal"
+]
+},
+"07015239": {
+"clave": "C/ VIA PÚNICA, NÚM. 12|Eivissa",
+"res": [
+38.907887515585784,
+1.4303780414927996,
+"calle"
+]
+},
+"07015240": {
+"clave": "C/ ROBERT GRAVES, 91|Palma",
+"res": [
+39.55798323122936,
+2.620626192850717,
+"portal"
+]
+},
+"07015252": {
+"clave": "C/ ROBERT GRAVES, 91|Palma",
+"res": [
+39.55798323122936,
+2.620626192850717,
+"portal"
+]
+},
+"07015264": {
+"clave": "C/ MALLORCA, 67 (IES JOSEP Mª QUADRADO)|Ciutadella",
+"res": null
+},
+"07015276": {
+"clave": "CTRA. DE VALLDEMOSSA,KM. 7.4 PARC BIT, PARCEL·LA 9C|Palma",
+"res": [
+39.59930405594342,
+2.6477844341758656,
+"calle"
+]
+},
+"07015288": {
+"clave": "C/ BALMES, NÚM. 50|Palma",
+"res": [
+39.580422964195165,
+2.6581591471374364,
+"portal"
+]
+},
+"07015291": {
+"clave": "C/ JOSEP ANTONI CABANYES, NÚM. 8|Palma",
+"res": [
+39.6007881774215,
+2.629715733487188,
+"portal"
+]
+},
+"07015306": {
+"clave": "CAMÍ DE CAS RAMONS, S/N|Sant Antoni de Portmany",
+"res": [
+39.00052845189661,
+1.3092055648596386,
+"calle"
+]
+},
+"07015367": {
+"clave": "AVINGUDA PORTO SALER, S/N|Formentera",
+"res": null
+},
+"07015380": {
+"clave": "C/ DEL CONVENT, NÚM. 13|Felanitx",
+"res": [
+39.47166055943824,
+3.145614704610293,
+"portal"
+]
+},
+"07015409": {
+"clave": "C/ CALA FIGUERA, NÚM. 10|Palma",
+"res": [
+39.59533046791726,
+2.684552154512708,
+"portal"
+]
+},
+"07015410": {
+"clave": "C/ RAFAEL SAINZ DE LA CUESTA, NÚM. 5|Santa Eulària des Riu",
+"res": [
+38.995232142842696,
+1.5368856195504939,
+"portal"
+]
+},
+"07015422": {
+"clave": "C/ GUILLEM MASSOT, NÚM. 54|Palma",
+"res": [
+39.579946936657905,
+2.6484012087223863,
+"portal"
+]
+},
+"07015458": {
+"clave": "C/ DES COS, 35|Son Servera",
+"res": [
+39.62397742189107,
+3.359454849958602,
+"portal"
+]
+},
+"07015461": {
+"clave": "CTRA VALLDEMOSSA, KM 7, PARC BIT EDIFICI EUROPA|Palma",
+"res": [
+39.59930405594342,
+2.6477844341758656,
+"calle"
+]
+},
+"07015471": {
+"clave": "CTRA. CALAS DE MALLORCA, S/N, KM 1.2 / CTRA.MA4015, KM.8,  POLÍGON  34|Manacor",
+"res": [
+39.56074096092876,
+3.214453643355198,
+"calle"
+]
+},
+"07015483": {
+"clave": "BARRIO CAN FITA,  S/N|Sant Josep de sa Talaia",
+"res": [
+38.87320914062215,
+1.343589980181822,
+"calle"
+]
+},
+"07015495": {
+"clave": "C/GENERAL RIERA,88 BAIXOS|Palma",
+"res": [
+39.58633475461919,
+2.64620521188463,
+"portal"
+]
+},
+"07015501": {
+"clave": "C/ DE CAN BARÓ, NÚM 9|Palma",
+"res": [
+39.571064096841866,
+2.631806952213459,
+"portal"
+]
+},
+"07015513": {
+"clave": "C/ JORGE SEPÚLVEDA, NÚM. 5|Palma",
+"res": [
+39.58980365143445,
+2.6450933469678817,
+"portal"
+]
+},
+"07015525": {
+"clave": "C/ TAVERNERA, 2, LOCAL 13-14|Palma",
+"res": [
+39.56963066540831,
+2.7208758617391946,
+"portal"
+]
+},
+"07015537": {
+"clave": "C/ SANT AGUSTÍ, S/N|Sant Josep de sa Talaia",
+"res": null
+},
+"07015549": {
+"clave": "C/ FRANCESC SALVÀ I PIZÀ, S/N|Marratxí",
+"res": [
+39.59288513699863,
+2.6919726445013152,
+"calle"
+]
+},
+"07015550": {
+"clave": "C/ BATLE JOSEP CANYELLES,NÚM. 9|Santa Maria del Camí",
+"res": null
+},
+"07015562": {
+"clave": "C/ DE SA CAPELLETA, NÚM. 11 BAIXOS|Eivissa",
+"res": [
+38.907018268141975,
+1.4316050677649461,
+"portal"
+]
+},
+"07015586": {
+"clave": "C/ DEL LLORER, NÚM. 1|Sa Pobla",
+"res": [
+39.80321812299133,
+3.0204057550085026,
+"portal"
+]
+},
+"07015598": {
+"clave": "C/ DE LA FÀBRICA, NÚM 2|Manacor",
+"res": [
+39.56617528079789,
+3.211767112198706,
+"portal"
+]
+},
+"07015604": {
+"clave": "AVINGUDA DELS CUBELLS, Núm. 18|Sant Josep de sa Talaia",
+"res": [
+38.920353618108656,
+1.2936161237391726,
+"portal"
+]
+},
+"07015616": {
+"clave": "C/ DE MADRID, NÚM, 49|Eivissa",
+"res": [
+38.910823455181315,
+1.4304973504966225,
+"calle"
+]
+},
+"07015628": {
+"clave": "C/ BARTOMEU OLIVER DE CAN TUNIS, NÚM 39|Palma",
+"res": [
+39.572331805395415,
+2.7167857600966965,
+"calle"
+]
+},
+"07015631": {
+"clave": "C/ SANT MARTÍ, 25 A|Vilafranca de Bonany",
+"res": [
+39.56824432313925,
+3.08739969508459,
+"portal"
+]
+},
+"07015641": {
+"clave": "C/ Guillem Cifre de Colonya, 3|Inca",
+"res": null
+},
+"07015653": {
+"clave": "AV. DE SUÈCIA I AV. DE NORUEGA, S/N|Alcúdia",
+"res": null
+},
+"07015665": {
+"clave": "PLAÇA DE L'ESGLESIA, NÚM. 1|Calvià",
+"res": [
+39.56591130654553,
+2.5068122765198018,
+"portal"
+]
+},
+"07015677": {
+"clave": "C/ DE LLUÍS ALEMANY I PUJOL, 8, BXS.|Palma",
+"res": [
+39.586782096503036,
+2.649176546468476,
+"portal"
+]
+},
+"07015689": {
+"clave": "C/ DE LA FARIGOLA, 8-6-4, CAMÍ DE SON SALES|Marratxí",
+"res": [
+39.63529060896807,
+2.7016815292387535,
+"portal"
+]
+},
+"07015690": {
+"clave": "PLAÇA DEL METGE BORRÀS, 3|Binissalem",
+"res": [
+39.6931477014147,
+2.844518039182147,
+"toponimo"
+]
+},
+"07015707": {
+"clave": "CAMÍ DE SA VILETA, 210|Palma",
+"res": null
+},
+"07015719": {
+"clave": "C/ SALVÀ, 14, 2a i 4a PLANTA|Palma",
+"res": [
+39.57588956701568,
+2.6398265674179644,
+"portal"
+]
+},
+"07015720": {
+"clave": "C/ DE RUIZ I PABLO, 13|Maó",
+"res": null
+},
+"07015732": {
+"clave": "C/ DE CAN DURETA, NÚM. 5|Inca",
+"res": [
+39.72143946594658,
+2.908937222307939,
+"portal"
+]
+},
+"07015744": {
+"clave": "CAMÍ DE TREPUCÓ, S/N|Maó",
+"res": [
+39.874028804514396,
+4.26258101141796,
+"calle"
+]
+},
+"07015768": {
+"clave": "C/ MARIÀ VILLANGOMEZ, 17|Palma",
+"res": [
+39.5520692134909,
+2.59761448223481,
+"portal"
+]
+},
+"07015771": {
+"clave": "C/ GUILLEM CIFRE DE COLONYA, NÚM. 33|Pollença",
+"res": [
+39.87410807199852,
+3.014340623727772,
+"portal"
+]
+},
+"07015781": {
+"clave": "C/ Traginers, s/n|Sa Pobla",
+"res": [
+39.773619212374044,
+3.0218786235144806,
+"calle"
+]
+},
+"07015801": {
+"clave": "C/ CANARIES, NÚM. 40|Eivissa",
+"res": [
+38.91283313341174,
+1.4247848238154686,
+"portal"
+]
+},
+"07015811": {
+"clave": "C/ MAGNOLIES S/N CANTONADA C/ JASMINS|Bunyola",
+"res": [
+39.66521964247362,
+2.6726342057796497,
+"calle"
+]
+},
+"07015823": {
+"clave": "FINCA DE CAN NEBOT, S/N|Sant Josep de sa Talaia",
+"res": null
+},
+"07015835": {
+"clave": "C/ DE JOAN MIRÓ, 22|Inca",
+"res": [
+39.72611141191389,
+2.9132684124566275,
+"portal"
+]
+},
+"07015847": {
+"clave": "C/ CARACAS, 6|Palma",
+"res": [
+39.568639737427304,
+2.66747386781042,
+"portal"
+]
+},
+"07015859": {
+"clave": "CAMÍ DE SON CLADERA, 20|Palma",
+"res": [
+39.59914343880852,
+2.6785427943458693,
+"calle"
+]
+},
+"07015860": {
+"clave": "C/ DE JOAN MIRÓ, 2|Inca",
+"res": [
+39.72678000675224,
+2.913116872841751,
+"calle"
+]
+},
+"07015872": {
+"clave": "CAMÍ DE SON CLADERA, 20|Palma",
+"res": [
+39.59914343880852,
+2.6785427943458693,
+"calle"
+]
+},
+"07015884": {
+"clave": "C/ CARACAS, 6|Palma",
+"res": [
+39.568639737427304,
+2.66747386781042,
+"portal"
+]
+},
+"07015896": {
+"clave": "C/ DE LA MESTRA MARIA MAYANS FERRER, S/N|Formentera",
+"res": null
+},
+"07015902": {
+"clave": "C/ DE CAN DOMENGE, 3|Palma",
+"res": [
+39.584253419339596,
+2.645333110799868,
+"calle"
+]
+},
+"07015914": {
+"clave": "CTRA. DE VALLDEMOSSA, KM. 7.5 (EDIFICI ARXIDUC LLUIS SALVADOR)|Palma",
+"res": [
+39.59930405594342,
+2.6477844341758656,
+"calle"
+]
+},
+"07015926": {
+"clave": "CARRETERA SANTA MARGALIDA,NÚM. 5|Santa Margalida",
+"res": [
+39.758451896343644,
+3.1583748516905517,
+"calle"
+]
+},
+"07015938": {
+"clave": "PLAÇA ESGLÉSIA, S/N|Sant Josep de sa Talaia",
+"res": null
+},
+"07015951": {
+"clave": "CTRA DE VALLDEMOSSA, NÚM. 79, NIVELL +1, MÓDUL B, PASSADÍS Q|Palma",
+"res": [
+39.59930405594342,
+2.6477844341758656,
+"calle"
+]
+},
+"07015963": {
+"clave": "AVDA PORTO SALER, S/N (EDIFICI POLIVALENT IES MARC FERRER)|Formentera",
+"res": null
+},
+"07015975": {
+"clave": "SANT JOAN DE LA CREU, 43|Palma",
+"res": [
+39.5743956147201,
+2.7153356781225146,
+"portal"
+]
+},
+"07015987": {
+"clave": "C/ de Pau Piferrer, 15 baixos|Palma",
+"res": [
+39.57793726218794,
+2.642202520313569,
+"portal"
+]
+},
+"07015999": {
+"clave": "C/ Verge de Gràcia, núm 44|Maó",
+"res": null
+},
+"07016001": {
+"clave": "AV DE IGNASI WALLIS, NÚM. 26|Eivissa",
+"res": [
+38.91154785258714,
+1.4308484731414526,
+"portal"
+]
+},
+"07016013": {
+"clave": "C/ DEL BISBE  MATEU COLOM  s/n (Edifici ses Escolàpies)|Sóller",
+"res": [
+39.76727594672954,
+2.7193070394177683,
+"calle"
+]
+},
+"07016025": {
+"clave": "C/ PARE MIQUEL DE PETRA, S/N|Petra",
+"res": [
+39.609972333563135,
+3.1104596198779753,
+"calle"
+]
+},
+"07016037": {
+"clave": "C/ ANSELM TURMEDA, NÚM 3|Algaida",
+"res": [
+39.55997644874525,
+2.897306538715562,
+"portal"
+]
+},
+"07016049": {
+"clave": "PLAÇA DES POU VELL, S/N 1R|Sant Llorenç des Cardassar",
+"res": [
+39.6111509021778,
+3.2877511816608203,
+"calle"
+]
+},
+"07016050": {
+"clave": "C/ DE FRA FRANCESC PALOU, NÚM.8|Palma",
+"res": [
+39.58714912597602,
+2.6521121939150247,
+"portal"
+]
+},
+"07016062": {
+"clave": "C/ RECTOR PLANES , NÚM. 38|Felanitx",
+"res": [
+39.47342182138852,
+3.1451508636139938,
+"portal"
+]
+},
+"07016074": {
+"clave": "C/ CA L'AMET, S/N|Esporles",
+"res": [
+39.66294754125907,
+2.5801408999156394,
+"calle"
+]
+},
+"07016086": {
+"clave": "PLAÇA PORTA DE MALLORCA, núm.3 (Auditori d Alcudia)|Alcúdia",
+"res": [
+39.85225244945046,
+3.1184999961208626,
+"portal"
+]
+},
+"07016098": {
+"clave": "PLAÇA DEL CONVENT, 1|Muro",
+"res": [
+39.73412937466284,
+3.0536173383953638,
+"calle"
+]
+},
+"07016116": {
+"clave": "C/ DE LLEVANT, NÚM 9|Es Mercadal",
+"res": [
+39.987339845209796,
+4.0951895918779,
+"portal"
+]
+},
+"07016128": {
+"clave": "C/ SOL, NÚM. 2|Capdepera",
+"res": [
+39.701643906410645,
+3.430810729066743,
+"portal"
+]
+},
+"07016131": {
+"clave": "C/ MENOR, núm 20|Alaior",
+"res": [
+39.934434981319036,
+4.139371722552138,
+"portal"
+]
+},
+"07016141": {
+"clave": "C/ DE SA FÀBRICA, NÚM. 2|Manacor",
+"res": null
+},
+"07016153": {
+"clave": "C/ DE PALMA, NÚM.  29|Santanyí",
+"res": [
+39.35599208071738,
+3.1263705955479995,
+"portal"
+]
+},
+"07016165": {
+"clave": "C/ SÍQUIA, S/N|Campos",
+"res": [
+39.429042805730326,
+3.01899322907098,
+"calle"
+]
+},
+"07016189": {
+"clave": "C/ GREMI DE VELLUTERS, núm. 14|Palma",
+"res": [
+39.602723466410104,
+2.6583627550679516,
+"portal"
+]
+},
+"07016190": {
+"clave": "C/ ROCA LLISA, NÚM. 10|Llubí",
+"res": [
+39.70163707022031,
+3.0081750643967777,
+"portal"
+]
+},
+"07016232": {
+"clave": "C/ DEL PARE ANTONI OLIVER, 4|Palma",
+"res": [
+39.57474487366795,
+2.6273459113409805,
+"portal"
+]
+},
+"07016244": {
+"clave": "C/ MADRID,  49|Eivissa",
+"res": [
+38.91301173568642,
+1.4291105691091737,
+"portal"
+]
+},
+"07016256": {
+"clave": "C/ Antoni Marquès, 26|Palma",
+"res": [
+39.57911746073707,
+2.649808322870252,
+"portal"
+]
+},
+"07016268": {
+"clave": "C/ DE LA PORTELLA, S/N (Casal de CulturaCan Gelabert)|Binissalem",
+"res": [
+39.68568899464714,
+2.8444556661717884,
+"calle"
+]
+},
+"07016271": {
+"clave": "SALA POLIVALENT ALBERT CAMUS, C/ DE SANT LLUÍS, 58|Sant Lluís",
+"res": null
+},
+"07016281": {
+"clave": "AV DE SON MORERA, 1 (IES Biel Martí de Ferreries)|Ferreries",
+"res": [
+39.98489005187993,
+4.016296624028631,
+"portal"
+]
+},
+"07016293": {
+"clave": "C/ COSTA I LLOBERA, S/N|Montuïri",
+"res": [
+39.56718655896234,
+2.982637445661649,
+"calle"
+]
+},
+"07016301": {
+"clave": "PLAÇA DEL MERCAT, S/N  (Edifici Ca'n Garroví)|Sa Pobla",
+"res": [
+39.77147044214056,
+3.027408379002745,
+"calle"
+]
+},
+"07016311": {
+"clave": "C/ DE'N CERDÀ, NÚM 21|Porreres",
+"res": [
+39.51343861878526,
+3.023795674614747,
+"calle"
+]
+},
+"07016323": {
+"clave": "C/JERONI ANTICH, NÚM 6, BAIXOS|Palma",
+"res": [
+39.57688610439205,
+2.6484157791491514,
+"portal"
+]
+},
+"07016335": {
+"clave": "C/ JAUME ESTERLICH S/N|Selva",
+"res": null
+},
+"07016347": {
+"clave": "PLAÇA CATEDRAL, 5,  1r, EDIFICI CONSELL INSULAR MENORCA|Ciutadella",
+"res": null
+},
+"07016359": {
+"clave": "CAMI DES DENTALS, NÚM 26|Sant Josep de sa Talaia",
+"res": [
+38.94151015760634,
+1.2945504130213208,
+"calle"
+]
+},
+"07016360": {
+"clave": "C/D'ELS VALLDEMOSSA,  6|Valldemossa",
+"res": null
+},
+"07016372": {
+"clave": "C/ JOAN MONJO MARCH, 7|Santa Margalida",
+"res": [
+39.70249954038087,
+3.1030106973271936,
+"portal"
+]
+},
+"07016384": {
+"clave": "C/ BLANQUERS, NÚM. 2|Palma",
+"res": [
+39.577978494336314,
+2.6514538171124635,
+"portal"
+]
+},
+"07016396": {
+"clave": "C/ PONS I GALLARZA, 5A|Palma",
+"res": [
+39.58249333837352,
+2.6571799952975863,
+"calle"
+]
+},
+"07016414": {
+"clave": "C/ VICENTE BUADES, 42, BAIXOS|Pollença",
+"res": [
+39.90820086792867,
+3.079548982164861,
+"portal"
+]
+},
+"07016426": {
+"clave": "SANT JOAN DE LA SALLE, NÚM. 5|Palma",
+"res": [
+39.57606202845864,
+2.6460636380287488,
+"toponimo"
+]
+},
+"07016438": {
+"clave": "C/ GREMI TEIXIDORS, NÚM 33|Palma",
+"res": [
+39.60049353753051,
+2.671906233140671,
+"portal"
+]
+},
+"07016441": {
+"clave": "RONDA DE L'INSTITUT, 42|Manacor",
+"res": [
+39.56634251536833,
+3.219904580083626,
+"portal"
+]
+},
+"07016451": {
+"clave": "C/ MÚSIC VICENT MAYANS MARI, NÚM. 2|Eivissa",
+"res": [
+38.89899467402942,
+1.4167091148209403,
+"portal"
+]
+},
+"07016463": {
+"clave": "CTRA VALLDEMOSSA, NÚM. 79|Palma",
+"res": [
+39.59930405594342,
+2.6477844341758656,
+"calle"
+]
+},
+"07016475": {
+"clave": "C/ ALFONS XIII, NÚM. 10|Selva",
+"res": [
+39.765069442479636,
+2.932487261709003,
+"portal"
+]
+},
+"07016487": {
+"clave": "C/ ANDREU COLL, NÚM. 10 BAIXOS|Sóller",
+"res": [
+39.77000562851129,
+2.7155117874479258,
+"portal"
+]
+},
+"07016499": {
+"clave": "C/ JOAN ALBERTÍ ARBONA, NÚM. 10|Fornalutx",
+"res": [
+39.78133966508015,
+2.7386465406209894,
+"portal"
+]
+},
+"07016505": {
+"clave": "CAMÍ DE SON RAPINYA, NÚM. 12|Palma",
+"res": [
+39.583015282475884,
+2.6219956465357694,
+"calle"
+]
+},
+"07016517": {
+"clave": "JERONI POU, 24 LOCAL A|Palma",
+"res": [
+39.5683667393632,
+2.6605987659014603,
+"portal"
+]
+},
+"07016529": {
+"clave": "C/ MAJOR, 82|Marratxí",
+"res": [
+39.61764087436907,
+2.770910179273997,
+"portal"
+]
+},
+"07016530": {
+"clave": "CAMÍ DE SES TAPARERES, 32|Manacor",
+"res": null
+},
+"07016542": {
+"clave": "C/ GRÀCIA, NÚM. 73|Llucmajor",
+"res": [
+39.49448224665581,
+2.8981785510638947,
+"portal"
+]
+},
+"07016578": {
+"clave": "C/SANT ANTONI, NÚM 25|Santanyí",
+"res": [
+39.37879718668301,
+3.2278730948760317,
+"portal"
+]
+},
+"07016581": {
+"clave": "C/ MADRID NÚM. 56 B|Eivissa",
+"res": [
+38.912392134388796,
+1.4296212364225513,
+"portal"
+]
+},
+"07016591": {
+"clave": "C/ LLORENÇ VILLALONGA, 39|Binissalem",
+"res": [
+39.68717076290798,
+2.848715820147151,
+"portal"
+]
+},
+"07016608": {
+"clave": "C/ JOVADES, 8|Santa Margalida",
+"res": [
+39.70366524530431,
+3.1032040795547906,
+"portal"
+]
+},
+"07016611": {
+"clave": "C/ SITJAR, NÚM. 30|Ses Salines",
+"res": [
+39.33949350511464,
+3.0576712092954055,
+"portal"
+]
+},
+"07016621": {
+"clave": "C/ FONT, NÚM. 12|Banyalbufar",
+"res": [
+39.687802602262934,
+2.513092022295159,
+"portal"
+]
+},
+"07016633": {
+"clave": "C/ MOLINS, 17|Sant Joan",
+"res": [
+39.59490702002901,
+3.0385376469181167,
+"portal"
+]
+},
+"07016669": {
+"clave": "C/ GUILLEM MASSOT, NÚM. 50|Palma",
+"res": [
+39.58005363588474,
+2.648760108135419,
+"portal"
+]
+},
+"07016670": {
+"clave": "C/ JOAN MASCARÓ I FORNÉS, NÚM. 84 BAIXOS|Palma",
+"res": [
+39.60587209138053,
+2.6343943739631617,
+"portal"
+]
+},
+"07016694": {
+"clave": "C/ ANDREU TORRENS, NÚM. 5|Palma",
+"res": [
+39.579476865862716,
+2.6403904773925118,
+"portal"
+]
+},
+"07016712": {
+"clave": "C/ NA BASTERA, NÚM. 19|Palma",
+"res": [
+39.60904412117073,
+2.6380351282784105,
+"portal"
+]
+},
+"07016736": {
+"clave": "C/ EUCALIPTUS, 6|Palma",
+"res": [
+39.58472937283399,
+2.684372377858013,
+"portal"
+]
+},
+"07016748": {
+"clave": "C/ SOR MIQUELA MESQUIDA S/N|Santa Eulària des Riu",
+"res": [
+38.98991966251448,
+1.5459174225720436,
+"calle"
+]
+},
+"07016751": {
+"clave": "C/ CAN BAIX SOL, NÚM. 4|Marratxí",
+"res": [
+39.5905592135001,
+2.698310943000055,
+"calle"
+]
+},
+"07016761": {
+"clave": "C/ ESCOLA DE NINES S/N|Maria de la Salut",
+"res": [
+39.662915243227644,
+3.0722833909732628,
+"calle"
+]
+},
+"07016773": {
+"clave": "C/ FELIP II NÚM. 3|Marratxí",
+"res": [
+39.623570218010244,
+2.7266712744163244,
+"portal"
+]
+},
+"07016785": {
+"clave": "C/ DE SON BUSQUETS, NÚM. 4|Palma",
+"res": [
+39.59359083310699,
+2.652979628159917,
+"portal"
+]
+},
+"07016797": {
+"clave": "|",
+"res": null
+},
+"07016803": {
+"clave": "C/ MARTÍ RUBÍ, SECRETARI NÚM. 114|Marratxí",
+"res": [
+39.61983263827297,
+2.752768964756411,
+"calle"
+]
+},
+"07016815": {
+"clave": "C/ DE INSTITUT BALEAR, NÚM. 5|Palma",
+"res": [
+39.57697136767973,
+2.646440377679659,
+"calle"
+]
+},
+"07016827": {
+"clave": "C/ VOLTA DE LA MERCÉ, 4 BAIXOS|Palma",
+"res": [
+39.57274698954584,
+2.654644870286485,
+"portal"
+]
+},
+"07016839": {
+"clave": "C/ OBLATES, NÚM. 23|Palma",
+"res": [
+39.59554820426997,
+2.619580612702081,
+"portal"
+]
+},
+"07016840": {
+"clave": "C/ BEATRIU DE PINOS, 21|Palma",
+"res": [
+39.573029671542265,
+2.6618211604126305,
+"portal"
+]
+},
+"07016852": {
+"clave": "C/ ARAGÓ 224 A|Palma",
+"res": [
+39.588768366854836,
+2.6767219393054877,
+"portal"
+]
+},
+"07016864": {
+"clave": "C/ PINAR DE STA. EULÀLIA, 17|Santa Margalida",
+"res": null
+},
+"07016876": {
+"clave": "C/ ARAGÓ, 153 BAIXOS|Palma",
+"res": [
+39.58235662520385,
+2.668065628016691,
+"portal"
+]
+},
+"07016888": {
+"clave": "C/ COTLLIURE, 44 BAIXOS|Palma",
+"res": [
+39.59242883696159,
+2.6466327357926063,
+"portal"
+]
+},
+"07016891": {
+"clave": "C/ DE LA PRIMAVERA, 6|Palma",
+"res": [
+39.590777039496444,
+2.649879072172488,
+"portal"
+]
+},
+"07016906": {
+"clave": "AV. JAUME I, 34|Inca",
+"res": null
+},
+"07016918": {
+"clave": "C/ LEPANTO, 6|Lloseta",
+"res": [
+39.71600497940691,
+2.866521645014128,
+"portal"
+]
+},
+"07016921": {
+"clave": "C/ MARTI COSTA, 4 BAIXOS|Palma",
+"res": [
+39.57870975193433,
+2.631062393944168,
+"portal"
+]
+},
+"07016931": {
+"clave": "C/ NICETO ALCALÁ ZAMORA, 24|Palma",
+"res": [
+39.57841654139998,
+2.637657070486218,
+"portal"
+]
+},
+"07016943": {
+"clave": "C/ ILLA DE MALTA, 4 BAIXOS|Palma",
+"res": [
+39.553221551640455,
+2.692419468420534,
+"portal"
+]
+},
+"07016967": {
+"clave": "C/ TONI DES POU, 5|Sant Antoni de Portmany",
+"res": null
+},
+"07016979": {
+"clave": "C/ PLANERA, NÚM. 6|Marratxí",
+"res": [
+39.63487655868851,
+2.70475534898916,
+"portal"
+]
+},
+"07016980": {
+"clave": "C/ TARONGER, 4|Palma",
+"res": [
+39.58791994782391,
+2.6765788205103136,
+"portal"
+]
+},
+"07016992": {
+"clave": "C/ NÀPOLS, NÚM. 1 BAIXOS|Santa Eulària des Riu",
+"res": [
+38.991961686600646,
+1.5469495817973347,
+"portal"
+]
+},
+"07017017": {
+"clave": "INSTAL·LACIONS INSPECTOR JOAN CAPÓ (PROVISIONAL)|Felanitx",
+"res": null
+},
+"07017029": {
+"clave": "C/ TRAFALGAR, NÚM. 23 (ZONA CIUTAT JARDÍ)|Palma",
+"res": [
+39.551966285749145,
+2.692774302488631,
+"portal"
+]
+},
+"07017030": {
+"clave": "C/ SEVILLA, 25|Palma",
+"res": [
+39.585327105415956,
+2.623813728410603,
+"portal"
+]
+},
+"07017042": {
+"clave": "CAMÍ DE SA FAROLA, S/N|Ciutadella",
+"res": null
+},
+"07017054": {
+"clave": "C/ GALIANA, 1, BAIXOS|Palma",
+"res": [
+39.57582803464006,
+2.6384797894928105,
+"portal"
+]
+},
+"07017066": {
+"clave": "C/ JOSEP D'OLEZA, 5|Palma",
+"res": [
+39.58977600769758,
+2.650023656176946,
+"calle"
+]
+},
+"07017078": {
+"clave": "C/ SANTA MARGALIDA, 7, BAIXOS, DRETA|Llucmajor",
+"res": [
+39.44475509760753,
+2.7568891285685604,
+"portal"
+]
+},
+"07017081": {
+"clave": "C/ MIQUEL MARQUES, 19, BAIXOS|Palma",
+"res": [
+39.57645415896598,
+2.6572339250446895,
+"portal"
+]
+},
+"07017091": {
+"clave": "C/ MIQUEL DELS SANTS OLIVER, 2 I AV. PORTUGAL, 2|Palma",
+"res": [
+39.57842261536774,
+2.64318396308779,
+"calle"
+]
+},
+"07017108": {
+"clave": "PAVELLÓ 402, PARC DE SERVEIS INSULARS D'EIVISSA, KM 3,5 DE LA CRTA C-731 (ANTIC QUARTER DE SA COMA)|Sant Antoni de Portmany",
+"res": null
+},
+"07500120": {
+"clave": "CTRA. DE SANTANDRIA, KM. 1,7|Ciutadella",
+"res": null
+},
+"07500130": {
+"clave": "AV DEL CID, S/N|Palma",
+"res": [
+39.57573109295705,
+2.7169168026792994,
+"calle"
+]
+},
+"07500142": {
+"clave": "CTRA. DE LA COLONIA DE SANT JORDI, KM. 5.4|Campos",
+"res": [
+39.4196389364006,
+3.0270797024918488,
+"calle"
+]
+},
+"07500166": {
+"clave": "C/ SANT VICENT DE SA CALA, NÚM. 8|Sant Joan de Labritja",
+"res": null
+},
+"07500178": {
+"clave": "AVDA. PORTO SALÉ, 87|Formentera",
+"res": [
+38.70756201607683,
+1.4260458687780402,
+"portal"
+]
+},
+"07500181": {
+"clave": "PLAÇA DE CAVALLERIA (APARTAT CORREUS 51)|Es Mercadal",
+"res": null
+},
+"07500191": {
+"clave": "C/ SALVÀ, NUM. 14|Palma",
+"res": [
+39.57588956701568,
+2.6398265674179644,
+"portal"
+]
+},
+"07500211": {
+"clave": "C/ DE LA CREU, NÚM.2|Bunyola",
+"res": [
+39.69706185747139,
+2.6987735920072593,
+"calle"
+]
+},
+"07500361": {
+"clave": "REFUGI LES CASES DE BINIFALDÓ|Escorca",
+"res": null
+},
+"07500518": {
+"clave": "C/ ANTONI Mª ALCOVER, S/N|Alcúdia",
+"res": null
+},
+"07500521": {
+"clave": "C/ DE LA ESTRELLA. NÚM. 17|Sant Antoni de Portmany",
+"res": null
+},
+"07500725": {
+"clave": "C/ HOSPITALET, NÚM. 12|Palma",
+"res": null
+},
+"07500816": {
+"clave": "CAMÍ DE LA REAL, NÚM. 46|Palma",
+"res": [
+39.62752599994818,
+2.6393497151896956,
+"portal"
+]
+},
+"07600410": {
+"clave": "C/ MAR, NÚM. 2|Alcúdia",
+"res": [
+39.84117783522604,
+3.1354445149601875,
+"portal"
+]
+},
+"07600422": {
+"clave": "C/ SEMINARI, NÚM. 4|Palma",
+"res": [
+39.566923881855075,
+2.653796946614517,
+"portal"
+]
+}
+}

@@ -1,0 +1,74 @@
+{
+"26007926": {
+"clave": "C/ Rio Isla, 2|Logroño",
+"res": [
+42.461030000930506,
+-2.4644000000000674,
+"portal"
+]
+},
+"26008049": {
+"clave": "Parque de los Lirios 13-14 Bajo|Logroño",
+"res": [
+42.45977000093049,
+-2.420840000000068,
+"portal"
+]
+},
+"26008751": {
+"clave": "Plaza Gonzalez Gallarza 7|Rincón de Soto",
+"res": [
+42.235040000929885,
+-1.8511699999996314,
+"portal"
+]
+},
+"26008803": {
+"clave": "Avenida Moncalvillo, 2 (Edificio Federaciones)|Logroño",
+"res": [
+42.452980000930474,
+-2.4552000000000667,
+"portal"
+]
+},
+"26008852": {
+"clave": "Calle José Iturmendi, Número 11|San Asensio",
+"res": [
+42.49519721474657,
+-2.747753027265378,
+"calle"
+]
+},
+"26008888": {
+"clave": "Medrano 2, Bis|Logroño",
+"res": [
+42.451180000930485,
+-2.459160000000067,
+"portal"
+]
+},
+"26008891": {
+"clave": "Pllaza de España, Nº 6|Santo Domingo de la Calzada",
+"res": [
+42.441561370843814,
+-2.953019064241028,
+"calle"
+]
+},
+"26008906": {
+"clave": "Díaz de Rada, 2|Aldeanueva de Ebro",
+"res": [
+42.22780000092989,
+-1.8896399999997089,
+"portal"
+]
+},
+"26008918": {
+"clave": "Las Escuelas, 15|Entrena",
+"res": [
+42.3873200009303,
+-2.5282700000000617,
+"portal"
+]
+}
+}

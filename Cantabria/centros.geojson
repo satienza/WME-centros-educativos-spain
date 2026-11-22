@@ -1,0 +1,7295 @@
+{
+ "type": "FeatureCollection",
+ "fuente": {
+  "url": "https://www.educantabria.es/centros/buscador-de-centros"
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.214475839424195,
+     43.38687991135889
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Quirós",
+    "direccion": "Barrio San Roque, S/N",
+    "poblacion": "Cobreces",
+    "municipio": "Alfoz de Lloredo",
+    "codigo_postal": "39320",
+    "latitud": 43.38687991135889,
+    "longitud": -4.214475839424195,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39000064"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.414665182851565,
+     43.34304924521933
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Ampuero",
+    "direccion": "Avenida de los Tilos, 3 y 5",
+    "poblacion": "Ampuero",
+    "municipio": "Ampuero",
+    "codigo_postal": "39840",
+    "latitud": 43.34304924521933,
+    "longitud": -3.414665182851565,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39000180"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.043699172971699,
+     43.169937220174425
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Leonardo Torres Quevedo",
+    "direccion": "Escuelas",
+    "poblacion": "Serna, la",
+    "municipio": "Arenas de Iguña",
+    "codigo_postal": "39440",
+    "latitud": 43.169937220174425,
+    "longitud": -4.043699172971699,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39000431"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.4945764,
+     43.4550736
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Pedro Santiuste",
+    "direccion": "Barrio Cerecedas, 23",
+    "poblacion": "Argoños",
+    "municipio": "Argoños",
+    "codigo_postal": "39197",
+    "latitud": 43.4550736,
+    "longitud": -3.4945764,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39000453"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.549581746113395,
+     43.49447410941536
+    ]
+   },
+   "properties": {
+    "nombre": "CC La Inmaculada Concepción",
+    "direccion": "Avenida Juan Hormaechea, 70",
+    "poblacion": "Isla",
+    "municipio": "Arnuero",
+    "codigo_postal": "39195",
+    "latitud": 43.49447410941536,
+    "longitud": -3.549581746113395,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39000507"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8181398723074254,
+     43.401117447234526
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Fernando de los Ríos (Astillero)",
+    "direccion": "Tomas Breton, 2",
+    "poblacion": "Astillero (El)",
+    "municipio": "Astillero (El)",
+    "codigo_postal": "39610",
+    "latitud": 43.401117447234526,
+    "longitud": -3.8181398723074254,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39000571"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8268088154329782,
+     43.40012006157062
+    ]
+   },
+   "properties": {
+    "nombre": "CC San José (Astillero)",
+    "direccion": "Convento, 5",
+    "poblacion": "Astillero (El)",
+    "municipio": "Astillero (El)",
+    "codigo_postal": "39611",
+    "latitud": 43.40012006157062,
+    "longitud": -3.8268088154329782,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39000593"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.822452266603312,
+     43.40056038889723
+    ]
+   },
+   "properties": {
+    "nombre": "CC Puente",
+    "direccion": "Avenida de España, 20",
+    "poblacion": "Astillero (El)",
+    "municipio": "Astillero (El)",
+    "codigo_postal": "39610",
+    "latitud": 43.40056038889723,
+    "longitud": -3.822452266603312,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39000601"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.83666728635061,
+     43.40204158997186
+    ]
+   },
+   "properties": {
+    "nombre": "IES Ntra. Sra. de los Remedios",
+    "direccion": "Calle Herminio Fernández Caballero, 75,",
+    "poblacion": "Guarnizo",
+    "municipio": "Astillero (El)",
+    "codigo_postal": "39611",
+    "latitud": 43.40204158997186,
+    "longitud": -3.83666728635061,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39000611"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8546844990610776,
+     43.393100579131065
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Ramón y Cajal",
+    "direccion": "Ramon y Cajal, S/N",
+    "poblacion": "Guarnizo",
+    "municipio": "Astillero (El)",
+    "codigo_postal": "39611",
+    "latitud": 43.393100579131065,
+    "longitud": -3.8546844990610776,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39000659"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6120141126228074,
+     43.476323193318905
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Benedicto Ruiz",
+    "direccion": "Avenida Trasmiera, Nº 1059",
+    "poblacion": "Ajo",
+    "municipio": "Bareyo",
+    "codigo_postal": "39170",
+    "latitud": 43.476323193318905,
+    "longitud": -3.6120141126228074,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39000817"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.2291201,
+     43.3093211
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Ramón Laza",
+    "direccion": "Avenida la Estacion S/N",
+    "poblacion": "Cabezon de la Sal",
+    "municipio": "Cabezon de la Sal",
+    "codigo_postal": "39500",
+    "latitud": 43.3093211,
+    "longitud": -4.2291201,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39000881"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.236083333333333,
+     43.3066389
+    ]
+   },
+   "properties": {
+    "nombre": "CC Sagrado Corazón (Cabezón de la Sal)",
+    "direccion": "Pernalejo, 8",
+    "poblacion": "Cabezon de la Sal",
+    "municipio": "Cabezon de la Sal",
+    "codigo_postal": "39500",
+    "latitud": 43.3066389,
+    "longitud": -4.236083333333333,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39000908"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.179408805876168,
+     43.33330831635518
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Antonio Muñoz y Gómez",
+    "direccion": "Barrio Casar, 126",
+    "poblacion": "Casar de Periedo",
+    "municipio": "Cabezon de la Sal",
+    "codigo_postal": "39591",
+    "latitud": 43.33330831635518,
+    "longitud": -4.179408805876168,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39000945"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.9054180643929013,
+     43.403733149105854
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Arenas",
+    "direccion": "Barrio Arenas, 100",
+    "poblacion": "Escobedo",
+    "municipio": "Camargo",
+    "codigo_postal": "39609",
+    "latitud": 43.403733149105854,
+    "longitud": -3.9054180643929013,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39001317"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.837619969283714,
+     43.416001438599544
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Juan de Herrera",
+    "direccion": "La Mies, S/N",
+    "poblacion": "Maliaño",
+    "municipio": "Camargo",
+    "codigo_postal": "39600",
+    "latitud": 43.416001438599544,
+    "longitud": -3.837619969283714,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39001366"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8218200724357394,
+     43.41534427615876
+    ]
+   },
+   "properties": {
+    "nombre": "CEE Parayas",
+    "direccion": "Juan Carlos I, Nº 6",
+    "poblacion": "Maliaño",
+    "municipio": "Camargo",
+    "codigo_postal": "39600",
+    "latitud": 43.41534427615876,
+    "longitud": -3.8218200724357394,
+    "tipo_centro": "Centro de Educación Especial",
+    "codigo": "39001391"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8574112596442274,
+     43.40805065987617
+    ]
+   },
+   "properties": {
+    "nombre": "CC Altamira",
+    "direccion": "Barrio Bardalon, 16",
+    "poblacion": "Revilla",
+    "municipio": "Camargo",
+    "codigo_postal": "39600",
+    "latitud": 43.40805065987617,
+    "longitud": -3.8574112596442274,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39001421"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.846724775395476,
+     43.416149344967195
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Pedro Velarde",
+    "direccion": "Jose Barros Bolado, 6",
+    "poblacion": "Muriedas",
+    "municipio": "Camargo",
+    "codigo_postal": "39600",
+    "latitud": 43.416149344967195,
+    "longitud": -3.846724775395476,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39001433"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8594922080747254,
+     43.40556754310419
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Agapito Cagiga",
+    "direccion": "Escuelas 154.",
+    "poblacion": "Revilla",
+    "municipio": "Camargo",
+    "codigo_postal": "39600",
+    "latitud": 43.40556754310419,
+    "longitud": -3.8594922080747254,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39001445"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.068170949869962,
+     43.32739034441739
+    ]
+   },
+   "properties": {
+    "nombre": "CPRI Los Torreones",
+    "direccion": "Camino Real, 27",
+    "poblacion": "Cartes",
+    "municipio": "Cartes",
+    "codigo_postal": "39311",
+    "latitud": 43.32739034441739,
+    "longitud": -4.068170949869962,
+    "tipo_centro": "Centro público",
+    "codigo": "39001585"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.066111111111111,
+     43.3376111
+    ]
+   },
+   "properties": {
+    "nombre": "EI Santiago La Robleda",
+    "direccion": "La Robleda, 23",
+    "poblacion": "Santiago de Cartes",
+    "municipio": "Cartes",
+    "codigo_postal": "39311",
+    "latitud": 43.3376111,
+    "longitud": -4.066111111111111,
+    "tipo_centro": "Escuela Infantil",
+    "codigo": "39001664"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.9524445,
+     43.3137826
+    ]
+   },
+   "properties": {
+    "nombre": "IES Santa Cruz",
+    "direccion": "Villabañez, S/N",
+    "poblacion": "Villabañez",
+    "municipio": "Castañeda",
+    "codigo_postal": "39660",
+    "latitud": 43.3137826,
+    "longitud": -3.9524445,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39001691"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.073117993410175,
+     43.26726366210487
+    ]
+   },
+   "properties": {
+    "nombre": "IES Estelas de Cantabria",
+    "direccion": "Peña del Campo, S/N",
+    "poblacion": "San Mateo",
+    "municipio": "Corrales de Buelna (Los)",
+    "codigo_postal": "39408",
+    "latitud": 43.26726366210487,
+    "longitud": -4.073117993410175,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39001780"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.2193672884749955,
+     43.384224832555006
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Miguel Hernández",
+    "direccion": "Siglo XX, 8",
+    "poblacion": "Castro-Urdiales",
+    "municipio": "Castro-Urdiales",
+    "codigo_postal": "39700",
+    "latitud": 43.384224832555006,
+    "longitud": -3.2193672884749955,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39001846"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.217138184438573,
+     43.37928609132456
+    ]
+   },
+   "properties": {
+    "nombre": "IES Ataulfo Argenta",
+    "direccion": "Menendez Pelayo, 4",
+    "poblacion": "Castro-Urdiales",
+    "municipio": "Castro-Urdiales",
+    "codigo_postal": "39700",
+    "latitud": 43.37928609132456,
+    "longitud": -3.217138184438573,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39001895"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.2171105865735936,
+     43.36949346011385
+    ]
+   },
+   "properties": {
+    "nombre": "IES José Zapatero Domínguez",
+    "direccion": "Leonardo Rucabado, 56",
+    "poblacion": "Castro-Urdiales",
+    "municipio": "Castro-Urdiales",
+    "codigo_postal": "39700",
+    "latitud": 43.36949346011385,
+    "longitud": -3.2171105865735936,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39001901"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.223499012470464,
+     43.383485046428575
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP San Martín de Campijo",
+    "direccion": "Aranzal, 11",
+    "poblacion": "Castro-Urdiales",
+    "municipio": "Castro-Urdiales",
+    "codigo_postal": "39700",
+    "latitud": 43.383485046428575,
+    "longitud": -3.223499012470464,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39001913"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.4509348289606154,
+     43.39452809322329
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Fray Pablo de Colindres",
+    "direccion": "Plaza Campo de las Ferias, S/N",
+    "poblacion": "Colindres",
+    "municipio": "Colindres",
+    "codigo_postal": "39750",
+    "latitud": 43.39452809322329,
+    "longitud": -3.4509348289606154,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39002309"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.2895291,
+     43.3805941
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Jesús Cancio (Comillas)",
+    "direccion": "Paseo Estrada, 31",
+    "poblacion": "Comillas",
+    "municipio": "Comillas",
+    "codigo_postal": "39520",
+    "latitud": 43.3805941,
+    "longitud": -4.2895291,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39002334"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.069475139515832,
+     43.25725129928984
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP José María Pereda (Corrales)",
+    "direccion": "Reyes Catolicos, 6",
+    "poblacion": "Corrales, los",
+    "municipio": "Corrales de Buelna (Los)",
+    "codigo_postal": "39400",
+    "latitud": 43.25725129928984,
+    "longitud": -4.069475139515832,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39002450"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.067470471453567,
+     43.2605558811267
+    ]
+   },
+   "properties": {
+    "nombre": "CC San Juan Bautista (Corrales)",
+    "direccion": "La Salle, 2",
+    "poblacion": "Corrales, los",
+    "municipio": "Corrales de Buelna (Los)",
+    "codigo_postal": "39400",
+    "latitud": 43.2605558811267,
+    "longitud": -4.067470471453567,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39002474"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.061945344547777,
+     43.26890322497378
+    ]
+   },
+   "properties": {
+    "nombre": "IES María Telo",
+    "direccion": "San Fernando, 49",
+    "poblacion": "Corrales, los",
+    "municipio": "Corrales de Buelna (Los)",
+    "codigo_postal": "39400",
+    "latitud": 43.26890322497378,
+    "longitud": -4.061945344547777,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39002504"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.063833023454354,
+     43.24827866718884
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Besaya",
+    "direccion": "Barrio San Roque, 13",
+    "poblacion": "Somahoz",
+    "municipio": "Los Corrales de Buelna",
+    "codigo_postal": "39400",
+    "latitud": 43.24827866718884,
+    "longitud": -4.063833023454354,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39002531"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.9191386816845384,
+     43.196790839423386
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Pintor Agustín Riancho",
+    "direccion": "Avenida Joaquin Villegas S/N",
+    "poblacion": "Alceda",
+    "municipio": "Corvera de Toranzo",
+    "codigo_postal": "39680",
+    "latitud": 43.196790839423386,
+    "longitud": -3.9191386816845384,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39002565"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.147696956819937,
+     42.984866434167316
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Casimiro Sainz Enmedio",
+    "direccion": "Casimiro Sainz, 44",
+    "poblacion": "Matamorosa",
+    "municipio": "Campoo de Enmedio",
+    "codigo_postal": "39200",
+    "latitud": 42.984866434167316,
+    "longitud": -4.147696956819937,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39002784"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6817352550549,
+     43.37607211777993
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Aguanaz",
+    "direccion": "Barrio el Cristo, 3",
+    "poblacion": "Entrambasaguas",
+    "municipio": "Entrambasaguas",
+    "codigo_postal": "39715",
+    "latitud": 43.37607211777993,
+    "longitud": -3.6817352550549,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39002905"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.513573683705847,
+     43.43756645124393
+    ]
+   },
+   "properties": {
+    "nombre": "EI Virgen de la Cama",
+    "direccion": "Plaza de España, 3",
+    "poblacion": "Escalante",
+    "municipio": "Escalante",
+    "codigo_postal": "39795",
+    "latitud": 43.43756645124393,
+    "longitud": -3.513573683705847,
+    "tipo_centro": "Escuela Infantil",
+    "codigo": "39002991"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.5905868746643237,
+     43.395596223420874
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Jesús del Monte",
+    "direccion": "Barrio la Iglesia S/N",
+    "poblacion": "Hazas de Cesto",
+    "municipio": "Hazas de Cesto",
+    "codigo_postal": "39738",
+    "latitud": 43.395596223420874,
+    "longitud": -3.5905868746643237,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39003119"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.215582659474723,
+     43.02115055444158
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Rodríguez de Celis",
+    "direccion": "La Serna, 29",
+    "poblacion": "Paracuelles",
+    "municipio": "Hermandad de Campoo de Suso",
+    "codigo_postal": "39211",
+    "latitud": 43.02115055444158,
+    "longitud": -4.215582659474723,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39003201"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.4164144146306,
+     43.40773229519803
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Villa del Mar",
+    "direccion": "Avenida de España, S/N",
+    "poblacion": "Laredo",
+    "municipio": "Laredo",
+    "codigo_postal": "39770",
+    "latitud": 43.40773229519803,
+    "longitud": -3.4164144146306,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39003375"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.41576,
+     43.41105
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Pepe Alba",
+    "direccion": "Lopez Seña, 14",
+    "poblacion": "Laredo",
+    "municipio": "Laredo",
+    "codigo_postal": "39770",
+    "latitud": 43.41105,
+    "longitud": -3.41576,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39003387"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.4250803163004293,
+     43.3636089452227
+    ]
+   },
+   "properties": {
+    "nombre": "CC San Vicente de Paul (Laredo)",
+    "direccion": "Zamanillo, 4",
+    "poblacion": "Laredo",
+    "municipio": "Laredo",
+    "codigo_postal": "39770",
+    "latitud": 43.3636089452227,
+    "longitud": -3.4250803163004293,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39003417"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.4146447017280237,
+     43.408047166340246
+    ]
+   },
+   "properties": {
+    "nombre": "IES Bernardino Escalante",
+    "direccion": "Avenida Duque de Ahumada, 5",
+    "poblacion": "Laredo",
+    "municipio": "Laredo",
+    "codigo_postal": "39770",
+    "latitud": 43.408047166340246,
+    "longitud": -3.4146447017280237,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39003429"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.3781484,
+     43.3933697
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Peregrino Avendaño",
+    "direccion": "Barrio Hazas, S/N",
+    "poblacion": "Hazas",
+    "municipio": "Liendo",
+    "codigo_postal": "39776",
+    "latitud": 43.3933697,
+    "longitud": -3.3781484,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39003430"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.4256332442692554,
+     43.361284185835224
+    ]
+   },
+   "properties": {
+    "nombre": "CC San Vicente de Paul (Limpias)",
+    "direccion": "Rivero, 17",
+    "poblacion": "Limpias",
+    "municipio": "Limpias",
+    "codigo_postal": "39820",
+    "latitud": 43.361284185835224,
+    "longitud": -3.4256332442692554,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39003545"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7522313184068414,
+     43.362953982128516
+    ]
+   },
+   "properties": {
+    "nombre": "CC Torreanaz",
+    "direccion": "Barrio de la Iglesia, 39",
+    "poblacion": "Anaz",
+    "municipio": "Medio Cudeyo",
+    "codigo_postal": "39718",
+    "latitud": 43.362953982128516,
+    "longitud": -3.7522313184068414,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39003910"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.718608,
+     43.37615
+    ]
+   },
+   "properties": {
+    "nombre": "CC Apostolado del Sagrado Corazón de Jesús",
+    "direccion": "Barrio la Estacion, 71",
+    "poblacion": "Ceceñas",
+    "municipio": "Medio Cudeyo",
+    "codigo_postal": "39724",
+    "latitud": 43.37615,
+    "longitud": -3.718608,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39003922"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.764682010367905,
+     43.403750929142326
+    ]
+   },
+   "properties": {
+    "nombre": "IES La Granja",
+    "direccion": "Barrio Estacion S/N",
+    "poblacion": "Heras",
+    "municipio": "Medio Cudeyo",
+    "codigo_postal": "39792",
+    "latitud": 43.403750929142326,
+    "longitud": -3.764682010367905,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39003983"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.737475013474734,
+     43.37920854226739
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Marqués de Valdecilla",
+    "direccion": "Avenida Ramon Pelayo, 36",
+    "poblacion": "Valdecilla",
+    "municipio": "Medio Cudeyo",
+    "codigo_postal": "39724",
+    "latitud": 43.37920854226739,
+    "longitud": -3.737475013474734,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39004033"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.971257086596939,
+     43.4268258162958
+    ]
+   },
+   "properties": {
+    "nombre": "EI Elsedo",
+    "direccion": "Las Torcas, 95",
+    "poblacion": "Mogro",
+    "municipio": "Miengo",
+    "codigo_postal": "39310",
+    "latitud": 43.4268258162958,
+    "longitud": -3.971257086596939,
+    "tipo_centro": "Escuela Infantil",
+    "codigo": "39004197"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.5285348,
+     43.4811718
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Palacio",
+    "direccion": "Avenida Ris, 8",
+    "poblacion": "Noja",
+    "municipio": "Noja",
+    "codigo_postal": "39180",
+    "latitud": 43.4811718,
+    "longitud": -3.5285348,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39004379"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.9429049197093127,
+     43.414909354454394
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Bajo Pas",
+    "direccion": "Urbanización la Mina S/N",
+    "poblacion": "Arce",
+    "municipio": "Pielagos",
+    "codigo_postal": "39478",
+    "latitud": 43.414909354454394,
+    "longitud": -3.9429049197093127,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39004598"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.89323913616195,
+     43.37592749141066
+    ]
+   },
+   "properties": {
+    "nombre": "EI Eutiquio Ramos",
+    "direccion": "Barrio Jurrio, 11",
+    "poblacion": "Parbayon",
+    "municipio": "Pielagos",
+    "codigo_postal": "39612",
+    "latitud": 43.37592749141066,
+    "longitud": -3.89323913616195,
+    "tipo_centro": "Escuela Infantil",
+    "codigo": "39004707"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.968247444442298,
+     43.35780808277842
+    ]
+   },
+   "properties": {
+    "nombre": "CC Antonio Robinet",
+    "direccion": "Barrio San Lorenzo, 11",
+    "poblacion": "Vioño",
+    "municipio": "Piélagos",
+    "codigo_postal": "39479",
+    "latitud": 43.35780808277842,
+    "longitud": -3.968247444442298,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39004859"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.9854951601010873,
+     43.34917801200057
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Estela de Zurita",
+    "direccion": "Barrio el Bardal S/N",
+    "poblacion": "Zurita",
+    "municipio": "Piélagos",
+    "codigo_postal": "39479",
+    "latitud": 43.34917801200057,
+    "longitud": -3.9854951601010873,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39004872"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.403105980550788,
+     43.10957938238158
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Valle de Polaciones",
+    "direccion": "Puente Pumar, S/N",
+    "poblacion": "Puente Pumar",
+    "municipio": "Polaciones",
+    "codigo_postal": "39556",
+    "latitud": 43.10957938238158,
+    "longitud": -4.403105980550788,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39004896"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.016486819308393,
+     43.38668070775194
+    ]
+   },
+   "properties": {
+    "nombre": "CC La Milagrosa",
+    "direccion": "La Cochera, E-5",
+    "poblacion": "Polanco",
+    "municipio": "Polanco",
+    "codigo_postal": "39313",
+    "latitud": 43.38668070775194,
+    "longitud": -4.016486819308393,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39004999"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.028696123394894,
+     43.38738349795406
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Pérez Galdós",
+    "direccion": "Carretera General, N-25",
+    "poblacion": "Requejada",
+    "municipio": "Polanco",
+    "codigo_postal": "39312",
+    "latitud": 43.38738349795406,
+    "longitud": -4.028696123394894,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39005001"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.622469,
+     43.155055
+    ]
+   },
+   "properties": {
+    "nombre": "IES Jesús de Monasterio",
+    "direccion": "Santa Olaja, S/N",
+    "poblacion": "Potes",
+    "municipio": "Potes",
+    "codigo_postal": "39570",
+    "latitud": 43.155055,
+    "longitud": -4.622469,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39005062"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.14083,
+     42.9983306
+    ]
+   },
+   "properties": {
+    "nombre": "CC Antares",
+    "direccion": "Emilio Valle, 4",
+    "poblacion": "Reinosa",
+    "municipio": "Reinosa",
+    "codigo_postal": "39200",
+    "latitud": 42.9983306,
+    "longitud": -4.14083,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39005323"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.141042059619521,
+     43.00030454972056
+    ]
+   },
+   "properties": {
+    "nombre": "CC San José Niño Jesús (Reinosa)",
+    "direccion": "Peñas Arriba, 19",
+    "poblacion": "Reinosa",
+    "municipio": "Reinosa",
+    "codigo_postal": "39200",
+    "latitud": 43.00030454972056,
+    "longitud": -4.141042059619521,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39005335"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.0844104496725375,
+     43.362691663732335
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Cantabria",
+    "direccion": "Calle la Robleda, 136",
+    "poblacion": "Puente San Miguel",
+    "municipio": "Reocín",
+    "codigo_postal": "39530",
+    "latitud": 43.362691663732335,
+    "longitud": -4.0844104496725375,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39005499"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6667100143068456,
+     43.40113582275854
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Trasmiera",
+    "direccion": "Hoz de Anero",
+    "poblacion": "Hoz de Anero",
+    "municipio": "Ribamontan al Monte",
+    "codigo_postal": "39794",
+    "latitud": 43.40113582275854,
+    "longitud": -3.6667100143068456,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39005797"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7017917668674505,
+     43.34821491148874
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Leopoldo y Josefa del Valle",
+    "direccion": "Calle Colegio Leopoldo y Josefa del Valle, 12",
+    "poblacion": "Cavada, la",
+    "municipio": "Riotuerto",
+    "codigo_postal": "39720",
+    "latitud": 43.34821491148874,
+    "longitud": -3.7017917668674505,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39006029"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.256398,
+     43.380862
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Santiago Galas",
+    "direccion": "Barrio la Iglesia, S/N",
+    "poblacion": "Iglesia, la",
+    "municipio": "Ruiloba",
+    "codigo_postal": "39527",
+    "latitud": 43.380862,
+    "longitud": -4.256398,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39006224"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.050721483453914,
+     43.27485795595237
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Pero Niño",
+    "direccion": "Rivero, S/N",
+    "poblacion": "Rivero",
+    "municipio": "San Felices de Buelna",
+    "codigo_postal": "39409",
+    "latitud": 43.27485795595237,
+    "longitud": -4.050721483453914,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39006297"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8208279,
+     43.1118646
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Ntra. Sra. del Roble",
+    "direccion": "Calle Alto de la Cruz, S/N",
+    "poblacion": "San Pedro del Romeral",
+    "municipio": "San Pedro del Romeral",
+    "codigo_postal": "39686",
+    "latitud": 43.1118646,
+    "longitud": -3.8208279,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39006352"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.904204101696312,
+     43.44137336291569
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Buenaventura González",
+    "direccion": "Avenida Menendez Pelayo S/N",
+    "poblacion": "Santa Cruz de Bezana",
+    "municipio": "Santa Cruz de Bezana",
+    "codigo_postal": "39100",
+    "latitud": 43.44137336291569,
+    "longitud": -3.904204101696312,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39006509"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.89506230186279,
+     43.463652310212154
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Costa Quebrada",
+    "direccion": "Avenida Fernando Saiz, 1-A",
+    "poblacion": "Soto de la Marina",
+    "municipio": "Santa Cruz de Bezana",
+    "codigo_postal": "39110",
+    "latitud": 43.463652310212154,
+    "longitud": -3.89506230186279,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39006510"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8306974856133675,
+     43.47172643800864
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Eloy Villanueva",
+    "direccion": "San Pedro del Mar 53",
+    "poblacion": "Monte",
+    "municipio": "Santander",
+    "codigo_postal": "39012",
+    "latitud": 43.47172643800864,
+    "longitud": -3.8306974856133675,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39006790"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8611681693163247,
+     43.44757412333137
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Marqués de Estella",
+    "direccion": "Leopoldo Alas, Nº 1",
+    "poblacion": "Peñacastillo",
+    "municipio": "Santander",
+    "codigo_postal": "39011",
+    "latitud": 43.44757412333137,
+    "longitud": -3.8611681693163247,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39006901"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.866515,
+     43.464069
+    ]
+   },
+   "properties": {
+    "nombre": "CC Verdemar",
+    "direccion": "La Llanilla, 102",
+    "poblacion": "San Roman",
+    "municipio": "Santander",
+    "codigo_postal": "39012",
+    "latitud": 43.464069,
+    "longitud": -3.866515,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39006947"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.846985,
+     43.4612501
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP María Sanz de Sautuola",
+    "direccion": "Avda.Del Deporte, S/N",
+    "poblacion": "San Roman",
+    "municipio": "Santander",
+    "codigo_postal": "39011",
+    "latitud": 43.4612501,
+    "longitud": -3.846985,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39006960"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8538433175892703,
+     43.46677500000004
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Manuel Cacicedo",
+    "direccion": "Barrio el Somo S/N",
+    "poblacion": "San Roman",
+    "municipio": "Santander",
+    "codigo_postal": "39012",
+    "latitud": 43.46677500000004,
+    "longitud": -3.8538433175892703,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39006996"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.835502502691351,
+     43.45572456362709
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Fuente de la Salud",
+    "direccion": "Fuente de la Salud, 8",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39011",
+    "latitud": 43.45572456362709,
+    "longitud": -3.835502502691351,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39007071"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7910224653648172,
+     43.47097454333273
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Sardinero",
+    "direccion": "Trasmiera S/N",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39005",
+    "latitud": 43.47097454333273,
+    "longitud": -3.7910224653648172,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39007095"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.827187017319491,
+     43.46211227452416
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Quinta Porrúa",
+    "direccion": "Vazquez de Mella S/N",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39007",
+    "latitud": 43.46211227452416,
+    "longitud": -3.827187017319491,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39007149"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8004189129681647,
+     43.46391560515931
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Menéndez Pelayo (Santander)",
+    "direccion": "Lope de Vega S/N",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39003",
+    "latitud": 43.46391560515931,
+    "longitud": -3.8004189129681647,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39007162"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.817514850081707,
+     43.46251537552566
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Cisneros",
+    "direccion": "Cisneros 71",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39007",
+    "latitud": 43.46251537552566,
+    "longitud": -3.817514850081707,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39007174"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.817923749861215,
+     43.46240525880589
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Antonio Mendoza",
+    "direccion": "Cisneros 71",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39007",
+    "latitud": 43.46240525880589,
+    "longitud": -3.817923749861215,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39007186"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.814719617144264,
+     43.45978459733337
+    ]
+   },
+   "properties": {
+    "nombre": "CC Purísima Concepción (Santander)",
+    "direccion": "Alta, 43",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39008",
+    "latitud": 43.45978459733337,
+    "longitud": -3.814719617144264,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39007241"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.791602917453964,
+     43.47087791663952
+    ]
+   },
+   "properties": {
+    "nombre": "CC San Roque Los Pinares",
+    "direccion": "Grupo los Pinares, 10a",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39005",
+    "latitud": 43.47087791663952,
+    "longitud": -3.791602917453964,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39007289"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7924799324134026,
+     43.46537724481208
+    ]
+   },
+   "properties": {
+    "nombre": "CC San Martín",
+    "direccion": "Canalejas, 20",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39004",
+    "latitud": 43.46537724481208,
+    "longitud": -3.7924799324134026,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39007319"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.788349,
+     43.467602
+    ]
+   },
+   "properties": {
+    "nombre": "CC María Reina Inmaculada",
+    "direccion": "Canalejas, 105",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39004",
+    "latitud": 43.467602,
+    "longitud": -3.788349,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39007356"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8104629694464376,
+     43.45763384824775
+    ]
+   },
+   "properties": {
+    "nombre": "CC Puente I (Santander)",
+    "direccion": "Calle Madrid, 4 Bis",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39009",
+    "latitud": 43.45763384824775,
+    "longitud": -3.8104629694464376,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39007368"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8108248577606387,
+     43.46553952479782
+    ]
+   },
+   "properties": {
+    "nombre": "CC Compañía de María",
+    "direccion": "Via Cornelia, 2",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39001",
+    "latitud": 43.46553952479782,
+    "longitud": -3.8108248577606387,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39007393"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.79872,
+     43.46872
+    ]
+   },
+   "properties": {
+    "nombre": "CC Haypo",
+    "direccion": "Francisco Palazuelos, 21-23",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39006",
+    "latitud": 43.46872,
+    "longitud": -3.79872,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39007423"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.80908,
+     43.467306
+    ]
+   },
+   "properties": {
+    "nombre": "CC Salesianos Santander - María Auxiliadora",
+    "direccion": "Paseo de Altamira, 73",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39006",
+    "latitud": 43.467306,
+    "longitud": -3.80908,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39007447"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8200041,
+     43.4642442
+    ]
+   },
+   "properties": {
+    "nombre": "CC Mercedes",
+    "direccion": "Paseo de Altamira, 111",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39007",
+    "latitud": 43.4642442,
+    "longitud": -3.8200041,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39007459"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.824654,
+     43.463128
+    ]
+   },
+   "properties": {
+    "nombre": "CC La salle (Santander)",
+    "direccion": "José Hierro, 33",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39007",
+    "latitud": 43.463128,
+    "longitud": -3.824654,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39007472"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7928650890807685,
+     43.463936152973446
+    ]
+   },
+   "properties": {
+    "nombre": "CC San Antonio",
+    "direccion": "San Martin, S/N",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39004",
+    "latitud": 43.463936152973446,
+    "longitud": -3.7928650890807685,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39007514"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7946,
+     43.46475
+    ]
+   },
+   "properties": {
+    "nombre": "CC Calasanz (Santander)",
+    "direccion": "Paseo de Canalejas, 8",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39004",
+    "latitud": 43.46475,
+    "longitud": -3.7946,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39007605"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8098,
+     43.46462
+    ]
+   },
+   "properties": {
+    "nombre": "CC San José (Santander)",
+    "direccion": "Asilo, 1",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39001",
+    "latitud": 43.46462,
+    "longitud": -3.8098,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39007681"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7957238653056478,
+     43.48615042837793
+    ]
+   },
+   "properties": {
+    "nombre": "CC Ángeles Custodios",
+    "direccion": "Poeta Leon Felipe, 15-17",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39004",
+    "latitud": 43.48615042837793,
+    "longitud": -3.7957238653056478,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39007708"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.839121988466193,
+     43.4565597696321
+    ]
+   },
+   "properties": {
+    "nombre": "CC Santa María Micaela",
+    "direccion": "Joaquin Bustamante, 9",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39011",
+    "latitud": 43.4565597696321,
+    "longitud": -3.839121988466193,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39007711"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.818736825563467,
+     43.46302196594116
+    ]
+   },
+   "properties": {
+    "nombre": "CC Cumbres",
+    "direccion": "Cisneros, 76-D",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39007",
+    "latitud": 43.46302196594116,
+    "longitud": -3.818736825563467,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39007800"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.808619544447708,
+     43.46482650099148
+    ]
+   },
+   "properties": {
+    "nombre": "CC La Anunciación",
+    "direccion": "San Celedonio, 8",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39001",
+    "latitud": 43.46482650099148,
+    "longitud": -3.808619544447708,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39007824"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7928704939064635,
+     43.47811079835523
+    ]
+   },
+   "properties": {
+    "nombre": "CC San Agustín",
+    "direccion": "Avenida de Pontejos, 27",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39005",
+    "latitud": 43.47811079835523,
+    "longitud": -3.7928704939064635,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39007964"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7894782870859474,
+     43.48084548334841
+    ]
+   },
+   "properties": {
+    "nombre": "CC Hernán Cortés",
+    "direccion": "Av del Faro - Pintor Eduardo Sanz, 6",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39012",
+    "latitud": 43.48084548334841,
+    "longitud": -3.7894782870859474,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39007988"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8050283815515487,
+     43.463754606054984
+    ]
+   },
+   "properties": {
+    "nombre": "CC Kostka",
+    "direccion": "Guevara, 26",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39001",
+    "latitud": 43.463754606054984,
+    "longitud": -3.8050283815515487,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39007991"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8227765786924977,
+     43.46395931576949
+    ]
+   },
+   "properties": {
+    "nombre": "IES José María Pereda",
+    "direccion": "Paseo de Altamira, 288",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39007",
+    "latitud": 43.46395931576949,
+    "longitud": -3.8227765786924977,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39008041"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8078682417325824,
+     43.4634335034354
+    ]
+   },
+   "properties": {
+    "nombre": "IES Santa Clara",
+    "direccion": "Santa Clara 13",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39001",
+    "latitud": 43.4634335034354,
+    "longitud": -3.8078682417325824,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39008051"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7899982374714556,
+     43.46937419930138
+    ]
+   },
+   "properties": {
+    "nombre": "IES Villajunco",
+    "direccion": "Junco, 8",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39005",
+    "latitud": 43.46937419930138,
+    "longitud": -3.7899982374714556,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39008063"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.848598,
+     43.461468
+    ]
+   },
+   "properties": {
+    "nombre": "IES La Albericia",
+    "direccion": "Avda.Del Deporte,s/n - la Albericia",
+    "poblacion": "San Roman",
+    "municipio": "Santander",
+    "codigo_postal": "39011",
+    "latitud": 43.461468,
+    "longitud": -3.848598,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39008075"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8511361779116333,
+     43.44804744310372
+    ]
+   },
+   "properties": {
+    "nombre": "IES Augusto González Linares",
+    "direccion": "Primero de Mayo, 1",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39011",
+    "latitud": 43.44804744310372,
+    "longitud": -3.8511361779116333,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39008087"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7793228213318617,
+     43.46775437838679
+    ]
+   },
+   "properties": {
+    "nombre": "CC Esclavas SCJ",
+    "direccion": "Perez Galdos, 41",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39005",
+    "latitud": 43.46775437838679,
+    "longitud": -3.7793228213318617,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39008105"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7929612867667024,
+     43.46630955425769
+    ]
+   },
+   "properties": {
+    "nombre": "CC Castroverde",
+    "direccion": "Tetuan, 47-49",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39004",
+    "latitud": 43.46630955425769,
+    "longitud": -3.7929612867667024,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39008117"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8245450606811873,
+     43.45370375225319
+    ]
+   },
+   "properties": {
+    "nombre": "IES Alberto Pico",
+    "direccion": "Calle Castilla. 64",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39009",
+    "latitud": 43.45370375225319,
+    "longitud": -3.8245450606811873,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39008154"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.106268233134829,
+     43.390707258226
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Santa Juliana",
+    "direccion": "Calle Jesus Otero, S/N",
+    "poblacion": "Santillana del Mar",
+    "municipio": "Santillana del Mar",
+    "codigo_postal": "39330",
+    "latitud": 43.390707258226,
+    "longitud": -4.106268233134829,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39008233"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.933252096238309,
+     43.2638325645604
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Francisco de Quevedo y Villegas",
+    "direccion": "Barrio la Venta, S/N",
+    "poblacion": "Villasevil de Toranzo",
+    "municipio": "Santiurde de Toranzo",
+    "codigo_postal": "39698",
+    "latitud": 43.2638325645604,
+    "longitud": -3.933252096238309,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39008440"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.4518829676308047,
+     43.441432929564776
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Juan de la Cosa",
+    "direccion": "O Donnel, 1",
+    "poblacion": "Santoña",
+    "municipio": "Santoña",
+    "codigo_postal": "39740",
+    "latitud": 43.441432929564776,
+    "longitud": -3.4518829676308047,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39008488"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.455194,
+     43.440194
+    ]
+   },
+   "properties": {
+    "nombre": "CC Sagrado Corazón de Jesús (Santoña)",
+    "direccion": "Carrero Blanco, 25",
+    "poblacion": "Santoña",
+    "municipio": "Santoña",
+    "codigo_postal": "39740",
+    "latitud": 43.440194,
+    "longitud": -3.455194,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39008518"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.4556266665458635,
+     43.44430396816921
+    ]
+   },
+   "properties": {
+    "nombre": "IES Marqués de Manzanedo",
+    "direccion": "Manzanedo 12",
+    "poblacion": "Santoña",
+    "municipio": "Santoña",
+    "codigo_postal": "39740",
+    "latitud": 43.44430396816921,
+    "longitud": -3.4556266665458635,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39008531"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.401622611706832,
+     43.38285505051873
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Mata Linares",
+    "direccion": "Calle las Tenerias, 4",
+    "poblacion": "San Vicente de la Barquera",
+    "municipio": "San Vicente de la Barquera",
+    "codigo_postal": "39540",
+    "latitud": 43.38285505051873,
+    "longitud": -4.401622611706832,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39008658"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.400920977246182,
+     43.38362518691543
+    ]
+   },
+   "properties": {
+    "nombre": "CC Cristo Rey",
+    "direccion": "Mata Linares, 7",
+    "poblacion": "San Vicente de la Barquera",
+    "municipio": "San Vicente de la Barquera",
+    "codigo_postal": "39540",
+    "latitud": 43.38362518691543,
+    "longitud": -4.400920977246182,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39008661"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.403199634451696,
+     43.38419554778701
+    ]
+   },
+   "properties": {
+    "nombre": "CC Corazón de María",
+    "direccion": "Alta, 12",
+    "poblacion": "San Vicente de la Barquera",
+    "municipio": "San Vicente de la Barquera",
+    "codigo_postal": "39540",
+    "latitud": 43.38419554778701,
+    "longitud": -4.403199634451696,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39008671"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8114446,
+     43.2188776
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP El Castañal",
+    "direccion": "Barrio el Castañal, 2",
+    "poblacion": "Selaya",
+    "municipio": "Selaya",
+    "codigo_postal": "39696",
+    "latitud": 43.2188776,
+    "longitud": -3.8114446,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39008725"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8054358302563958,
+     43.215049902249014
+    ]
+   },
+   "properties": {
+    "nombre": "CC Santísima Virgen de Valvanuz",
+    "direccion": "Calle la Conquista, S/N",
+    "poblacion": "Selaya",
+    "municipio": "Selaya",
+    "codigo_postal": "39696",
+    "latitud": 43.215049902249014,
+    "longitud": -3.8054358302563958,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39008737"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.5702088455531653,
+     43.18711828684694
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Jerónimo Pérez Sainz de la Maza",
+    "direccion": "Barrio Monte San Pedro, S/N",
+    "poblacion": "Quintana",
+    "municipio": "Soba",
+    "codigo_postal": "39806",
+    "latitud": 43.18711828684694,
+    "longitud": -3.5702088455531653,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39008828"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.044278917457597,
+     43.36602957057769
+    ]
+   },
+   "properties": {
+    "nombre": "CC El Salvador",
+    "direccion": "Avenida Solvay, 24",
+    "poblacion": "Barreda",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.36602957057769,
+    "longitud": -4.044278917457597,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39009122"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.063290048169032,
+     43.346400605821124
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Ramón Menéndez Pidal",
+    "direccion": "Julio R. Salazar S/N",
+    "poblacion": "Campuzano",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.346400605821124,
+    "longitud": -4.063290048169032,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39009146"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.062425592721793,
+     43.34410637168103
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Amós de Escalante",
+    "direccion": "Amancio Ruiz Capillas, S/N",
+    "poblacion": "Campuzano",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.34410637168103,
+    "longitud": -4.062425592721793,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39009161"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.066335144847262,
+     43.359968426295374
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Matilde de la Torre (Torrelavega)",
+    "direccion": "Barrio San Martin, 73",
+    "poblacion": "Ganzo",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.359968426295374,
+    "longitud": -4.066335144847262,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39009195"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.036427982253754,
+     43.34317373570739
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Pancho Cossío",
+    "direccion": "La Llana, 486",
+    "poblacion": "Sierrapando",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39317",
+    "latitud": 43.34317373570739,
+    "longitud": -4.036427982253754,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39009225"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.043135474698335,
+     43.3464399216826
+    ]
+   },
+   "properties": {
+    "nombre": "CC Ntra. Sra. de la Paz",
+    "direccion": "Padre Damian, 26",
+    "poblacion": "Torrelavega",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.3464399216826,
+    "longitud": -4.043135474698335,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39009249"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.041894246957452,
+     43.33704762953821
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Pintor Escudero Espronceda",
+    "direccion": "Carretera del Cementerio S/N",
+    "poblacion": "Tanos",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39316",
+    "latitud": 43.33704762953821,
+    "longitud": -4.041894246957452,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39009286"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.0493471,
+     43.3408201
+    ]
+   },
+   "properties": {
+    "nombre": "CC Torre de la Vega",
+    "direccion": "Fernandez Vallejo, 46",
+    "poblacion": "Tanos",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39316",
+    "latitud": 43.3408201,
+    "longitud": -4.0493471,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39009298"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.046878537372953,
+     43.346001927533955
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Menéndez Pelayo (Torrelavega)",
+    "direccion": "Avenida Fernandez Vallejo, 4",
+    "poblacion": "Torrelavega",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.346001927533955,
+    "longitud": -4.046878537372953,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39009316"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.045395912492451,
+     43.355202794081414
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP José María Pereda (Torrelavega)",
+    "direccion": "Juan XXIII 34",
+    "poblacion": "Torrelavega",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.355202794081414,
+    "longitud": -4.045395912492451,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39009328"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.054657670552224,
+     43.34841375241864
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Cervantes",
+    "direccion": "Lasaga Larreta S/N",
+    "poblacion": "Torrelavega",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.34841375241864,
+    "longitud": -4.054657670552224,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39009331"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.044610823544464,
+     43.346007544618
+    ]
+   },
+   "properties": {
+    "nombre": "CC Victoria Gómez Arce",
+    "direccion": "Joaquin Fernandez Vallejo, 18",
+    "poblacion": "Torrelavega",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.346007544618,
+    "longitud": -4.044610823544464,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39009377"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.050589283253289,
+     43.350738496874
+    ]
+   },
+   "properties": {
+    "nombre": "CC Academia Crespo",
+    "direccion": "Avenida Menendez Pelayo, 6",
+    "poblacion": "Torrelavega",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.350738496874,
+    "longitud": -4.050589283253289,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39009390"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.044885,
+     43.345506
+    ]
+   },
+   "properties": {
+    "nombre": "CCEE Dr. Fernando Arce Gómez",
+    "direccion": "Avenida de Fernando Arce, 18",
+    "poblacion": "Torrelavega",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.345506,
+    "longitud": -4.044885,
+    "tipo_centro": "Centro Concertado de Educación Especial",
+    "codigo": "39009444"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.064073027327698,
+     43.353972999659355
+    ]
+   },
+   "properties": {
+    "nombre": "IES Besaya",
+    "direccion": "Avda.De Oviedo,2",
+    "poblacion": "Torres",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.353972999659355,
+    "longitud": -4.064073027327698,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39009456"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.050746570468722,
+     43.34810403590984
+    ]
+   },
+   "properties": {
+    "nombre": "IES Marqués de Santillana",
+    "direccion": "Avda.De España, 2",
+    "poblacion": "Torrelavega",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.34810403590984,
+    "longitud": -4.050746570468722,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39009468"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.062491646063771,
+     43.35246292906261
+    ]
+   },
+   "properties": {
+    "nombre": "IES Miguel Herrero Pereda",
+    "direccion": "Paseo de Julio Hauzeur 59",
+    "poblacion": "Torrelavega",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.35246292906261,
+    "longitud": -4.062491646063771,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39009471"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.047848,
+     43.353025
+    ]
+   },
+   "properties": {
+    "nombre": "CC Mayer",
+    "direccion": "Martires, 16",
+    "poblacion": "Torrelavega",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.353025,
+    "longitud": -4.047848,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39009493"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.049403486128841,
+     43.322683840394504
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Dobra",
+    "direccion": "Paseo Fernandez Vallejo, 13",
+    "poblacion": "Viernoles",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39315",
+    "latitud": 43.322683840394504,
+    "longitud": -4.049403486128841,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39009535"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.241391381215027,
+     43.33365252375905
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Monte Corona",
+    "direccion": "Barrio el Llano, S/N",
+    "poblacion": "Llano, el",
+    "municipio": "Udias",
+    "codigo_postal": "39507",
+    "latitud": 43.33365252375905,
+    "longitud": -4.241391381215027,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39009675"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.160650763723507,
+     42.876745870212034
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Valdeolea",
+    "direccion": "Paseo de la Chopera, 2",
+    "poblacion": "Mataporquera",
+    "municipio": "Valdeolea",
+    "codigo_postal": "39410",
+    "latitud": 42.876745870212034,
+    "longitud": -4.160650763723507,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39009845"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.9420271,
+     42.8059375
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Virgen de Velilla",
+    "direccion": "Barrio la Huertona S/N",
+    "poblacion": "Polientes",
+    "municipio": "Valderredible",
+    "codigo_postal": "39220",
+    "latitud": 42.8059375,
+    "longitud": -3.9420271,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39009997"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.786227737429754,
+     43.15808997676989
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Doctor Madrazo",
+    "direccion": "El Ferial, S/N",
+    "poblacion": "Vega de Pas",
+    "municipio": "Vega de Pas",
+    "codigo_postal": "39685",
+    "latitud": 43.15808997676989,
+    "longitud": -3.786227737429754,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39010446"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.805386678959618,
+     43.23093565145733
+    ]
+   },
+   "properties": {
+    "nombre": "CC Calasanz (Villacarriedo)",
+    "direccion": "Avenida de los Escolapios, 45",
+    "poblacion": "Villacarriedo",
+    "municipio": "Villacarriedo",
+    "codigo_postal": "39640",
+    "latitud": 43.23093565145733,
+    "longitud": -3.805386678959618,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39010598"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.857783369155713,
+     43.37122982460704
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Marcial Solana",
+    "direccion": "Barrio la Mina S/N",
+    "poblacion": "Concha, la",
+    "municipio": "Villaescusa",
+    "codigo_postal": "39690",
+    "latitud": 43.37122982460704,
+    "longitud": -3.857783369155713,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39010616"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.622769107177084,
+     43.15572328234247
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Concepción Arenal",
+    "direccion": "Santa Olaja, 10",
+    "poblacion": "Potes",
+    "municipio": "Potes",
+    "codigo_postal": "39570",
+    "latitud": 43.15572328234247,
+    "longitud": -4.622769107177084,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39010951"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.855023655590969,
+     43.4134413660412
+    ]
+   },
+   "properties": {
+    "nombre": "IES Ría del Carmen",
+    "direccion": "Avenida de Burgos, S/N",
+    "poblacion": "Muriedas",
+    "municipio": "Camargo",
+    "codigo_postal": "39600",
+    "latitud": 43.4134413660412,
+    "longitud": -3.855023655590969,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39011001"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.4657959,
+     43.258754
+    ]
+   },
+   "properties": {
+    "nombre": "CEO Príncipe de Asturias",
+    "direccion": "Salvador Perez, 7",
+    "poblacion": "Ramales de la Victoria",
+    "municipio": "Ramales de la Victoria",
+    "codigo_postal": "39800",
+    "latitud": 43.258754,
+    "longitud": -3.4657959,
+    "tipo_centro": "Centro público",
+    "codigo": "39011037"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.297003932328309,
+     43.21987057851815
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Manuel Llano (Terán)",
+    "direccion": "Barrio Villanueva S/N",
+    "poblacion": "Teran",
+    "municipio": "Cabuerniga (Valle De)",
+    "codigo_postal": "39511",
+    "latitud": 43.21987057851815,
+    "longitud": -4.297003932328309,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011177"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8173087765564575,
+     43.46183405709044
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Magallanes",
+    "direccion": "Magallanes, 45",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39007",
+    "latitud": 43.46183405709044,
+    "longitud": -3.8173087765564575,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011189"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.238388985631384,
+     43.30601673169648
+    ]
+   },
+   "properties": {
+    "nombre": "IES Valle del Saja",
+    "direccion": "Tresano, 11",
+    "poblacion": "Cabezon de la Sal",
+    "municipio": "Cabezon de la Sal",
+    "codigo_postal": "39500",
+    "latitud": 43.30601673169648,
+    "longitud": -4.238388985631384,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39011190"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.2213845129664667,
+     43.380751055823254
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Arturo Dúo",
+    "direccion": "Leonardo Rucabado, 6",
+    "poblacion": "Castro-Urdiales",
+    "municipio": "Castro-Urdiales",
+    "codigo_postal": "39700",
+    "latitud": 43.380751055823254,
+    "longitud": -3.2213845129664667,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011220"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.5013963401961776,
+     43.343550199521836
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Marquesa de Viluma",
+    "direccion": "Barrio Rivas, S/N",
+    "poblacion": "San Pantaleon de Aras",
+    "municipio": "Voto",
+    "codigo_postal": "39766",
+    "latitud": 43.343550199521836,
+    "longitud": -3.5013963401961776,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011271"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.82200335351438,
+     43.46287749740119
+    ]
+   },
+   "properties": {
+    "nombre": "CC Decroly",
+    "direccion": "Jimenez Diaz, 5",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39007",
+    "latitud": 43.46287749740119,
+    "longitud": -3.82200335351438,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39011293"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.735947151232743,
+     43.40917453059162
+    ]
+   },
+   "properties": {
+    "nombre": "CC Ave María",
+    "direccion": "Avenida Calvo Sotelo, S/N",
+    "poblacion": "Solares",
+    "municipio": "Medio Cudeyo",
+    "codigo_postal": "39710",
+    "latitud": 43.40917453059162,
+    "longitud": -3.735947151232743,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39011301"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8368946557268817,
+     43.46357540600486
+    ]
+   },
+   "properties": {
+    "nombre": "IES Cantabria",
+    "direccion": "Calle Repuente, 55",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39012",
+    "latitud": 43.46357540600486,
+    "longitud": -3.8368946557268817,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39011323"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.79557,
+     43.46458
+    ]
+   },
+   "properties": {
+    "nombre": "CCEE Stephane Lupasco",
+    "direccion": "Andres del Rio, 7",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39004",
+    "latitud": 43.46458,
+    "longitud": -3.79557,
+    "tipo_centro": "Centro Concertado de Educación Especial",
+    "codigo": "39011347"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.3349481690989373,
+     43.354145589144146
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Ntra. Sra. de las Nieves",
+    "direccion": "Barrio la Magdalena S/N",
+    "poblacion": "Magdalena, la",
+    "municipio": "Guriezo",
+    "codigo_postal": "39788",
+    "latitud": 43.354145589144146,
+    "longitud": -3.3349481690989373,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011360"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.837122,
+     43.457042
+    ]
+   },
+   "properties": {
+    "nombre": "IES Leonardo Torres Quevedo",
+    "direccion": "Avenida Leonardo Torres Quevedo,5",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39011",
+    "latitud": 43.457042,
+    "longitud": -3.837122,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39011396"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.23928122469524,
+     43.29861793838602
+    ]
+   },
+   "properties": {
+    "nombre": "IES Foramontanos",
+    "direccion": "Avenida Constitucion, 51",
+    "poblacion": "Cabezon de la Sal",
+    "municipio": "Cabezon de la Sal",
+    "codigo_postal": "39500",
+    "latitud": 43.29861793838602,
+    "longitud": -4.23928122469524,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39011441"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.5538612,
+     43.4577829
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP San Pedro Apóstol",
+    "direccion": "Barrio de San Pedro, S/N",
+    "poblacion": "Castillo",
+    "municipio": "Arnuero",
+    "codigo_postal": "39193",
+    "latitud": 43.4577829,
+    "longitud": -3.5538612,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011451"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8724057776641008,
+     43.43343129663589
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Mateo Escagedo Salmón",
+    "direccion": "Central, 10",
+    "poblacion": "Cacicedo",
+    "municipio": "Camargo",
+    "codigo_postal": "39608",
+    "latitud": 43.43343129663589,
+    "longitud": -3.8724057776641008,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011475"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7464681480873785,
+     43.34499034834352
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Eugenio Perojo",
+    "direccion": "Paseo de Velasco S/N",
+    "poblacion": "Lierganes",
+    "municipio": "Lierganes",
+    "codigo_postal": "39722",
+    "latitud": 43.34499034834352,
+    "longitud": -3.7464681480873785,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011487"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.172933,
+     43.316449
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Malacoria",
+    "direccion": "Barrio la Carretera, 63",
+    "poblacion": "Ibio",
+    "municipio": "Mazcuerras",
+    "codigo_postal": "39509",
+    "latitud": 43.316449,
+    "longitud": -4.172933,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011499"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.016678006469419,
+     43.435596764901305
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Marzán",
+    "direccion": "Calle Playa Marzan, 717",
+    "poblacion": "Cuchia",
+    "municipio": "Miengo",
+    "codigo_postal": "39318",
+    "latitud": 43.435596764901305,
+    "longitud": -4.016678006469419,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011505"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.953964475007089,
+     43.35510349318409
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Virgen de Valencia",
+    "direccion": "Avenida Luis de la Concha S/N",
+    "poblacion": "Renedo",
+    "municipio": "Pielagos",
+    "codigo_postal": "39470",
+    "latitud": 43.35510349318409,
+    "longitud": -3.953964475007089,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011517"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.959240937636816,
+     43.32270896348207
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Cuevas del Castillo",
+    "direccion": "Barrio el Angel, S/N",
+    "poblacion": "Vargas",
+    "municipio": "Puente Viesgo",
+    "codigo_postal": "39679",
+    "latitud": 43.32270896348207,
+    "longitud": -3.959240937636816,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011529"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7271883300595263,
+     43.458726575655966
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Ntra. Sra. de Latas",
+    "direccion": "Calle los Beatos, 2",
+    "poblacion": "Somo",
+    "municipio": "Ribamontan al Mar",
+    "codigo_postal": "39140",
+    "latitud": 43.458726575655966,
+    "longitud": -3.7271883300595263,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011530"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.40801766772884,
+     43.254798718604086
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Valle del Nansa",
+    "direccion": "Puentenansa",
+    "poblacion": "Puentenansa",
+    "municipio": "Rionansa",
+    "codigo_postal": "39554",
+    "latitud": 43.254798718604086,
+    "longitud": -4.40801766772884,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011542"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.851855667127866,
+     43.30918934139486
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Gerardo Diego (Cayón)",
+    "direccion": "Barrio el Sombrero, S/N",
+    "poblacion": "Santa Maria de Cayon",
+    "municipio": "Santa Maria de Cayon",
+    "codigo_postal": "39694",
+    "latitud": 43.30918934139486,
+    "longitud": -3.851855667127866,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011554"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.797975,
+     43.484959
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Vital Alsar",
+    "direccion": "Avenida Ines Diego del Noval, 2",
+    "poblacion": "Cueto",
+    "municipio": "Santander",
+    "codigo_postal": "39012",
+    "latitud": 43.484959,
+    "longitud": -3.797975,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011566"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.828861722265953,
+     43.46351326375736
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Manuel Llano (Santander)",
+    "direccion": "Bajada del Caleruco, S/N",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39012",
+    "latitud": 43.46351326375736,
+    "longitud": -3.828861722265953,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011578"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.4564060653261923,
+     43.44773911851755
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Macías Picavea",
+    "direccion": "La Alameda S/N",
+    "poblacion": "Santoña",
+    "municipio": "Santoña",
+    "codigo_postal": "39740",
+    "latitud": 43.44773911851755,
+    "longitud": -3.4564060653261923,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011581"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.052993086344805,
+     43.340140908751664
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP José Luís Hidalgo",
+    "direccion": "Arcadio Gonzalez S/N",
+    "poblacion": "Torrelavega",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.340140908751664,
+    "longitud": -4.052993086344805,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011591"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.297332915348096,
+     43.3162127881693
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Valdáliga",
+    "direccion": "Barrio el Ansar, 1",
+    "poblacion": "Treceño",
+    "municipio": "Valdaliga",
+    "codigo_postal": "39592",
+    "latitud": 43.3162127881693,
+    "longitud": -4.297332915348096,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011608"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.48685040646066,
+     43.37457136728092
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Fuente Salín",
+    "direccion": "Barrio el Valledal",
+    "poblacion": "Pesues",
+    "municipio": "Val de San Vicente",
+    "codigo_postal": "39548",
+    "latitud": 43.37457136728092,
+    "longitud": -4.48685040646066,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011611"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.489229102535829,
+     43.411875212655225
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Flavio San Román",
+    "direccion": "Barrio de la Ermita S/N",
+    "poblacion": "Cicero",
+    "municipio": "Barcena de Cicero",
+    "codigo_postal": "39796",
+    "latitud": 43.411875212655225,
+    "longitud": -3.489229102535829,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011621"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.4552821805842853,
+     43.3977567349408
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Pedro del Hoyo",
+    "direccion": "Ria del Ason, 3",
+    "poblacion": "Colindres",
+    "municipio": "Colindres",
+    "codigo_postal": "39750",
+    "latitud": 43.3977567349408,
+    "longitud": -3.4552821805842853,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011657"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.801981108805453,
+     43.46917322905235
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP María Blanchard",
+    "direccion": "Fernando de los Rios, 60",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39006",
+    "latitud": 43.46917322905235,
+    "longitud": -3.801981108805453,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011670"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.846925,
+     43.455952
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Gerardo Diego (Santander)",
+    "direccion": "Poeta Gerardo Diego, 40",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39011",
+    "latitud": 43.455952,
+    "longitud": -3.846925,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39011682"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.414441996445964,
+     43.4064884651805
+    ]
+   },
+   "properties": {
+    "nombre": "IES Fuente Fresnedo",
+    "direccion": "Reconquista de Sevilla, 45",
+    "poblacion": "Laredo",
+    "municipio": "Laredo",
+    "codigo_postal": "39770",
+    "latitud": 43.4064884651805,
+    "longitud": -3.414441996445964,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39011700"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8185047353723376,
+     43.334696289281595
+    ]
+   },
+   "properties": {
+    "nombre": "EI Ambrosio Díez Gómez",
+    "direccion": "Arenal de Penagos",
+    "poblacion": "Arenal",
+    "municipio": "Penagos",
+    "codigo_postal": "39628",
+    "latitud": 43.334696289281595,
+    "longitud": -3.8185047353723376,
+    "tipo_centro": "Escuela Infantil",
+    "codigo": "39011748"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7917201997856194,
+     43.46464713696112
+    ]
+   },
+   "properties": {
+    "nombre": "CC López Vicuña",
+    "direccion": "Calle León Felipe, Nº18",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39004",
+    "latitud": 43.46464713696112,
+    "longitud": -3.7917201997856194,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39011992"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.457683,
+     43.447881
+    ]
+   },
+   "properties": {
+    "nombre": "IES Marismas",
+    "direccion": "Sor Mª del Carmen, 5",
+    "poblacion": "Santoña",
+    "municipio": "Santoña",
+    "codigo_postal": "39740",
+    "latitud": 43.447881,
+    "longitud": -3.457683,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39012081"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7947294702099335,
+     43.4817277511287
+    ]
+   },
+   "properties": {
+    "nombre": "CCEE Padre Apolinar",
+    "direccion": "Calle Autonomía, 4",
+    "poblacion": "Cueto",
+    "municipio": "Santander",
+    "codigo_postal": "39012",
+    "latitud": 43.4817277511287,
+    "longitud": -3.7947294702099335,
+    "tipo_centro": "Centro Concertado de Educación Especial",
+    "codigo": "39012108"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.037497319494233,
+     43.34140253399696
+    ]
+   },
+   "properties": {
+    "nombre": "CC Sagrados Corazones (Torrelavega)",
+    "direccion": "Sierrapando, 508",
+    "poblacion": "Torrelavega",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39317",
+    "latitud": 43.34140253399696,
+    "longitud": -4.037497319494233,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39012121"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8618432,
+     43.4352087
+    ]
+   },
+   "properties": {
+    "nombre": "CC Sagrada Familia",
+    "direccion": "Avenida Santander, 127 - las Presas",
+    "poblacion": "Herrera",
+    "municipio": "Camargo",
+    "codigo_postal": "39608",
+    "latitud": 43.4352087,
+    "longitud": -3.8618432,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39012133"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.754901,
+     43.422661
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Marina de Cudeyo",
+    "direccion": "Carretera General S/N",
+    "poblacion": "Rubayo",
+    "municipio": "Marina de Cudeyo",
+    "codigo_postal": "39719",
+    "latitud": 43.422661,
+    "longitud": -3.754901,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39012236"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.738262682208988,
+     43.378048050469005
+    ]
+   },
+   "properties": {
+    "nombre": "IES Ricardo Bernardo",
+    "direccion": "Mies del Corro S/N",
+    "poblacion": "Solares",
+    "municipio": "Medio Cudeyo",
+    "codigo_postal": "39710",
+    "latitud": 43.378048050469005,
+    "longitud": -3.738262682208988,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39012248"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8123808751263164,
+     43.4571895779046
+    ]
+   },
+   "properties": {
+    "nombre": "CCEE Juan XXIII",
+    "direccion": "Nicolas Salmeron, 1",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39009",
+    "latitud": 43.4571895779046,
+    "longitud": -3.8123808751263164,
+    "tipo_centro": "Centro Concertado de Educación Especial",
+    "codigo": "39012297"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8160482,
+     43.4660428
+    ]
+   },
+   "properties": {
+    "nombre": "CPM Jesús de Monasterio",
+    "direccion": "Paseo de Altamira, 85",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39006",
+    "latitud": 43.4660428,
+    "longitud": -3.8160482,
+    "tipo_centro": "Conservatorio Profesional de Música",
+    "codigo": "39012364"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.81188,
+     43.46739
+    ]
+   },
+   "properties": {
+    "nombre": "CMPM Ataulfo Argenta",
+    "direccion": "Paseo de Altamira,77 (Finca Altamira)",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39006",
+    "latitud": 43.46739,
+    "longitud": -3.81188,
+    "tipo_centro": "Conservatorio Municipal Profesional de Música",
+    "codigo": "39012376"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8050349007397335,
+     43.46944356102196
+    ]
+   },
+   "properties": {
+    "nombre": "CC Atalaya",
+    "direccion": "Bajada Rumayor, S/N",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39006",
+    "latitud": 43.46944356102196,
+    "longitud": -3.8050349007397335,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39012467"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.0485189244843625,
+     43.34573760400429
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Fernando de los Ríos (Torrelavega)",
+    "direccion": "Avenida de la Constitucion, 5",
+    "poblacion": "Torrelavega",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.34573760400429,
+    "longitud": -4.0485189244843625,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39012534"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.0427529,
+     43.3664002
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Manuel Liaño Beristain",
+    "direccion": "La Sierra",
+    "poblacion": "Barreda",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.3664002,
+    "longitud": -4.0427529,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39012637"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.049028845071617,
+     43.345029120734154
+    ]
+   },
+   "properties": {
+    "nombre": "IES Zapatón",
+    "direccion": "Avenida de la Constitucion, 7",
+    "poblacion": "Torrelavega",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.345029120734154,
+    "longitud": -4.049028845071617,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39012649"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.434496,
+     43.410031
+    ]
+   },
+   "properties": {
+    "nombre": "CEE Pintor Martín Sáez",
+    "direccion": "Avenida Derechos Humanos, 21",
+    "poblacion": "Laredo",
+    "municipio": "Laredo",
+    "codigo_postal": "39770",
+    "latitud": 43.410031,
+    "longitud": -3.434496,
+    "tipo_centro": "Centro de Educación Especial",
+    "codigo": "39012728"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.4320712942510667,
+     43.40886681889654
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Pablo Picasso",
+    "direccion": "Avenida Derechos Humanos, S/N",
+    "poblacion": "Laredo",
+    "municipio": "Laredo",
+    "codigo_postal": "39770",
+    "latitud": 43.40886681889654,
+    "longitud": -3.4320712942510667,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39012765"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8564803343877223,
+     43.41387420398421
+    ]
+   },
+   "properties": {
+    "nombre": "IES Valle de Camargo",
+    "direccion": "Avenida de Burgos,s/n",
+    "poblacion": "Muriedas",
+    "municipio": "Camargo",
+    "codigo_postal": "39600",
+    "latitud": 43.41387420398421,
+    "longitud": -3.8564803343877223,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39012789"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.839378,
+     43.458618
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Jesús Cancio (Santander)",
+    "direccion": "Avenida Cardenal Herrera Oria, 25",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39520",
+    "latitud": 43.458618,
+    "longitud": -3.839378,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39012790"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.810353073102167,
+     43.46027519284188
+    ]
+   },
+   "properties": {
+    "nombre": "Armengou",
+    "direccion": "Rampa Sotileza, 1",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39008",
+    "latitud": 43.46027519284188,
+    "longitud": -3.810353073102167,
+    "tipo_centro": "Centro privado",
+    "codigo": "39012856"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.4181620573413793,
+     43.33587380507876
+    ]
+   },
+   "properties": {
+    "nombre": "IES José del Campo",
+    "direccion": "Barrio el Rocillo S/N",
+    "poblacion": "Ampuero",
+    "municipio": "Ampuero",
+    "codigo_postal": "39840",
+    "latitud": 43.33587380507876,
+    "longitud": -3.4181620573413793,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39012935"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.813374784815492,
+     43.45537733166884
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP José Arce Bodega",
+    "direccion": "Marques de la Hermida, 5",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39009",
+    "latitud": 43.45537733166884,
+    "longitud": -3.813374784815492,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39012947"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.848839890444563,
+     43.41471991568684
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Matilde de la Torre (Camargo)",
+    "direccion": "Avenida de la Libertad, S/N",
+    "poblacion": "Muriedas",
+    "municipio": "Camargo",
+    "codigo_postal": "39600",
+    "latitud": 43.41471991568684,
+    "longitud": -3.848839890444563,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39012960"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.064472,
+     43.3490797
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Mies de Vega",
+    "direccion": "Avenida Manuel Pondal, Nº6",
+    "poblacion": "Torrelavega",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.3490797,
+    "longitud": -4.064472,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39013071"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8090155909423937,
+     43.47005812468051
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Dionisio García Barredo",
+    "direccion": "Avenida de los Castros, 62",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39005",
+    "latitud": 43.47005812468051,
+    "longitud": -3.8090155909423937,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39013083"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7934519540313003,
+     43.474097026483186
+    ]
+   },
+   "properties": {
+    "nombre": "IES Las Llamas",
+    "direccion": "Alcalde Vega Lamera, 2",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39005",
+    "latitud": 43.474097026483186,
+    "longitud": -3.7934519540313003,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39013095"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.856083478726086,
+     43.45803794576355
+    ]
+   },
+   "properties": {
+    "nombre": "IES Alisal",
+    "direccion": "Avenida Vicente Trueba S/N",
+    "poblacion": "San Roman",
+    "municipio": "Santander",
+    "codigo_postal": "39012",
+    "latitud": 43.45803794576355,
+    "longitud": -3.856083478726086,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39013101"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.048778637762068,
+     43.33998187250167
+    ]
+   },
+   "properties": {
+    "nombre": "IES Garcilaso de la Vega",
+    "direccion": "Tanos, S/N",
+    "poblacion": "Tanos",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39316",
+    "latitud": 43.33998187250167,
+    "longitud": -4.048778637762068,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39013113"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8175583373359143,
+     43.46265259617902
+    ]
+   },
+   "properties": {
+    "nombre": "EOI Santander",
+    "direccion": "Cisneros,74",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39007",
+    "latitud": 43.46265259617902,
+    "longitud": -3.8175583373359143,
+    "tipo_centro": "Escuela Oficial de Idiomas",
+    "codigo": "39013149"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7989215174798745,
+     43.485061578139096
+    ]
+   },
+   "properties": {
+    "nombre": "CC Centro Social Bellavista - Julio Blanco",
+    "direccion": "Calle Camus, 30",
+    "poblacion": "Cueto",
+    "municipio": "Santander",
+    "codigo_postal": "39012",
+    "latitud": 43.485061578139096,
+    "longitud": -3.7989215174798745,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39013162"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.823266700258681,
+     43.47249785472177
+    ]
+   },
+   "properties": {
+    "nombre": "CC Jardín de África",
+    "direccion": "Barrio Aviche, 37",
+    "poblacion": "Monte",
+    "municipio": "Santander",
+    "codigo_postal": "39012",
+    "latitud": 43.47249785472177,
+    "longitud": -3.823266700258681,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39013277"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.0635387,
+     43.2655562
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Gerardo Diego (Corrales)",
+    "direccion": "Calle Ángel Sanz Briz , 17 (Lombera)",
+    "poblacion": "Los Corrales de Buelna",
+    "municipio": "Los Corrales de Buelna",
+    "codigo_postal": "39400",
+    "latitud": 43.2655562,
+    "longitud": -4.0635387,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39013320"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.823290313348997,
+     43.39604009897626
+    ]
+   },
+   "properties": {
+    "nombre": "IES El Astillero",
+    "direccion": "Nemesio Mercapide Compains, 5",
+    "poblacion": "Astillero (El)",
+    "municipio": "Astillero (El)",
+    "codigo_postal": "39610",
+    "latitud": 43.39604009897626,
+    "longitud": -3.823290313348997,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39013368"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.785969795180048,
+     43.46396861456684
+    ]
+   },
+   "properties": {
+    "nombre": "CC Tagore",
+    "direccion": "Avenida Reina Victoria, 61",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39004",
+    "latitud": 43.46396861456684,
+    "longitud": -3.785969795180048,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39013381"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.401940470572063,
+     43.383110867107995
+    ]
+   },
+   "properties": {
+    "nombre": "IES José Hierro",
+    "direccion": "Las Tenerias, 2",
+    "poblacion": "San Vicente de la Barquera",
+    "municipio": "San Vicente de la Barquera",
+    "codigo_postal": "39540",
+    "latitud": 43.383110867107995,
+    "longitud": -4.401940470572063,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39013393"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.819258086596132,
+     43.46090615357083
+    ]
+   },
+   "properties": {
+    "nombre": "Mancina",
+    "direccion": "San Fernando,16",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39010",
+    "latitud": 43.46090615357083,
+    "longitud": -3.819258086596132,
+    "tipo_centro": "Centro privado",
+    "codigo": "39013459"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.0647051,
+     43.3544296
+    ]
+   },
+   "properties": {
+    "nombre": "EOI Torrelavega",
+    "direccion": "Avenida de Oviedo, 4",
+    "poblacion": "Torrelavega",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.3544296,
+    "longitud": -4.0647051,
+    "tipo_centro": "Escuela Oficial de Idiomas",
+    "codigo": "39013496"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.4571625992883632,
+     43.39704019389771
+    ]
+   },
+   "properties": {
+    "nombre": "IES Valentín Turienzo",
+    "direccion": "Calle Monte, 26",
+    "poblacion": "Colindres",
+    "municipio": "Colindres",
+    "codigo_postal": "39750",
+    "latitud": 43.39704019389771,
+    "longitud": -3.4571625992883632,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39013575"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.0500049764848525,
+     43.321852610697135
+    ]
+   },
+   "properties": {
+    "nombre": "IES Manuel Gutiérrez Aragón",
+    "direccion": "Paseo Joaquin Fernandez Vallejo, 13",
+    "poblacion": "Viernoles",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39315",
+    "latitud": 43.321852610697135,
+    "longitud": -4.0500049764848525,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39013587"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.852578800269327,
+     43.44703123084221
+    ]
+   },
+   "properties": {
+    "nombre": "IES Peñacastillo",
+    "direccion": "Avenida Eduardo Garcia, S/N",
+    "poblacion": "Peñacastillo",
+    "municipio": "Santander",
+    "codigo_postal": "39011",
+    "latitud": 43.44703123084221,
+    "longitud": -3.852578800269327,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39013599"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.953041494886039,
+     43.31505607042053
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP El Haya",
+    "direccion": "Barrio el Haya, S/N",
+    "poblacion": "Villabañez",
+    "municipio": "Castañeda",
+    "codigo_postal": "39660",
+    "latitud": 43.31505607042053,
+    "longitud": -3.953041494886039,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39013630"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.9670951039631692,
+     43.430484763871014
+    ]
+   },
+   "properties": {
+    "nombre": "CC Torrevelo - Peñalabra",
+    "direccion": "Calle el Barco, 351",
+    "poblacion": "Mogro",
+    "municipio": "Miengo",
+    "codigo_postal": "39310",
+    "latitud": 43.430484763871014,
+    "longitud": -3.9670951039631692,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39013678"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.4212758186369334,
+     43.360865433556384
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Asón",
+    "direccion": "Avenida Conde Albox S/N",
+    "poblacion": "Limpias",
+    "municipio": "Limpias",
+    "codigo_postal": "39820",
+    "latitud": 43.360865433556384,
+    "longitud": -3.4212758186369334,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "39013691"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.766154956717154,
+     43.39705852828255
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Peña Cabarga",
+    "direccion": "Barrio la Sota, 8",
+    "poblacion": "Heras",
+    "municipio": "Medio Cudeyo",
+    "codigo_postal": "39792",
+    "latitud": 43.39705852828255,
+    "longitud": -3.766154956717154,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "39013711"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8454831,
+     43.4394058
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Nueva Montaña",
+    "direccion": "Francisco Tomas y Valiente, 1",
+    "poblacion": "Peñacastillo",
+    "municipio": "Santander",
+    "codigo_postal": "39011",
+    "latitud": 43.4394058,
+    "longitud": -3.8454831,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39013769"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.846765364834746,
+     43.236142448472734
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Río Pisueña",
+    "direccion": "Avenida Pérez Venero, 57",
+    "poblacion": "Santibañez",
+    "municipio": "Villacarriedo",
+    "codigo_postal": "39649",
+    "latitud": 43.236142448472734,
+    "longitud": -3.846765364834746,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "39013770"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.7891175,
+     43.128233
+    ]
+   },
+   "properties": {
+    "nombre": "CRA Liébana",
+    "direccion": "Santa Olaja S/N",
+    "poblacion": "Espinama",
+    "municipio": "Camaleño",
+    "codigo_postal": "39570",
+    "latitud": 43.128233,
+    "longitud": -4.7891175,
+    "tipo_centro": "Colegio Rural Agrupado",
+    "codigo": "39013782"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.06953598862628,
+     43.231898369505224
+    ]
+   },
+   "properties": {
+    "nombre": "EI Villasuso",
+    "direccion": "Barrio el Rivero, 187",
+    "poblacion": "Villasuso",
+    "municipio": "Cieza",
+    "codigo_postal": "39407",
+    "latitud": 43.231898369505224,
+    "longitud": -4.06953598862628,
+    "tipo_centro": "Escuela Infantil",
+    "codigo": "39013824"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.826026230772872,
+     43.46044630479337
+    ]
+   },
+   "properties": {
+    "nombre": "Raquel Martinez",
+    "direccion": "Camilo Alonso Vega, 17, 4º Derecha",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39007",
+    "latitud": 43.46044630479337,
+    "longitud": -3.826026230772872,
+    "tipo_centro": "Centro privado",
+    "codigo": "39013836"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.84843792707148,
+     43.44717548316526
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Elena Quiroga",
+    "direccion": "San Martin del Pino, S/N",
+    "poblacion": "Peñacastillo",
+    "municipio": "Santander",
+    "codigo_postal": "39011",
+    "latitud": 43.44717548316526,
+    "longitud": -3.84843792707148,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39013873"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8417954788439457,
+     43.419540484683495
+    ]
+   },
+   "properties": {
+    "nombre": "Dantea",
+    "direccion": "Avenida de Cantabria, 22 Bajo",
+    "poblacion": "Maliaño",
+    "municipio": "Camargo",
+    "codigo_postal": "39600",
+    "latitud": 43.419540484683495,
+    "longitud": -3.8417954788439457,
+    "tipo_centro": "Centro privado",
+    "codigo": "39013897"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.049371,
+     43.3408201
+    ]
+   },
+   "properties": {
+    "nombre": "CC Niño Jesús",
+    "direccion": "Joaquin Bustamante, 19",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39011",
+    "latitud": 43.3408201,
+    "longitud": -4.049371,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39013915"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.840484915602959,
+     43.45682907906561
+    ]
+   },
+   "properties": {
+    "nombre": "Mª LUISA MARTIN HORGA",
+    "direccion": "Almirante Joaquin Bustamante, 14",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39011",
+    "latitud": 43.45682907906561,
+    "longitud": -3.840484915602959,
+    "tipo_centro": "Centro privado",
+    "codigo": "39014099"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8176667290953104,
+     43.45215286505068
+    ]
+   },
+   "properties": {
+    "nombre": "CC Miguel Bravo",
+    "direccion": "Fernando Montalvo, S/N",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39009",
+    "latitud": 43.45215286505068,
+    "longitud": -3.8176667290953104,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39014105"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.093200096084439,
+     43.356874371608
+    ]
+   },
+   "properties": {
+    "nombre": "IES Nueve Valles",
+    "direccion": "El Pindial, S/N",
+    "poblacion": "Puente San Miguel",
+    "municipio": "Reocin",
+    "codigo_postal": "39530",
+    "latitud": 43.356874371608,
+    "longitud": -4.093200096084439,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39014129"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.851451673048176,
+     43.31013828398981
+    ]
+   },
+   "properties": {
+    "nombre": "IES Lope de Vega",
+    "direccion": "Barrio el Sombrero S/N",
+    "poblacion": "Santa María de Cayón",
+    "municipio": "Santa María de Cayón",
+    "codigo_postal": "39694",
+    "latitud": 43.31013828398981,
+    "longitud": -3.851451673048176,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39014130"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.9189,
+     43.1969
+    ]
+   },
+   "properties": {
+    "nombre": "IESO Vega de Toranzo",
+    "direccion": "Avenida Joaquin Villegas S/N",
+    "poblacion": "Alceda",
+    "municipio": "Corvera de Toranzo",
+    "codigo_postal": "39680",
+    "latitud": 43.1969,
+    "longitud": -3.9189,
+    "tipo_centro": "Instituto de Educación Secundaria Obligatoria",
+    "codigo": "39014154"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.5725765591929677,
+     43.456302377681915
+    ]
+   },
+   "properties": {
+    "nombre": "IES San Miguel de Meruelo",
+    "direccion": "Barrio de Santa Ana S/N",
+    "poblacion": "San Miguel de Meruelo",
+    "municipio": "Meruelo",
+    "codigo_postal": "39192",
+    "latitud": 43.456302377681915,
+    "longitud": -3.5725765591929677,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39014178"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.9542114010391995,
+     43.35859722118178
+    ]
+   },
+   "properties": {
+    "nombre": "IES Valle de Piélagos",
+    "direccion": "Barrio Sorribero Bajo S/N",
+    "poblacion": "Renedo",
+    "municipio": "Pielagos",
+    "codigo_postal": "39470",
+    "latitud": 43.35859722118178,
+    "longitud": -3.9542114010391995,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39014211"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.9013739555031015,
+     43.44495857877516
+    ]
+   },
+   "properties": {
+    "nombre": "IES La Marina",
+    "direccion": "Calle Jose Hierro S/N",
+    "poblacion": "Santa Cruz de Bezana",
+    "municipio": "Santa Cruz de Bezana",
+    "codigo_postal": "39100",
+    "latitud": 43.44495857877516,
+    "longitud": -3.9013739555031015,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39014221"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.041280611111126,
+     43.41677631727399
+    ]
+   },
+   "properties": {
+    "nombre": "IESO Ría San Martín",
+    "direccion": "Bellavista, 14",
+    "poblacion": "Cortiguera",
+    "municipio": "Suances",
+    "codigo_postal": "39340",
+    "latitud": 43.41677631727399,
+    "longitud": -4.041280611111126,
+    "tipo_centro": "Instituto de Educación Secundaria Obligatoria",
+    "codigo": "39014233"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8549861,
+     43.4238986
+    ]
+   },
+   "properties": {
+    "nombre": "IES Muriedas",
+    "direccion": "Pedro Velarde, S/N",
+    "poblacion": "Muriedas",
+    "municipio": "Camargo",
+    "codigo_postal": "39600",
+    "latitud": 43.4238986,
+    "longitud": -3.8549861,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39014270"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.14234,
+     43.00061
+    ]
+   },
+   "properties": {
+    "nombre": "IES Montesclaros",
+    "direccion": "Dr. Jimenez Diaz, 6",
+    "poblacion": "Reinosa",
+    "municipio": "Reinosa",
+    "codigo_postal": "39200",
+    "latitud": 43.00061,
+    "longitud": -4.14234,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39014282"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8505922154315333,
+     43.457570912941
+    ]
+   },
+   "properties": {
+    "nombre": "Madre Mercedes",
+    "direccion": "Avenida Cardenal Herrera Oria, 98",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39011",
+    "latitud": 43.457570912941,
+    "longitud": -3.8505922154315333,
+    "tipo_centro": "Centro privado",
+    "codigo": "39014294"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8194002886184015,
+     43.46032814344217
+    ]
+   },
+   "properties": {
+    "nombre": "Academia Musical Vargas 47",
+    "direccion": "Vargas 47",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39010",
+    "latitud": 43.46032814344217,
+    "longitud": -3.8194002886184015,
+    "tipo_centro": "Centro privado",
+    "codigo": "39014324"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.455191475128421,
+     43.3963295359791
+    ]
+   },
+   "properties": {
+    "nombre": "La Cucaña",
+    "direccion": "Calle Carmen, 16",
+    "poblacion": "Colindres",
+    "municipio": "Colindres",
+    "codigo_postal": "39750",
+    "latitud": 43.3963295359791,
+    "longitud": -3.455191475128421,
+    "tipo_centro": "Centro privado",
+    "codigo": "39014336"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8973468884440248,
+     43.44135421890445
+    ]
+   },
+   "properties": {
+    "nombre": "Alexmar - Danza",
+    "direccion": "Calle Respuela 2",
+    "poblacion": "Santa Cruz de Bezana",
+    "municipio": "Santa Cruz de Bezana",
+    "codigo_postal": "39100",
+    "latitud": 43.44135421890445,
+    "longitud": -3.8973468884440248,
+    "tipo_centro": "Centro privado",
+    "codigo": "39014403"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.038551552125363,
+     43.42137319849741
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Portus Blendium",
+    "direccion": "Avenida Jose Antonio, 31-A",
+    "poblacion": "Suances",
+    "municipio": "Suances",
+    "codigo_postal": "39340",
+    "latitud": 43.42137319849741,
+    "longitud": -4.038551552125363,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39014415"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.851571776191091,
+     43.45628446285911
+    ]
+   },
+   "properties": {
+    "nombre": "CCEE Arboleda",
+    "direccion": "Cardenal Herrera Oria, 102",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39011",
+    "latitud": 43.45628446285911,
+    "longitud": -3.851571776191091,
+    "tipo_centro": "Centro Concertado de Educación Especial",
+    "codigo": "39014427"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7327925156054858,
+     43.383796506298985
+    ]
+   },
+   "properties": {
+    "nombre": "Papucos",
+    "direccion": "Avenida Alisas, 12 - Bajo",
+    "poblacion": "Valdecilla",
+    "municipio": "Medio Cudeyo",
+    "codigo_postal": "39724",
+    "latitud": 43.383796506298985,
+    "longitud": -3.7327925156054858,
+    "tipo_centro": "Centro privado",
+    "codigo": "39014439"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8169658174546504,
+     43.4523152997966
+    ]
+   },
+   "properties": {
+    "nombre": "Marques de Valterra",
+    "direccion": "Fernando Montalvo, S/N",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39009",
+    "latitud": 43.4523152997966,
+    "longitud": -3.8169658174546504,
+    "tipo_centro": "Centro privado",
+    "codigo": "39018457"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8241549328063553,
+     43.45902163519297
+    ]
+   },
+   "properties": {
+    "nombre": "CC Ceinmark",
+    "direccion": "Calle Vargas, 65",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39010",
+    "latitud": 43.45902163519297,
+    "longitud": -3.8241549328063553,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39018482"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8038695874540456,
+     43.4668591382943
+    ]
+   },
+   "properties": {
+    "nombre": "CEPA Escuelas Verdes",
+    "direccion": "Enrique Gran, S/N",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39003",
+    "latitud": 43.4668591382943,
+    "longitud": -3.8038695874540456,
+    "tipo_centro": "Centro de Educación de Personas Adultas",
+    "codigo": "39018494"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.41465,
+     43.40808
+    ]
+   },
+   "properties": {
+    "nombre": "CEPA Laredo",
+    "direccion": "Avenida Duque de Ahumada, 5 (Apdo. Correos 176)",
+    "poblacion": "Laredo",
+    "municipio": "Laredo",
+    "codigo_postal": "39770",
+    "latitud": 43.40808,
+    "longitud": -3.41465,
+    "tipo_centro": "Centro de Educación de Personas Adultas",
+    "codigo": "39018500"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.0461355,
+     43.3518017
+    ]
+   },
+   "properties": {
+    "nombre": "CEPA Caligrama",
+    "direccion": "Calle la Llama, 62-A",
+    "poblacion": "Torrelavega",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.3518017,
+    "longitud": -4.0461355,
+    "tipo_centro": "Centro de Educación de Personas Adultas",
+    "codigo": "39018512"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.823794033273221,
+     43.396258578185815
+    ]
+   },
+   "properties": {
+    "nombre": "CEPA Astillero",
+    "direccion": "Calle Nemesio Mercapide, 5",
+    "poblacion": "Astillero (El)",
+    "municipio": "Astillero (El)",
+    "codigo_postal": "39610",
+    "latitud": 43.396258578185815,
+    "longitud": -3.823794033273221,
+    "tipo_centro": "Centro de Educación de Personas Adultas",
+    "codigo": "39018524"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.237532961250555,
+     43.304203896191815
+    ]
+   },
+   "properties": {
+    "nombre": "CEPA Margarita Salas",
+    "direccion": "Calle Dr. Arines, S/N",
+    "poblacion": "Cabezon de la Sal",
+    "municipio": "Cabezon de la Sal",
+    "codigo_postal": "39500",
+    "latitud": 43.304203896191815,
+    "longitud": -4.237532961250555,
+    "tipo_centro": "Centro de Educación de Personas Adultas",
+    "codigo": "39018536"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.14234,
+     43.00061
+    ]
+   },
+   "properties": {
+    "nombre": "CEPA Camargo",
+    "direccion": "IES Muriedas- C/pedro Velarde S/N",
+    "poblacion": "Muriedas",
+    "municipio": "Camargo",
+    "codigo_postal": "39600",
+    "latitud": 43.00061,
+    "longitud": -4.14234,
+    "tipo_centro": "Centro de Educación de Personas Adultas",
+    "codigo": "39018548"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.2172355664844856,
+     43.37944137810412
+    ]
+   },
+   "properties": {
+    "nombre": "CEPA Castro-Urdiales",
+    "direccion": "IES Ataulfo Argenta-C/menendez Pelayo, 4",
+    "poblacion": "Castro-Urdiales",
+    "municipio": "Castro-Urdiales",
+    "codigo_postal": "39600",
+    "latitud": 43.37944137810412,
+    "longitud": -3.2172355664844856,
+    "tipo_centro": "Centro de Educación de Personas Adultas",
+    "codigo": "39018551"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.0627984,
+     43.2592836
+    ]
+   },
+   "properties": {
+    "nombre": "CEPA Los Corrales de Buelna",
+    "direccion": "Plaza del Dr. Fleming, S/N",
+    "poblacion": "Corrales, los",
+    "municipio": "Corrales, los",
+    "codigo_postal": "39400",
+    "latitud": 43.2592836,
+    "longitud": -4.0627984,
+    "tipo_centro": "Centro de Educación de Personas Adultas",
+    "codigo": "39018561"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.622469,
+     43.155055
+    ]
+   },
+   "properties": {
+    "nombre": "CEPA Potes",
+    "direccion": "IES Jesús de Monasterio - C/santa Olaja, S/N",
+    "poblacion": "Potes",
+    "municipio": "Potes",
+    "codigo_postal": "39570",
+    "latitud": 43.155055,
+    "longitud": -4.622469,
+    "tipo_centro": "Centro de Educación de Personas Adultas",
+    "codigo": "39018573"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.1440025,
+     43.0013306
+    ]
+   },
+   "properties": {
+    "nombre": "CEPA Reinosa",
+    "direccion": "IES Montesclaros - C/jimenez Diaz, 6",
+    "poblacion": "Reinosa",
+    "municipio": "Reinosa",
+    "codigo_postal": "39200",
+    "latitud": 43.0013306,
+    "longitud": -4.1440025,
+    "tipo_centro": "Centro de Educación de Personas Adultas",
+    "codigo": "39018585"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.4563956286862094,
+     43.447819129636095
+    ]
+   },
+   "properties": {
+    "nombre": "CEPA Santoña",
+    "direccion": "Macias Picavea - Sor Maria del Carmen, 2",
+    "poblacion": "Santoña",
+    "municipio": "Santoña",
+    "codigo_postal": "39740",
+    "latitud": 43.447819129636095,
+    "longitud": -3.4563956286862094,
+    "tipo_centro": "Centro de Educación de Personas Adultas",
+    "codigo": "39018597"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.2101418028965347,
+     43.37170516937975
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Riomar",
+    "direccion": "Avenida Riomar S/N",
+    "poblacion": "Castro Urdiales",
+    "municipio": "Castro Urdiales",
+    "codigo_postal": "39700",
+    "latitud": 43.37170516937975,
+    "longitud": -3.2101418028965347,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39018603"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.898828517585778,
+     43.10954416278636
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP San Andrés",
+    "direccion": "San Andrés de Luena",
+    "poblacion": "San Andres",
+    "municipio": "Luena",
+    "codigo_postal": "39687",
+    "latitud": 43.10954416278636,
+    "longitud": -3.898828517585778,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39018615"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.5589800021110625,
+     43.44737028797762
+    ]
+   },
+   "properties": {
+    "nombre": "EMEI El Trastolillo",
+    "direccion": "Barrio Bocillo S/N",
+    "poblacion": "San Miguel de Meruelo",
+    "municipio": "Meruelo",
+    "codigo_postal": "39192",
+    "latitud": 43.44737028797762,
+    "longitud": -3.5589800021110625,
+    "tipo_centro": "Escuela Municipal de Educación Infantil",
+    "codigo": "39018627"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.2135999759105642,
+     43.372435825386894
+    ]
+   },
+   "properties": {
+    "nombre": "CC Menéndez Pelayo (Castro Urdiales)",
+    "direccion": "Barrio Brazomar, 70",
+    "poblacion": "Castro-Urdiales",
+    "municipio": "Castro-Urdiales",
+    "codigo_postal": "39700",
+    "latitud": 43.372435825386894,
+    "longitud": -3.2135999759105642,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39018664"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.214636057762849,
+     43.377106247711986
+    ]
+   },
+   "properties": {
+    "nombre": "EMD Siglo XXI",
+    "direccion": "Maria Aburto, 4",
+    "poblacion": "Castro-Urdiales",
+    "municipio": "Castro-Urdiales",
+    "codigo_postal": "39700",
+    "latitud": 43.377106247711986,
+    "longitud": -3.214636057762849,
+    "tipo_centro": "Escuela Municipal de Danza",
+    "codigo": "39018676"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7923211751260206,
+     43.465096369977864
+    ]
+   },
+   "properties": {
+    "nombre": "Belin Cabrillo",
+    "direccion": "Paseo Canalejas, 35",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39004",
+    "latitud": 43.465096369977864,
+    "longitud": -3.7923211751260206,
+    "tipo_centro": "Centro privado",
+    "codigo": "39018721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.057157610309834,
+     43.341890524018844
+    ]
+   },
+   "properties": {
+    "nombre": "CPM Torrelavega",
+    "direccion": "Martiniano Zamora S/N",
+    "poblacion": "Campuzano",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.341890524018844,
+    "longitud": -4.057157610309834,
+    "tipo_centro": "Conservatorio Profesional de Música",
+    "codigo": "39018731"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.2213679411370753,
+     43.378020097594586
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Santa Catalina",
+    "direccion": "Aureliano Linares Rivas, S/N",
+    "poblacion": "Castro-Urdiales",
+    "municipio": "Castro-Urdiales",
+    "codigo_postal": "39700",
+    "latitud": 43.378020097594586,
+    "longitud": -3.2213679411370753,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39018743"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.041522930947739,
+     43.425459303901064
+    ]
+   },
+   "properties": {
+    "nombre": "EMEI Caballito de Mar",
+    "direccion": "Plaza del Generalisimo, 12-Bajo",
+    "poblacion": "Suances",
+    "municipio": "Suances",
+    "codigo_postal": "39340",
+    "latitud": 43.425459303901064,
+    "longitud": -4.041522930947739,
+    "tipo_centro": "Escuela Municipal de Educación Infantil",
+    "codigo": "39018792"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.161270133603553,
+     42.876179604697576
+    ]
+   },
+   "properties": {
+    "nombre": "EMM Valdeolea",
+    "direccion": "Las Heras, S/N",
+    "poblacion": "Mataporquera",
+    "municipio": "Valdeolea",
+    "codigo_postal": "39410",
+    "latitud": 42.876179604697576,
+    "longitud": -4.161270133603553,
+    "tipo_centro": "Escuela Municipal de Música",
+    "codigo": "39018809"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.452197792448779,
+     43.39216842586922
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Los Puentes",
+    "direccion": "Avenida de Europa, 1",
+    "poblacion": "Colindres",
+    "municipio": "Colindres",
+    "codigo_postal": "39750",
+    "latitud": 43.39216842586922,
+    "longitud": -3.452197792448779,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39018810"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.9338173995829355,
+     43.4629008547151
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Las Dunas",
+    "direccion": "Barrio Somocueva, 4",
+    "poblacion": "Liencres",
+    "municipio": "Pielagos",
+    "codigo_postal": "39120",
+    "latitud": 43.4629008547151,
+    "longitud": -3.9338173995829355,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39018822"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.853670674374093,
+     43.429552396940174
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Gloria Fuertes",
+    "direccion": "Carlos Fernandez Barros, 16a, Urb. los Jardines",
+    "poblacion": "Muriedas",
+    "municipio": "Camargo",
+    "codigo_postal": "39600",
+    "latitud": 43.429552396940174,
+    "longitud": -3.853670674374093,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39018834"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.84940371592525,
+     43.44280701088404
+    ]
+   },
+   "properties": {
+    "nombre": "Junior",
+    "direccion": "Avenida Nueva Montaña, 23 - Bajo",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39011",
+    "latitud": 43.44280701088404,
+    "longitud": -3.84940371592525,
+    "tipo_centro": "Centro privado",
+    "codigo": "39018846"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7977317,
+     43.4850213
+    ]
+   },
+   "properties": {
+    "nombre": "CCEE El Molino",
+    "direccion": "C. Montevideo",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39008",
+    "latitud": 43.4850213,
+    "longitud": -3.7977317,
+    "tipo_centro": "Centro Concertado de Educación Especial",
+    "codigo": "39018861"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.2171521730687056,
+     43.38070425583052
+    ]
+   },
+   "properties": {
+    "nombre": "EMM La Sirenuca",
+    "direccion": "Los Jardines, 20",
+    "poblacion": "Castro-Urdiales",
+    "municipio": "Castro-Urdiales",
+    "codigo_postal": "39700",
+    "latitud": 43.38070425583052,
+    "longitud": -3.2171521730687056,
+    "tipo_centro": "Escuela Municipal de Música",
+    "codigo": "39018871"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.018996738198589,
+     43.44818134875935
+    ]
+   },
+   "properties": {
+    "nombre": "EMEI La Arena",
+    "direccion": "Calle Playa Marzan, 717",
+    "poblacion": "Cuchia",
+    "municipio": "Miengo",
+    "codigo_postal": "39318",
+    "latitud": 43.44818134875935,
+    "longitud": -4.018996738198589,
+    "tipo_centro": "Escuela Municipal de Educación Infantil",
+    "codigo": "39018883"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.862280130773259,
+     43.444188071589565
+    ]
+   },
+   "properties": {
+    "nombre": "Ciempies",
+    "direccion": "Joaquin Salas, 6 Bajo",
+    "poblacion": "Peñacastillo",
+    "municipio": "Santander",
+    "codigo_postal": "39011",
+    "latitud": 43.444188071589565,
+    "longitud": -3.862280130773259,
+    "tipo_centro": "Centro privado",
+    "codigo": "39018901"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.851001246290716,
+     43.447246020675614
+    ]
+   },
+   "properties": {
+    "nombre": "CIFP Elena García Armada",
+    "direccion": "Calle Francisco Rivas Moreno, S/N",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39011",
+    "latitud": 43.447246020675614,
+    "longitud": -3.851001246290716,
+    "tipo_centro": "Centro Integrado de Formación Profesional",
+    "codigo": "39018913"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.4573249511621382,
+     43.46079681923042
+    ]
+   },
+   "properties": {
+    "nombre": "CEPA Berria",
+    "direccion": "Avenida de Berria, S/N",
+    "poblacion": "Santoña",
+    "municipio": "Santoña",
+    "codigo_postal": "39740",
+    "latitud": 43.46079681923042,
+    "longitud": -3.4573249511621382,
+    "tipo_centro": "Centro de Educación de Personas Adultas",
+    "codigo": "39018949"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.73226134629063,
+     43.45035519990952
+    ]
+   },
+   "properties": {
+    "nombre": "EMEI Claudio del Río",
+    "direccion": "Cayuso, 100",
+    "poblacion": "Somo",
+    "municipio": "Ribamontan al Mar",
+    "codigo_postal": "39140",
+    "latitud": 43.45035519990952,
+    "longitud": -3.73226134629063,
+    "tipo_centro": "Escuela Municipal de Educación Infantil",
+    "codigo": "39018962"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8241152635513727,
+     43.39681979676939
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP José Ramón Sánchez",
+    "direccion": "Calle Nemesio Mercapide, S/N",
+    "poblacion": "Astillero (El)",
+    "municipio": "Astillero (El)",
+    "codigo_postal": "39610",
+    "latitud": 43.39681979676939,
+    "longitud": -3.8241152635513727,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39018986"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.413305,
+     43.408523
+    ]
+   },
+   "properties": {
+    "nombre": "EOI Laredo",
+    "direccion": "Calle Reconquista de Sevilla, 4",
+    "poblacion": "Laredo",
+    "municipio": "Laredo",
+    "codigo_postal": "39770",
+    "latitud": 43.408523,
+    "longitud": -3.413305,
+    "tipo_centro": "Escuela Oficial de Idiomas",
+    "codigo": "39018998"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.08860987561399,
+     43.397053139396746
+    ]
+   },
+   "properties": {
+    "nombre": "EA Roberto Orallo",
+    "direccion": "Barrio Santa Bárbara, S/N",
+    "poblacion": "Puente San Miguel",
+    "municipio": "Reocin",
+    "codigo_postal": "39530",
+    "latitud": 43.397053139396746,
+    "longitud": -4.08860987561399,
+    "tipo_centro": "Escuela de Arte",
+    "codigo": "39019024"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.9258788517137266,
+     43.46560592786876
+    ]
+   },
+   "properties": {
+    "nombre": "EMD Piélagos",
+    "direccion": "Barrio la Iglesia, 19",
+    "poblacion": "Liencres",
+    "municipio": "Pielagos",
+    "codigo_postal": "39120",
+    "latitud": 43.46560592786876,
+    "longitud": -3.9258788517137266,
+    "tipo_centro": "Escuela Municipal de Danza",
+    "codigo": "39019036"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.46013,
+     43.31499
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Bielva Herrerías",
+    "direccion": "Barrio los Cuadros, S/N",
+    "poblacion": "Bielva",
+    "municipio": "Herrerias",
+    "codigo_postal": "39550",
+    "latitud": 43.31499,
+    "longitud": -4.46013,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39019051"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.1438372,
+     43.0003084
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Alto Ebro",
+    "direccion": "Paseo Doctor Jimenez Diaz, 10",
+    "poblacion": "Reinosa",
+    "municipio": "Reinosa",
+    "codigo_postal": "39200",
+    "latitud": 43.0003084,
+    "longitud": -4.1438372,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39019061"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.811184375126004,
+     43.46575473210735
+    ]
+   },
+   "properties": {
+    "nombre": "Metrodora",
+    "direccion": "Via Cornelia, 2",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39001",
+    "latitud": 43.46575473210735,
+    "longitud": -3.811184375126004,
+    "tipo_centro": "Centro privado",
+    "codigo": "39019085"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.877811188618135,
+     43.468334515073266
+    ]
+   },
+   "properties": {
+    "nombre": "Maestria Dental",
+    "direccion": "Murillo, 7a",
+    "poblacion": "Soto de la Marina",
+    "municipio": "Santa Cruz de Bezana",
+    "codigo_postal": "39110",
+    "latitud": 43.468334515073266,
+    "longitud": -3.877811188618135,
+    "tipo_centro": "Centro privado",
+    "codigo": "39019103"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8018010021830047,
+     43.47955835442982
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Cabo Mayor",
+    "direccion": "Calle la Pereda, 24",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39012",
+    "latitud": 43.47955835442982,
+    "longitud": -3.8018010021830047,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39019115"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.519135,
+     43.37225
+    ]
+   },
+   "properties": {
+    "nombre": "CEPO Bajo Deva",
+    "direccion": "San Felipe de Neri, Nº7",
+    "poblacion": "Unquera",
+    "municipio": "Val de San Vicente",
+    "codigo_postal": "39560",
+    "latitud": 43.37225,
+    "longitud": -4.519135,
+    "tipo_centro": "Centro público",
+    "codigo": "39019127"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.4213154636560206,
+     43.36139529502733
+    ]
+   },
+   "properties": {
+    "nombre": "EMEI Conde Albox",
+    "direccion": "Avenida Conde Albox, Nº 6",
+    "poblacion": "Limpias",
+    "municipio": "Limpias",
+    "codigo_postal": "39820",
+    "latitud": 43.36139529502733,
+    "longitud": -3.4213154636560206,
+    "tipo_centro": "Escuela Municipal de Educación Infantil",
+    "codigo": "39019152"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.092276688453775,
+     43.356403122312834
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Valle de Reocín",
+    "direccion": "Barrio la Carrumba, Nº 99-A",
+    "poblacion": "La Veguilla",
+    "municipio": "Reocin",
+    "codigo_postal": "39538",
+    "latitud": 43.356403122312834,
+    "longitud": -4.092276688453775,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39019164"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.9217131274348205,
+     43.4314813659433
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP María Torner",
+    "direccion": "Avenida de la Libertad, 55",
+    "poblacion": "Mompía",
+    "municipio": "Santa Cruz de Bezana",
+    "codigo_postal": "39108",
+    "latitud": 43.4314813659433,
+    "longitud": -3.9217131274348205,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39019176"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.851918834713508,
+     43.343765093752914
+    ]
+   },
+   "properties": {
+    "nombre": "Las Estrellas",
+    "direccion": "Urbanización los Salces-Bloque 4 Bajo",
+    "poblacion": "Saron",
+    "municipio": "Santa Maria de Cayon",
+    "codigo_postal": "39620",
+    "latitud": 43.343765093752914,
+    "longitud": -3.851918834713508,
+    "tipo_centro": "Centro privado",
+    "codigo": "39019191"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8223965462917926,
+     43.41586717139642
+    ]
+   },
+   "properties": {
+    "nombre": "EMEI Parayas Candina",
+    "direccion": "Gerardo de Alvear, 7 (Poligono Industrial Parayas-Candina)",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39011",
+    "latitud": 43.41586717139642,
+    "longitud": -3.8223965462917926,
+    "tipo_centro": "Escuela Municipal de Educación Infantil",
+    "codigo": "39019206"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8091016886180706,
+     43.47035659044085
+    ]
+   },
+   "properties": {
+    "nombre": "EI Universidad de Cantabria",
+    "direccion": "Avenida de los Castros, S/N",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39005",
+    "latitud": 43.47035659044085,
+    "longitud": -3.8091016886180706,
+    "tipo_centro": "Escuela Infantil",
+    "codigo": "39019218"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.917001375127059,
+     43.43460512322956
+    ]
+   },
+   "properties": {
+    "nombre": "Escuela Técnico-Profesional en Ciencias de la Salud Clínica Mompía",
+    "direccion": "Avenida de los Condes, S/N",
+    "poblacion": "Mompía",
+    "municipio": "Santa Cruz de Bezana",
+    "codigo_postal": "39108",
+    "latitud": 43.43460512322956,
+    "longitud": -3.917001375127059,
+    "tipo_centro": "Centro privado",
+    "codigo": "39019279"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.049759444269572,
+     43.348856314987536
+    ]
+   },
+   "properties": {
+    "nombre": "Itet",
+    "direccion": "Julián Ceballos, 14",
+    "poblacion": "Torrelavega",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.348856314987536,
+    "longitud": -4.049759444269572,
+    "tipo_centro": "Centro privado",
+    "codigo": "39019292"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.810110568119213,
+     43.46212885510847
+    ]
+   },
+   "properties": {
+    "nombre": "CC Centro de Conductores Villa",
+    "direccion": "Poligono de Raos, Parcelas 17a, 18a, 19a",
+    "poblacion": "Maliaño",
+    "municipio": "Camargo",
+    "codigo_postal": "39600",
+    "latitud": 43.46212885510847,
+    "longitud": -3.810110568119213,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39019310"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8157211867670817,
+     43.45487103232929
+    ]
+   },
+   "properties": {
+    "nombre": "CC Instituto de Cualificaciones para el Empleo (INCUEM)",
+    "direccion": "Calle Marques de la Hermida, 17",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39009",
+    "latitud": 43.45487103232929,
+    "longitud": -3.8157211867670817,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39019358"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.791708788618007,
+     43.47171914241048
+    ]
+   },
+   "properties": {
+    "nombre": "Cesine Design & Business School",
+    "direccion": "Simon Cabarga, 6",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39005",
+    "latitud": 43.47171914241048,
+    "longitud": -3.791708788618007,
+    "tipo_centro": "Centro privado",
+    "codigo": "39019361"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8514257751261782,
+     43.4608731910671
+    ]
+   },
+   "properties": {
+    "nombre": "Salvacant",
+    "direccion": "Avenida del Deporte, S/N",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39012",
+    "latitud": 43.4608731910671,
+    "longitud": -3.8514257751261782,
+    "tipo_centro": "Centro privado",
+    "codigo": "39019371"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.76415,
+     43.4033
+    ]
+   },
+   "properties": {
+    "nombre": "CIFP La Granja",
+    "direccion": "Barrio Estación 25b",
+    "poblacion": "Heras",
+    "municipio": "Medio Cudeyo",
+    "codigo_postal": "39792",
+    "latitud": 43.4033,
+    "longitud": -3.76415,
+    "tipo_centro": "Centro Integrado de Formación Profesional",
+    "codigo": "39019383"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.636485200269565,
+     43.15696197674402
+    ]
+   },
+   "properties": {
+    "nombre": "Centro de Estudios Deportivos Cantabro (Cedec)",
+    "direccion": "La Molina, S/N",
+    "poblacion": "La Molina",
+    "municipio": "Camaleño",
+    "codigo_postal": "39587",
+    "latitud": 43.15696197674402,
+    "longitud": -4.636485200269565,
+    "tipo_centro": "Centro privado",
+    "codigo": "39019401"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8058856884434626,
+     43.463747034096436
+    ]
+   },
+   "properties": {
+    "nombre": "Ceneted",
+    "direccion": "Guevara, 22",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39001",
+    "latitud": 43.463747034096436,
+    "longitud": -3.8058856884434626,
+    "tipo_centro": "Centro privado",
+    "codigo": "39019413"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.821703317454415,
+     43.45818884769584
+    ]
+   },
+   "properties": {
+    "nombre": "CC Equipo de Formación y Empleo",
+    "direccion": "Rosario de Acuña, 5",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39008",
+    "latitud": 43.45818884769584,
+    "longitud": -3.821703317454415,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39019425"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.049462317458613,
+     43.33661205182703
+    ]
+   },
+   "properties": {
+    "nombre": "Gimbernat Formacion",
+    "direccion": "Aurelio Garcia Cantalapiedra, S/N",
+    "poblacion": "Tanos",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39316",
+    "latitud": 43.33661205182703,
+    "longitud": -4.049462317458613,
+    "tipo_centro": "Centro privado",
+    "codigo": "39019449"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7907471309464755,
+     43.462398735718054
+    ]
+   },
+   "properties": {
+    "nombre": "CAR Vela Príncipe Felipe",
+    "direccion": "Calle Gamazo, S/N",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39004",
+    "latitud": 43.462398735718054,
+    "longitud": -3.7907471309464755,
+    "tipo_centro": "Centro público municipal",
+    "codigo": "39019474"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.816888217456523,
+     43.39667639389108
+    ]
+   },
+   "properties": {
+    "nombre": "Covadonga Viadero",
+    "direccion": "La Cantabrica, 9-Bajo",
+    "poblacion": "Astillero (El)",
+    "municipio": "Astillero (El)",
+    "codigo_postal": "39610",
+    "latitud": 43.39667639389108,
+    "longitud": -3.816888217456523,
+    "tipo_centro": "Centro privado",
+    "codigo": "39019486"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8544428597826093,
+     43.45647322050311
+    ]
+   },
+   "properties": {
+    "nombre": "Olga Fuentes",
+    "direccion": "Avenida las Cagigas, 1-A-Bajo",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39011",
+    "latitud": 43.45647322050311,
+    "longitud": -3.8544428597826093,
+    "tipo_centro": "Centro privado",
+    "codigo": "39019498"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.83518510396233,
+     43.45447641001669
+    ]
+   },
+   "properties": {
+    "nombre": "Los Peques de San Candido",
+    "direccion": "Calle Cajo, 13",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "SANTANDER",
+    "latitud": 43.45447641001669,
+    "longitud": -3.83518510396233,
+    "tipo_centro": "Centro privado",
+    "codigo": "39019504"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.201727,
+     43.36937
+    ]
+   },
+   "properties": {
+    "nombre": "IES Ocho de Marzo",
+    "direccion": "Ocho de Marzo, S/N",
+    "poblacion": "Castro-Urdiales",
+    "municipio": "Castro-Urdiales",
+    "codigo_postal": "39700",
+    "latitud": 43.36937,
+    "longitud": -3.201727,
+    "tipo_centro": "Instituto de Educación Secundaria",
+    "codigo": "39019516"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7908404465559733,
+     43.46434244009548
+    ]
+   },
+   "properties": {
+    "nombre": "CC Ángeles Custodios (ERE)",
+    "direccion": "Poeta León Felipe, 15-17",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39004",
+    "latitud": 43.46434244009548,
+    "longitud": -3.7908404465559733,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39019528"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.013699601938147,
+     43.4344208058513
+    ]
+   },
+   "properties": {
+    "nombre": "Casa de la Musica",
+    "direccion": "Calle la Fuente, Nº 9",
+    "poblacion": "Cuchia",
+    "municipio": "Miengo",
+    "codigo_postal": "39318",
+    "latitud": 43.4344208058513,
+    "longitud": -4.013699601938147,
+    "tipo_centro": "Centro privado",
+    "codigo": "39019531"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8565271409697566,
+     43.47831866769459
+    ]
+   },
+   "properties": {
+    "nombre": "Escuela de Espeleologia",
+    "direccion": "Calle San Jurjo, 5 (Local 8)",
+    "poblacion": "Ramales de la Victoria",
+    "municipio": "Ramales de la Victoria",
+    "codigo_postal": "39850",
+    "latitud": 43.47831866769459,
+    "longitud": -3.8565271409697566,
+    "tipo_centro": "Centro privado",
+    "codigo": "39019577"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.141020601948831,
+     43.00028885664871
+    ]
+   },
+   "properties": {
+    "nombre": "Sanjo 2.1",
+    "direccion": "Calle Peñas Arriba, 19",
+    "poblacion": "Reinosa",
+    "municipio": "Reinosa",
+    "codigo_postal": "39200",
+    "latitud": 43.00028885664871,
+    "longitud": -4.141020601948831,
+    "tipo_centro": "Centro privado",
+    "codigo": "39019590"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8627834886215706,
+     43.36867666138773
+    ]
+   },
+   "properties": {
+    "nombre": "Waldorf Cantabria",
+    "direccion": "Barrio de Castanedo",
+    "poblacion": "Villanueva",
+    "municipio": "Villaescusa",
+    "codigo_postal": "39690",
+    "latitud": 43.36867666138773,
+    "longitud": -3.8627834886215706,
+    "tipo_centro": "Centro privado",
+    "codigo": "39019607"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.862344088596606,
+     43.40710823350326
+    ]
+   },
+   "properties": {
+    "nombre": "CC Fundación Laboral de la Construcción",
+    "direccion": "Barrio Puente Lorenzo S/N",
+    "poblacion": "Revilla de Camargo",
+    "municipio": "Camargo",
+    "codigo_postal": "39600",
+    "latitud": 43.40710823350326,
+    "longitud": -3.862344088596606,
+    "tipo_centro": "Colegio Concertado",
+    "codigo": "39019619"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.810883866355023,
+     43.465368213569235
+    ]
+   },
+   "properties": {
+    "nombre": "Cenafe Escuelas",
+    "direccion": "Via Cornelia, 2",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39001",
+    "latitud": 43.465368213569235,
+    "longitud": -3.810883866355023,
+    "tipo_centro": "Centro privado",
+    "codigo": "39019632"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.9563251732782887,
+     43.35608990703298
+    ]
+   },
+   "properties": {
+    "nombre": "EMM Piélagos",
+    "direccion": "Barrio la Herreria",
+    "poblacion": "Quijano",
+    "municipio": "Piélagos",
+    "codigo_postal": "39477",
+    "latitud": 43.35608990703298,
+    "longitud": -3.9563251732782887,
+    "tipo_centro": "Escuela Municipal de Música",
+    "codigo": "39019644"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.9564002751297935,
+     43.35612111081513
+    ]
+   },
+   "properties": {
+    "nombre": "EMM Piélagos",
+    "direccion": "Barrio el Pozo de la Torre, 49",
+    "poblacion": "Mortera",
+    "municipio": "Pielagos",
+    "codigo_postal": "39120",
+    "latitud": 43.35612111081513,
+    "longitud": -3.9564002751297935,
+    "tipo_centro": "Escuela Municipal de Música",
+    "codigo": "39019656"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.822486305785176,
+     43.45857876387422
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP Ramón Pelayo",
+    "direccion": "Alta 82",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39008",
+    "latitud": 43.45857876387422,
+    "longitud": -3.822486305785176,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39019668"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.4602430751283553,
+     43.397755864786426
+    ]
+   },
+   "properties": {
+    "nombre": "Escuela Cantabra de Tecnicos de Piraguismo",
+    "direccion": "Paseo Maritimo, S/N",
+    "poblacion": "Castro-Urdiales",
+    "municipio": "Castro-Urdiales",
+    "codigo_postal": "39700",
+    "latitud": 43.397755864786426,
+    "longitud": -3.4602430751283553,
+    "tipo_centro": "Centro privado",
+    "codigo": "39019671"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8662083405329306,
+     43.46426625226528
+    ]
+   },
+   "properties": {
+    "nombre": "Brenes Escuela Deportiva de Regimen Especial Cantabria (Bedrec)",
+    "direccion": "Calle la Llanilla, 102",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39011",
+    "latitud": 43.46426625226528,
+    "longitud": -3.8662083405329306,
+    "tipo_centro": "Centro privado",
+    "codigo": "39019681"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.338923911638759,
+     43.32143682965566
+    ]
+   },
+   "properties": {
+    "nombre": "Escuela de Enseñanzas Deportivas el Mazo Cantabria Multisport",
+    "direccion": "Finca el Mazo, Bº el Rivero, S/N",
+    "poblacion": "Rada",
+    "municipio": "Voto",
+    "codigo_postal": "39766",
+    "latitud": 43.32143682965566,
+    "longitud": -4.338923911638759,
+    "tipo_centro": "Centro privado",
+    "codigo": "39019693"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.9574666458882217,
+     43.361337867303035
+    ]
+   },
+   "properties": {
+    "nombre": "CEIP El Mimbral",
+    "direccion": "Barrio Sorribero, S/N",
+    "poblacion": "Quijano",
+    "municipio": "Pielagos",
+    "codigo_postal": "39470",
+    "latitud": 43.361337867303035,
+    "longitud": -3.9574666458882217,
+    "tipo_centro": "Colegio de Educación Infantil y Primaria",
+    "codigo": "39019711"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.953279,
+     43.357183
+    ]
+   },
+   "properties": {
+    "nombre": "CEPA Piélagos",
+    "direccion": "Barrio Sorribero Alto, 65b",
+    "poblacion": "Renedo",
+    "municipio": "Pielagos",
+    "codigo_postal": "39470",
+    "latitud": 43.357183,
+    "longitud": -3.953279,
+    "tipo_centro": "Centro de Educación de Personas Adultas",
+    "codigo": "39019735"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.873841073274972,
+     43.45195701747938
+    ]
+   },
+   "properties": {
+    "nombre": "Chiqui Tin Pctcan",
+    "direccion": "Poligono Parque Cientifico y Tecnologico, 39",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39011",
+    "latitud": 43.45195701747938,
+    "longitud": -3.873841073274972,
+    "tipo_centro": "Centro privado",
+    "codigo": "39019747"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.051551693362977,
+     43.341382933773446
+    ]
+   },
+   "properties": {
+    "nombre": "EMEI Anjana",
+    "direccion": "Calle Arcadio González",
+    "poblacion": "Torrelavega",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.341382933773446,
+    "longitud": -4.051551693362977,
+    "tipo_centro": "Escuela Municipal de Educación Infantil",
+    "codigo": "39019784"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.414884,
+     43.413502
+    ]
+   },
+   "properties": {
+    "nombre": "CIFP Puerto de Laredo",
+    "direccion": "Calle el Muelle S/N",
+    "poblacion": "Laredo",
+    "municipio": "Laredo",
+    "codigo_postal": "39770",
+    "latitud": 43.413502,
+    "longitud": -3.414884,
+    "tipo_centro": "Centro Integrado de Formación Profesional",
+    "codigo": "39019851"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.5294200160236326,
+     43.479788727002614
+    ]
+   },
+   "properties": {
+    "nombre": "EMEI Doña Aguedita",
+    "direccion": "Avenida Santander, 38",
+    "poblacion": "Noja",
+    "municipio": "Noja",
+    "codigo_postal": "39180",
+    "latitud": 43.479788727002614,
+    "longitud": -3.5294200160236326,
+    "tipo_centro": "Escuela Municipal de Educación Infantil",
+    "codigo": "39019942"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.4217484179552526,
+     43.349630191832986
+    ]
+   },
+   "properties": {
+    "nombre": "Fundacion Nuestra Señora de la Bien Aparecida",
+    "direccion": "Barrio Marron, S/N",
+    "poblacion": "Ampuero",
+    "municipio": "Ampuero",
+    "codigo_postal": "39840",
+    "latitud": 43.349630191832986,
+    "longitud": -3.4217484179552526,
+    "tipo_centro": "Centro privado",
+    "codigo": "39600000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.825332188697867,
+     43.43209786965412
+    ]
+   },
+   "properties": {
+    "nombre": "Fundacion Diagrama Intervencion Psicosocial",
+    "direccion": "Avenida Juan Carlos I",
+    "poblacion": "Maliaño",
+    "municipio": "Camargo",
+    "codigo_postal": "39600",
+    "latitud": 43.43209786965412,
+    "longitud": -3.825332188697867,
+    "tipo_centro": "Centro privado",
+    "codigo": "39600001"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8390103309464476,
+     43.463762218095674
+    ]
+   },
+   "properties": {
+    "nombre": "Asociación Cántabra de Lucha Contra el Paro. Talleres Juveniles Brumas",
+    "direccion": "Luis Salgado Lodeiro, 1a",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39012",
+    "latitud": 43.463762218095674,
+    "longitud": -3.8390103309464476,
+    "tipo_centro": "Centro privado",
+    "codigo": "39600003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.2195876627000093,
+     43.3820120451288
+    ]
+   },
+   "properties": {
+    "nombre": "Ayuntamiento de Castro-Urdiales",
+    "direccion": "Plaza del Ayuntamiento, 1",
+    "poblacion": "Castro-Urdiales",
+    "municipio": "Castro-Urdiales",
+    "codigo_postal": "39700",
+    "latitud": 43.3820120451288,
+    "longitud": -3.2195876627000093,
+    "tipo_centro": "Centro público municipal",
+    "codigo": "39600007"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.9563037156064293,
+     43.35612111081513
+    ]
+   },
+   "properties": {
+    "nombre": "Ayuntamiento de Piélagos",
+    "direccion": "Avenida Luis de la Concha, 66",
+    "poblacion": "Renedo",
+    "municipio": "Pielagos",
+    "codigo_postal": "39470",
+    "latitud": 43.35612111081513,
+    "longitud": -3.9563037156064293,
+    "tipo_centro": "Centro público municipal",
+    "codigo": "39600008"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8099311579308925,
+     43.462380823077844
+    ]
+   },
+   "properties": {
+    "nombre": "Ayuntamiento de Santander",
+    "direccion": "Marques de la Ensenada",
+    "poblacion": "Santander",
+    "municipio": "Santander",
+    "codigo_postal": "39009",
+    "latitud": 43.462380823077844,
+    "longitud": -3.8099311579308925,
+    "tipo_centro": "Centro público municipal",
+    "codigo": "39600010"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.050827930950389,
+     43.3494754262151
+    ]
+   },
+   "properties": {
+    "nombre": "Ayuntamiento de Torrelavega",
+    "direccion": "Boulevard Demetrio Herrero 4 y 6",
+    "poblacion": "Torrelavega",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.3494754262151,
+    "longitud": -4.050827930950389,
+    "tipo_centro": "Centro público municipal",
+    "codigo": "39600011"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8086264182120626,
+     43.46224796187398
+    ]
+   },
+   "properties": {
+    "nombre": "Amica",
+    "direccion": "Barrio Sierrapando, 508",
+    "poblacion": "Torrelavega",
+    "municipio": "Torrelavega",
+    "codigo_postal": "39300",
+    "latitud": 43.46224796187398,
+    "longitud": -3.8086264182120626,
+    "tipo_centro": "Centro privado",
+    "codigo": "39600019"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8218200724357394,
+     43.41534427615876
+    ]
+   },
+   "properties": {
+    "nombre": "CREE Camargo",
+    "direccion": "Juan Carlos I, Nº 6",
+    "poblacion": "Maliaño",
+    "municipio": "Camargo",
+    "codigo_postal": "39600",
+    "latitud": 43.41534427615876,
+    "longitud": -3.8218200724357394,
+    "tipo_centro": "Centro de Recursos de Educación Especial",
+    "codigo": "39700231"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.434496,
+     43.410031
+    ]
+   },
+   "properties": {
+    "nombre": "CREE Laredo",
+    "direccion": "Avenida Derechos Humanos, 21",
+    "poblacion": "Laredo",
+    "municipio": "Laredo",
+    "codigo_postal": "39770",
+    "latitud": 43.410031,
+    "longitud": -3.434496,
+    "tipo_centro": "Centro de Recursos de Educación Especial",
+    "codigo": "39700232"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.2291201,
+     43.3093211
+    ]
+   },
+   "properties": {
+    "nombre": "CREE Cabezón de la Sal",
+    "direccion": "Avenida la Estacion S/N",
+    "poblacion": "Cabezon de la Sal",
+    "municipio": "Cabezon de la Sal",
+    "codigo_postal": "39500",
+    "latitud": 43.3093211,
+    "longitud": -4.2291201,
+    "tipo_centro": "Centro de Recursos de Educación Especial",
+    "codigo": "39700234"
+   }
+  }
+ ]
+}

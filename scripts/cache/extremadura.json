@@ -1,0 +1,2438 @@
+{
+"06000307": {
+"clave": "Ortega Muñoz, 32|Almendralejo",
+"res": [
+38.67815466858875,
+-6.396445430476137,
+"calle"
+]
+},
+"06000411": {
+"clave": "San Juan|La Cardenchosa",
+"res": null
+},
+"06001117": {
+"clave": "Fuerte, 5|Badajoz",
+"res": [
+38.87030994206512,
+-6.971391520634842,
+"portal"
+]
+},
+"06001713": {
+"clave": "Guarda|La Guarda",
+"res": null
+},
+"06002134": {
+"clave": "Avenida Alonso Martin, 16|Don Benito",
+"res": [
+38.96117960863744,
+-5.868499841778875,
+"portal"
+]
+},
+"06002547": {
+"clave": "Avenida de la Mancha, S/N|Bohonal",
+"res": null
+},
+"06002602": {
+"clave": "Constitucion, 19|Peloche",
+"res": null
+},
+"06003321": {
+"clave": "Valhondo. Bda. la Paz|Mérida",
+"res": null
+},
+"06003886": {
+"clave": "Constitucion, S/N|Orellana de la Sierra",
+"res": [
+39.03043655345683,
+-5.4981887673186085,
+"toponimo"
+]
+},
+"06005500": {
+"clave": "Antonio Masa, 39|Badajoz",
+"res": [
+38.874072371775796,
+-6.980995594369442,
+"portal"
+]
+},
+"06005551": {
+"clave": "Avenida de las Vaguadas, 6|Badajoz",
+"res": [
+38.84584826163738,
+-6.967340772945743,
+"portal"
+]
+},
+"06005561": {
+"clave": "Carretera Valverde, Km.2, 5 Urbani. las Palmeras|Badajoz",
+"res": [
+38.853761012517715,
+-6.968431341249756,
+"calle"
+]
+},
+"06005949": {
+"clave": "Alvarado, 21|Mérida",
+"res": [
+38.91999809409533,
+-6.350440196382379,
+"portal"
+]
+},
+"06006115": {
+"clave": "Plaza de la Soledad, 8|Badajoz",
+"res": [
+38.880380530007514,
+-6.970800654746534,
+"portal"
+]
+},
+"06006127": {
+"clave": "Calvario, 2|Mérida",
+"res": [
+38.919250272013564,
+-6.347471761932999,
+"toponimo"
+]
+},
+"06006188": {
+"clave": "Avenida Primero de Mayo, 50|Don Benito",
+"res": [
+38.95915773454956,
+-5.858921853820604,
+"portal"
+]
+},
+"06006279": {
+"clave": "Avenida Manuel Saavedra Martinez, 34|Badajoz",
+"res": [
+38.884553905781125,
+-6.991182838657923,
+"portal"
+]
+},
+"06006310": {
+"clave": "Carretera de Campomayor, S/N|Badajoz",
+"res": [
+38.8962213597655,
+-6.983661351073138,
+"toponimo"
+]
+},
+"06006437": {
+"clave": "La Silera, S/N|Montijo",
+"res": null
+},
+"06006796": {
+"clave": "Alconchel, 6|Badajoz",
+"res": [
+38.86775416528653,
+-6.9831760306796316,
+"portal"
+]
+},
+"06007028": {
+"clave": "Carretera Jerez-Oliva, S/N|Jerez de los Caballeros",
+"res": null
+},
+"06007314": {
+"clave": "Colegio San Julian|Fuente de Cantos",
+"res": null
+},
+"06007338": {
+"clave": "Plaza de España, 23|Siruela",
+"res": [
+38.975797981692324,
+-5.049228955336665,
+"portal"
+]
+},
+"06007454": {
+"clave": "Jacinta Gcia. Hdez., C/v.A Jose Pz. Jimenez|Badajoz",
+"res": null
+},
+"06007521": {
+"clave": "Avenida Primero de Mayo, 48|Don Benito",
+"res": [
+38.95913489724406,
+-5.858721040431575,
+"toponimo"
+]
+},
+"06007855": {
+"clave": "Avenida Antonio Hernández Gil, 52|Badajoz",
+"res": [
+38.869984467484485,
+-6.953664180652037,
+"calle"
+]
+},
+"06010878": {
+"clave": "Calle Virgen de la Soledad, 22|Badajoz",
+"res": [
+38.87971976452276,
+-6.970803662717166,
+"portal"
+]
+},
+"06010911": {
+"clave": "Calle Maruja Mayo, 1|Badajoz",
+"res": [
+38.8555466481689,
+-6.98769481099653,
+"calle"
+]
+},
+"06010957": {
+"clave": "Calle Maximo Peinador, 26|Zafra",
+"res": [
+38.41641192652106,
+-6.417941334348344,
+"portal"
+]
+},
+"06010969": {
+"clave": "Calle Antonio Maura, 5|Montijo",
+"res": [
+38.908235590459874,
+-6.617509549353496,
+"portal"
+]
+},
+"06010970": {
+"clave": "San Juan de Dios, 51|Badajoz",
+"res": [
+38.872005346729004,
+-6.968191766344057,
+"calle"
+]
+},
+"06010994": {
+"clave": "Eladio Salinero de los Santos|Mérida",
+"res": null
+},
+"06011007": {
+"clave": "Plaza Jose Perez Jimenez, S/N|Badajoz",
+"res": [
+38.86993230182848,
+-6.984201613024454,
+"calle"
+]
+},
+"06011019": {
+"clave": "Calle Jacinta García Hernández, 13|Badajoz",
+"res": [
+38.86807978041973,
+-6.985429289805982,
+"portal"
+]
+},
+"06011044": {
+"clave": "Calle Manuel Godoy, 17|Badajoz",
+"res": [
+38.885679051800494,
+-6.981907101974816,
+"portal"
+]
+},
+"06011160": {
+"clave": "Calle Duque de San Germán, 6|Badajoz",
+"res": [
+38.88057919551044,
+-6.9717022446383545,
+"toponimo"
+]
+},
+"06011172": {
+"clave": "Avenida del Rio, S/N|Mérida",
+"res": [
+38.91781718576755,
+-6.359475983774786,
+"toponimo"
+]
+},
+"06011275": {
+"clave": "Calle Reyes Huertas, 19|Castuera",
+"res": [
+38.72739145611385,
+-5.541597854330865,
+"toponimo"
+]
+},
+"06011354": {
+"clave": "Calle Foc. de Aldana, S/N|Almendralejo",
+"res": [
+38.67295002811899,
+-6.392183700423646,
+"toponimo"
+]
+},
+"06011366": {
+"clave": "Calle Rodeo, S/N|Monterrubio de la Serena",
+"res": [
+38.588325005205846,
+-5.43937104564754,
+"toponimo"
+]
+},
+"06011378": {
+"clave": "Calle Pintor Murillo, 16|Montijo",
+"res": [
+38.908298827135546,
+-6.6198899811751835,
+"toponimo"
+]
+},
+"06011391": {
+"clave": "Ronda Sur, S/N|Valdivia",
+"res": null
+},
+"06011408": {
+"clave": "Calle Félix Soto, S/N|Valverde de Leganés",
+"res": [
+38.67078060825829,
+-6.9756906509910825,
+"toponimo"
+]
+},
+"06011411": {
+"clave": "Calle Doctor Cebrián, 9|San Vicente de Alcántara",
+"res": [
+39.36187409238675,
+-7.142828951194285,
+"toponimo"
+]
+},
+"06011421": {
+"clave": "Calle Colegio, S/N|Herrera del Duque",
+"res": [
+39.170519421892706,
+-5.053846270946872,
+"toponimo"
+]
+},
+"06011433": {
+"clave": "Calle Arturo Barea, S/N|Mérida",
+"res": [
+38.910951774075855,
+-6.335441034411571,
+"toponimo"
+]
+},
+"06011470": {
+"clave": "Calle Ortega Muñoz, S/N|Quintana de la Serena",
+"res": [
+38.73837119045068,
+-5.671942267605136,
+"toponimo"
+]
+},
+"06011482": {
+"clave": "Calle Juan Ramón Jiménez, S/N|Zafra",
+"res": [
+38.41517638813545,
+-6.414265937177487,
+"toponimo"
+]
+},
+"06011494": {
+"clave": "Calle Ejido, S/N|Higuera de la Serena",
+"res": null
+},
+"06011500": {
+"clave": "Avenida de Extremadura, 19-A|Villalba de los Barros",
+"res": [
+38.615453731114556,
+-6.509568072455533,
+"toponimo"
+]
+},
+"06011512": {
+"clave": "Calle Martires, 4|Esparragosa de la Serena",
+"res": [
+38.6491693057838,
+-5.6069493365926295,
+"portal"
+]
+},
+"06011524": {
+"clave": "Calle Calera, S/N|Berlanga",
+"res": [
+38.28307523186055,
+-5.833913663580343,
+"calle"
+]
+},
+"06011536": {
+"clave": "Ronda de los Emeritos, S/N|Mérida",
+"res": [
+38.927162145150334,
+-6.351439817569751,
+"toponimo"
+]
+},
+"06011548": {
+"clave": "Calle Madroñera, S/N|Mérida",
+"res": [
+38.93353072912831,
+-6.336249502431653,
+"calle"
+]
+},
+"06011551": {
+"clave": "Avenida Luis Alvarez Lencero, S/N|Mérida",
+"res": [
+38.90851010793202,
+-6.357357183425014,
+"calle"
+]
+},
+"06011561": {
+"clave": "Calle Albaicin, 64|Puebla de la Calzada",
+"res": [
+38.89559276959956,
+-6.629155513936074,
+"portal"
+]
+},
+"06011573": {
+"clave": "Calle Cervantes, 16|Alconera",
+"res": [
+38.398979987219185,
+-6.476134967327132,
+"calle"
+]
+},
+"06011585": {
+"clave": "Camino de la Sierra, S/N|Orellana la Vieja",
+"res": [
+39.01247804251406,
+-5.533897271634355,
+"calle"
+]
+},
+"06011597": {
+"clave": "Calle Ramón y Cajal, S/N|Hornachos",
+"res": [
+38.55306125784448,
+-6.069566301312869,
+"calle"
+]
+},
+"06011603": {
+"clave": "Calle Ramón y Cajal S/N (Casco Urbano de la Zarza)|La Zarza",
+"res": [
+38.82147280672361,
+-6.218093298070158,
+"calle"
+]
+},
+"06011615": {
+"clave": "Calle Marqués de la Encomienda, S/N|Mirandilla",
+"res": [
+39.00381124071097,
+-6.289731896575149,
+"calle"
+]
+},
+"06011627": {
+"clave": "Calle Pedro Valdivia, Num.1|Trujillanos",
+"res": [
+38.95282238879919,
+-6.254268659977302,
+"portal"
+]
+},
+"06011639": {
+"clave": "Travesia de Almendros, S/N|Alange",
+"res": null
+},
+"06011640": {
+"clave": "Calle Pozo, 37|Villar del Rey",
+"res": [
+39.13444420597723,
+-6.845007804289516,
+"portal"
+]
+},
+"06011652": {
+"clave": "Calle los Morucos, 4|Don Álvaro",
+"res": null
+},
+"06011664": {
+"clave": "Polígono Industrial el Nevero, Parcela, 51|Badajoz",
+"res": null
+},
+"06011676": {
+"clave": "Calle Nueva, 11|Cabeza del Buey",
+"res": [
+38.721458937179236,
+-5.220855280831291,
+"toponimo"
+]
+},
+"06011688": {
+"clave": "Calle de la Magdalena, S/N|Cabeza del Buey",
+"res": [
+38.71823845046807,
+-5.2252463091141506,
+"toponimo"
+]
+},
+"06011691": {
+"clave": "Avenida J. Antonio Rodríguez Moñino, S/N|Mérida",
+"res": [
+38.91097875593873,
+-6.357746710646486,
+"toponimo"
+]
+},
+"06011718": {
+"clave": "Calle la Loma, S/N|Pueblonuevo del Guadiana",
+"res": [
+38.92421186402788,
+-6.756990363245965,
+"toponimo"
+]
+},
+"06011721": {
+"clave": "Ronda Sur, S/N|Zurbarán",
+"res": null
+},
+"06011731": {
+"clave": "Avenida de Extremadura, Num., 154|Santa Marta",
+"res": [
+38.61491579133285,
+-6.6314688970177835,
+"calle"
+]
+},
+"06011743": {
+"clave": "Avenida Alameda, Num., 4|El Torviscal",
+"res": null
+},
+"06011755": {
+"clave": "Calle Moztezuma, Num., 1|Medellín",
+"res": null
+},
+"06011767": {
+"clave": "Calle San Isidro, Num., 2|Fuente de Cantos",
+"res": [
+38.2461071072973,
+-6.3015906774883685,
+"calle"
+]
+},
+"06011779": {
+"clave": "Calle Tulipan, 9|Palazuelo",
+"res": null
+},
+"06011780": {
+"clave": "Calle Arias Montano, S/N|Rena",
+"res": [
+39.05384604171082,
+-5.807589986755969,
+"calle"
+]
+},
+"06011792": {
+"clave": "Avenida de Extremadura, S/N|Segura de León",
+"res": [
+38.12124957662419,
+-6.5228681855709905,
+"calle"
+]
+},
+"06011809": {
+"clave": "Calle Cervantes, Num., 4|Esparragalejo",
+"res": [
+38.94289072758181,
+-6.437939568136689,
+"calle"
+]
+},
+"06011810": {
+"clave": "Plaza de Hispanidad, Num., 2|Hernán Cortés",
+"res": null
+},
+"06011822": {
+"clave": "Calle la Cruz, S/N|Salvaleón",
+"res": [
+38.51194905434504,
+-6.784268852692946,
+"calle"
+]
+},
+"06011834": {
+"clave": "Calle Cruces, Num., 52|Cabeza la Vaca",
+"res": [
+38.086426756149784,
+-6.423280939444255,
+"calle"
+]
+},
+"06011846": {
+"clave": "Calle Miguel Ángel Blanco, S/N|Calzadilla de los Barros",
+"res": [
+38.30197089647504,
+-6.314667477045711,
+"calle"
+]
+},
+"06011858": {
+"clave": "Calle Luis Chamizo, S/N|Fuente del Maestre",
+"res": [
+38.52318368875266,
+-6.446341970810387,
+"calle"
+]
+},
+"06011861": {
+"clave": "Calle las Escuelas, S/N|Los Guadalperales",
+"res": null
+},
+"06011871": {
+"clave": "Carretera de Zafra, S/N|Salvatierra de los Barros",
+"res": [
+38.490989669698095,
+-6.681106420068625,
+"calle"
+]
+},
+"06011883": {
+"clave": "Ronda Sur, 1-3|Valdelacalzada",
+"res": [
+38.8878411064109,
+-6.698434076875137,
+"portal"
+]
+},
+"06011895": {
+"clave": "Plaza Constitucion, 1|Zalamea de la Serena",
+"res": [
+38.65024254100936,
+-5.660506836763399,
+"portal"
+]
+},
+"06011901": {
+"clave": "Calle Molineta, S/N|Aceuchal",
+"res": [
+38.6455072682958,
+-6.487647908773905,
+"calle"
+]
+},
+"06011913": {
+"clave": "Avenida de la Constitucion, S/N|Arroyo de San Serván",
+"res": [
+38.85650130153556,
+-6.451375876358836,
+"calle"
+]
+},
+"06011925": {
+"clave": "Carretera de Badajoz, 26|Barcarrota",
+"res": [
+38.519031786334516,
+-6.8505105593516715,
+"portal"
+]
+},
+"06011937": {
+"clave": "Calle Orgullo, S/N|Bienvenida",
+"res": [
+38.29576822963103,
+-6.2105914821045065,
+"calle"
+]
+},
+"06011949": {
+"clave": "Calle Valdefierro, S/N|Campillo de Llerena",
+"res": [
+38.50391324959949,
+-5.829944916541832,
+"calle"
+]
+},
+"06011950": {
+"clave": "Plaza de España, 36|Entrerríos",
+"res": null
+},
+"06011962": {
+"clave": "Avenida Príncipe Felipe, Núim. 17-B|La Morera",
+"res": [
+38.54705028012672,
+-6.651949150629623,
+"calle"
+]
+},
+"06011974": {
+"clave": "Calle Francisco Pizarro, 7|Medina de las Torres",
+"res": [
+38.33978243685683,
+-6.41415461395769,
+"calle"
+]
+},
+"06011986": {
+"clave": "Calle la Rosa, 1|Oliva de la Frontera",
+"res": [
+38.27734638635399,
+-6.910343092445034,
+"portal"
+]
+},
+"06011998": {
+"clave": "Fuente Santa, S/N|Palomas",
+"res": [
+38.69610906476952,
+-6.135753283802136,
+"calle"
+]
+},
+"06012000": {
+"clave": "Calle Guadiana, S/N|Puebla de Alcocer",
+"res": [
+38.98845874182459,
+-5.255801056870607,
+"calle"
+]
+},
+"06012012": {
+"clave": "Explanada del Pilar|Puebla de la Reina",
+"res": null
+},
+"06012024": {
+"clave": "Calle Badajoz, 9|Puebla de Obando",
+"res": [
+39.17537869933135,
+-6.627334439476188,
+"portal"
+]
+},
+"06012048": {
+"clave": "Calle Duquesa, S/N|Santa Amalia",
+"res": [
+39.00969704855959,
+-6.012429657410917,
+"calle"
+]
+},
+"06012051": {
+"clave": "Carretera de la Corte, S/N|Solana de los Barros",
+"res": [
+38.72523978100383,
+-6.54044768278981,
+"calle"
+]
+},
+"06012061": {
+"clave": "Calle Jerte, 1-Bajo, 1|Valdehornillos",
+"res": null
+},
+"06012073": {
+"clave": "Calle Arias Montano, S/N|Villagarcía de la Torre",
+"res": [
+38.293775089645784,
+-6.084425008367175,
+"calle"
+]
+},
+"06012085": {
+"clave": "Plaza de España, 8|Barbaño",
+"res": null
+},
+"06012097": {
+"clave": "Calle Maestre Gonzalo Mesías, 17|Calera de León",
+"res": null
+},
+"06012103": {
+"clave": "Calle Santa Ana, S/N|Fuenlabrada de los Montes",
+"res": [
+39.13193936224519,
+-4.93960083942802,
+"toponimo"
+]
+},
+"06012115": {
+"clave": "Calle Constitucion, S/N|Fuente del Arco",
+"res": [
+38.153382277345244,
+-5.898262149792416,
+"calle"
+]
+},
+"06012127": {
+"clave": "Calle las Espeñas, S/N|Monesterio",
+"res": [
+38.084130803313414,
+-6.273720087626767,
+"calle"
+]
+},
+"06012139": {
+"clave": "Calle Tierno Galván, 12|Táliga",
+"res": [
+38.52810788776757,
+-7.01096563887844,
+"calle"
+]
+},
+"06012140": {
+"clave": "Calle Federico Garcia Lorca, 7|Valle de Santa Ana",
+"res": [
+38.36575551309399,
+-6.789821991909737,
+"portal"
+]
+},
+"06012152": {
+"clave": "Calle Santa Amalia, 4|Villar de Rena",
+"res": [
+39.075795422148765,
+-5.814309298354554,
+"calle"
+]
+},
+"06012164": {
+"clave": "Avenida de Extremadura, S/N|Vivares",
+"res": null
+},
+"06012176": {
+"clave": "Calle Manuel Navarro, S/N|Peraleda del Zaucejo",
+"res": [
+38.4720517416803,
+-5.56319421348708,
+"calle"
+]
+},
+"06012188": {
+"clave": "Calle Manuel Golpe, 21|Calamonte",
+"res": [
+38.88735155920334,
+-6.38719820076312,
+"toponimo"
+]
+},
+"06012191": {
+"clave": "Avenida del Guadiana, S/N|La Garrovilla",
+"res": null
+},
+"06012206": {
+"clave": "Paseo del Pico, S/N|Lobón",
+"res": [
+38.85122559219887,
+-6.620291201831243,
+"toponimo"
+]
+},
+"06012218": {
+"clave": "Calle Francisco Pizarro, 8|Nogales",
+"res": [
+38.587139518228334,
+-6.749272572707388,
+"portal"
+]
+},
+"06012221": {
+"clave": "Calle Gordón, 1|Puebla de Alcollarín",
+"res": null
+},
+"06012231": {
+"clave": "Calle Virgilio Gutiérrez, S/N|Ribera del Fresno",
+"res": [
+38.5562401717776,
+-6.237135187277774,
+"calle"
+]
+},
+"06012243": {
+"clave": "Avenida de la Constitución, 104|Talarrubias",
+"res": [
+39.0344748109707,
+-5.236093294188909,
+"portal"
+]
+},
+"06012255": {
+"clave": "Calle Mayor, 1|Guadiana del Caudillo",
+"res": null
+},
+"06012267": {
+"clave": "Avenida San Ginés, S/N|Guareña",
+"res": [
+38.86279678637003,
+-6.103888467546066,
+"calle"
+]
+},
+"06012279": {
+"clave": "Calle Nicanor Ruíz Díaz, 16|La Coronada",
+"res": [
+38.92257812951656,
+-5.670779480574963,
+"portal"
+]
+},
+"06012280": {
+"clave": "Plaza de la Constitucion, S/N|Valle de la Serena",
+"res": null
+},
+"06012292": {
+"clave": "Avenida del Olivar, 4|Zahínos",
+"res": [
+38.326738763449804,
+-6.954771625729973,
+"calle"
+]
+},
+"06012309": {
+"clave": "Calle Pajaritos, 47|Don Benito",
+"res": [
+38.959576582427104,
+-5.855509657871079,
+"portal"
+]
+},
+"06012310": {
+"clave": "Calle Doctores Gahete de la Torre, S/N|Granja de Torrehermosa",
+"res": [
+38.3086039794901,
+-5.5960436142713395,
+"calle"
+]
+},
+"06012322": {
+"clave": "Trav. C/ Cantarranas, S/N|La Haba",
+"res": null
+},
+"06012334": {
+"clave": "Carretera Portugual, S/N|Villanueva del Fresno",
+"res": null
+},
+"06012346": {
+"clave": "Avenida de Extremadura, 2|Siruela",
+"res": [
+38.97972371857791,
+-5.055614521162543,
+"calle"
+]
+},
+"06012358": {
+"clave": "Plaza Llano de Monjas, 18|Alburquerque",
+"res": [
+39.22018834367893,
+-6.9972835236176465,
+"calle"
+]
+},
+"06012361": {
+"clave": "Plaza Cuatro Calles, S/N|Helechosa de los Montes",
+"res": [
+39.31012981287837,
+-4.908040439356611,
+"calle"
+]
+},
+"06012371": {
+"clave": "Calle Vasco Núñez de Balboa, S/N|Casas de Don Pedro",
+"res": [
+39.10089211957575,
+-5.330271448618415,
+"calle"
+]
+},
+"06012383": {
+"clave": "Calle Giralda, 17|Torrefresneda",
+"res": null
+},
+"06012395": {
+"clave": "Calle Moreno Nieto, S/N|Valdetorres",
+"res": [
+38.914954787684756,
+-6.068271776696928,
+"calle"
+]
+},
+"06012401": {
+"clave": "Calle Luis Chamizo, S/N|La Albuera",
+"res": [
+38.719076562654806,
+-6.821818389196174,
+"calle"
+]
+},
+"06012413": {
+"clave": "Calle Santa María, 19|La Parra",
+"res": [
+38.52210510705458,
+-6.625306108049444,
+"portal"
+]
+},
+"06012425": {
+"clave": "Carretera Arroyo, S/N|Torremejía",
+"res": [
+38.78788096517423,
+-6.379830984389362,
+"calle"
+]
+},
+"06012437": {
+"clave": "Calle Hernán Cortés, 34|Valencia del Ventoso",
+"res": [
+38.26840509533056,
+-6.473542504412142,
+"calle"
+]
+},
+"06012449": {
+"clave": "Calle Badajoz, S/N|Feria",
+"res": [
+38.514091560619725,
+-6.562695531753241,
+"calle"
+]
+},
+"06012450": {
+"clave": "Plaza de España, 3|San Pedro de Mérida",
+"res": [
+38.94933968562088,
+-6.186642485788279,
+"portal"
+]
+},
+"06012474": {
+"clave": "Calle la Violeta, S/N|Badajoz",
+"res": [
+38.86578138216801,
+-6.967937805593005,
+"calle"
+]
+},
+"06012486": {
+"clave": "Avenida Cantón de Guichén, 61|Villafranca de los Barros",
+"res": [
+38.56139202353345,
+-6.329962866236708,
+"calle"
+]
+},
+"06012498": {
+"clave": "Calle Camino de las Viñas, S/N|Mérida",
+"res": null
+},
+"06012504": {
+"clave": "Avenida Luis Movilla, 16|Badajoz",
+"res": [
+38.862267197487,
+-6.985706442673973,
+"portal"
+]
+},
+"06012516": {
+"clave": "Calle Antonio Martínez Virel, 12|Badajoz",
+"res": [
+38.86526614891973,
+-6.9865119138268295,
+"calle"
+]
+},
+"06012528": {
+"clave": "Calle Manzanedo, 57|Don Benito",
+"res": [
+38.94891940227529,
+-5.858381991434807,
+"calle"
+]
+},
+"06012531": {
+"clave": "Calle Italia, S/N|Olivenza",
+"res": [
+38.67952743796423,
+-7.095655397512543,
+"toponimo"
+]
+},
+"06012553": {
+"clave": "Calle Campo de la Iglesia, S/N|Montijo",
+"res": null
+},
+"06012565": {
+"clave": "Calle Diecisiete, Pol. Ind. el Nevero, Parcela 18.6|Badajoz",
+"res": [
+38.89639251588695,
+-6.999422360946692,
+"calle"
+]
+},
+"06012577": {
+"clave": "Carretera de Proserpina Km. 2.300|Mérida",
+"res": null
+},
+"06012589": {
+"clave": "Calle Muñoz Torrero, 22-A|Badajoz",
+"res": [
+38.878822551341585,
+-6.971780419210729,
+"portal"
+]
+},
+"06012590": {
+"clave": "Calle Vista Alegre, S/N|Villagonzalo",
+"res": [
+38.86136875224238,
+-6.198184763022469,
+"calle"
+]
+},
+"06012607": {
+"clave": "Calle Doña María Sánchez, 30|Manchita",
+"res": [
+38.81306109320957,
+-6.018822698280678,
+"toponimo"
+]
+},
+"06012619": {
+"clave": "Avenida de la Ranita, S/N|Maguilla",
+"res": [
+38.364069960707326,
+-5.837195245480184,
+"calle"
+]
+},
+"06012644": {
+"clave": "Avenida de la Estación, 57|Zafra",
+"res": [
+38.417864963549434,
+-6.410491293674044,
+"portal"
+]
+},
+"06012656": {
+"clave": "Calle Castillo de Zafra, 1|Badajoz",
+"res": [
+38.887924425265496,
+-6.992074164318764,
+"portal"
+]
+},
+"06012668": {
+"clave": "Avenida Juan Perea Pila, 14-A|Badajoz",
+"res": [
+38.86922439391742,
+-6.975929514824773,
+"portal"
+]
+},
+"06012671": {
+"clave": "Calle Jacinta García Hernández, 6|Fregenal de la Sierra",
+"res": null
+},
+"06012681": {
+"clave": "Calle Ntra. Sra. de Guadalupe, S/N|Torremayor",
+"res": [
+38.903061127883994,
+-6.5368660601465365,
+"calle"
+]
+},
+"06012693": {
+"clave": "Calle Monte, 5|Los Santos de Maimona",
+"res": [
+38.45149236796078,
+-6.383547048519084,
+"portal"
+]
+},
+"06012701": {
+"clave": "Avenida María Auxiliadora, 4|Badajoz",
+"res": [
+38.86878276721033,
+-6.980110407522504,
+"portal"
+]
+},
+"06012711": {
+"clave": "Calle Ebanistas 2-4|Mérida",
+"res": [
+38.90595593509491,
+-6.364195580817841,
+"portal"
+]
+},
+"06012723": {
+"clave": "Plaza Padre López, 2|Badajoz",
+"res": [
+38.87225256968673,
+-6.969789810977965,
+"portal"
+]
+},
+"06012735": {
+"clave": "Calle Virgen de Guadalupe, 5|Retamal de Llerena",
+"res": [
+38.5780983457172,
+-5.8367563117541525,
+"toponimo"
+]
+},
+"06012747": {
+"clave": "Avenida de las Palmeras, S/N|Talavera la Real",
+"res": [
+38.87781408060852,
+-6.7747949405476815,
+"toponimo"
+]
+},
+"06012759": {
+"clave": "Calle Santa Ana, S/N|Fuenlabrada de los Montes",
+"res": [
+39.13193936224519,
+-4.93960083942802,
+"toponimo"
+]
+},
+"06012760": {
+"clave": "Calle Doctor Camacho, 1 Local B, Puerta, 2|Badajoz",
+"res": [
+38.88423541896008,
+-6.987585571746452,
+"portal"
+]
+},
+"06012772": {
+"clave": "Avenida Juan Pereda Pila, 16|Badajoz",
+"res": [
+38.869125299857195,
+-6.974642255157377,
+"portal"
+]
+},
+"06012784": {
+"clave": "Calle Marquesa de Pinares, 24, Local|Mérida",
+"res": [
+38.92089200848244,
+-6.345484795505777,
+"portal"
+]
+},
+"06012802": {
+"clave": "Carretera de Badajoz, 54|Jerez de los Caballeros",
+"res": [
+38.32784590346573,
+-6.769371114736517,
+"portal"
+]
+},
+"06012814": {
+"clave": "Calle Batalla de Torres Vedras, S/N|Badajoz",
+"res": [
+38.887726496937994,
+-6.9043888736346695,
+"calle"
+]
+},
+"06012826": {
+"clave": "Calle Pintor Barjola, 5|Badajoz",
+"res": [
+38.8873226886722,
+-6.98058735705574,
+"portal"
+]
+},
+"06012838": {
+"clave": "Calle Adolfo Suárez, 27 Bajo|Villafranca de los Barros",
+"res": [
+38.5609599606757,
+-6.337600974699759,
+"calle"
+]
+},
+"06012841": {
+"clave": "Paseo de San Onofre, S/N|Fuentes de León",
+"res": null
+},
+"06012851": {
+"clave": "Calle Eras, 60|La Nava de Santiago",
+"res": [
+39.063983007263815,
+-6.502915352184241,
+"calle"
+]
+},
+"06012863": {
+"clave": "Calle Granados, 9|Almendralejo",
+"res": [
+38.68352400539082,
+-6.409922681520395,
+"portal"
+]
+},
+"06012875": {
+"clave": "Carretera de la Corte, 4|Badajoz",
+"res": [
+38.877232673636,
+-6.960392929273767,
+"portal"
+]
+},
+"06012887": {
+"clave": "Calle Rafael Lucenqui, 11 Y, 12|Badajoz",
+"res": [
+38.87040217612362,
+-6.97626897191391,
+"calle"
+]
+},
+"06012899": {
+"clave": "Calle Fuente de los Barros, 55 Acc. 1 Bajo|Don Benito",
+"res": [
+38.95084776504229,
+-5.855517221687676,
+"calle"
+]
+},
+"06012905": {
+"clave": "Camino de las Viñas, S/N|Mérida",
+"res": null
+},
+"06012917": {
+"clave": "Avenida Luis Movilla, 20 Local 1 Bajo|Badajoz",
+"res": [
+38.86196750943129,
+-6.986129324401287,
+"portal"
+]
+},
+"06012929": {
+"clave": "Polígono San Isidro, C/ Doña Blanca, 21|Don Benito",
+"res": null
+},
+"06012942": {
+"clave": "Calle Casas Aisladas Valdebótoa, 40|Valdebótoa",
+"res": null
+},
+"10000348": {
+"clave": "Plaza de España, 1|Pantano de Cíjara",
+"res": null
+},
+"10001481": {
+"clave": "Real Baja|Grimaldo",
+"res": null
+},
+"10001572": {
+"clave": "Carretera del Casar Azabal|Azabal",
+"res": null
+},
+"10001882": {
+"clave": "Cuesta, S/N|Cerezo",
+"res": [
+40.2368671459906,
+-6.229330465355022,
+"toponimo"
+]
+},
+"10001973": {
+"clave": "Generalisimo, S/N|Vega de Mesillas",
+"res": null
+},
+"10002485": {
+"clave": "Toleillo, S/N|El Gordo",
+"res": [
+39.86452222038727,
+-5.3459957909867235,
+"toponimo"
+]
+},
+"10003635": {
+"clave": "Santo Angel, 22|Montánchez",
+"res": [
+39.224625810519846,
+-6.153438854905326,
+"calle"
+]
+},
+"10003829": {
+"clave": "Cerrillo S/N (Funciona 27-X-98)|Navaconcejo",
+"res": [
+40.17836628873042,
+-5.8285260370919385,
+"calle"
+]
+},
+"10004160": {
+"clave": "Pozo Liron, S/N|Oliva de Plasencia",
+"res": [
+40.113836045698406,
+-6.087144821135799,
+"toponimo"
+]
+},
+"10004263": {
+"clave": "Grupo Escolar, S/N|La Pesga",
+"res": [
+40.326108148409126,
+-6.178278103426479,
+"toponimo"
+]
+},
+"10004561": {
+"clave": "Peñas, 7|Plasencia",
+"res": [
+40.028401231387136,
+-6.093582306102651,
+"portal"
+]
+},
+"10005620": {
+"clave": "Barriada de Belen|Belén",
+"res": null
+},
+"10005930": {
+"clave": "La Borrega (Aceña)|La Aceña de la Borrega",
+"res": null
+},
+"10006132": {
+"clave": "Secretarios, 2|Viandar de la Vera",
+"res": null
+},
+"10006430": {
+"clave": "Gongora, 4|Navalmoral de la Mata",
+"res": [
+39.89375763015532,
+-5.543317777505794,
+"portal"
+]
+},
+"10006569": {
+"clave": "Fuente Nueva, 4|Cáceres",
+"res": [
+39.47164206806779,
+-6.372433939753826,
+"portal"
+]
+},
+"10006879": {
+"clave": "Cerrillo, S/N|Navaconcejo",
+"res": [
+40.17836628873042,
+-5.8285260370919385,
+"calle"
+]
+},
+"10007161": {
+"clave": "Regajo, 14|Miajadas",
+"res": [
+39.144724298462584,
+-5.924166452936575,
+"toponimo"
+]
+},
+"10007422": {
+"clave": "Avenida Universidad, 3(Ant. Crta. Trujillo, S/n)|Cáceres",
+"res": [
+39.481880172751836,
+-6.364585974718259,
+"portal"
+]
+},
+"10007631": {
+"clave": "Centro Penitenciario Caceres II|Cáceres",
+"res": null
+},
+"10007653": {
+"clave": "Trujillo, 27(Ant. Complejo Santa Maria)|Plasencia",
+"res": [
+40.027799052627124,
+-6.092089010414088,
+"toponimo"
+]
+},
+"10008013": {
+"clave": "Carretera 521 Km., 56|Malpartida de Cáceres",
+"res": null
+},
+"10008074": {
+"clave": "Cra. de la Estacion, S/N|Malpartida de Plasencia",
+"res": null
+},
+"10008098": {
+"clave": "C.P. de Cno. Morisco|Caminomorisco",
+"res": null
+},
+"10008323": {
+"clave": "Soledad Vega, S/N|Jarandilla de la Vera",
+"res": [
+40.1281560383513,
+-5.661602522599467,
+"calle"
+]
+},
+"10008487": {
+"clave": "Paraje de la Nava, S/N|Cabezuela del Valle",
+"res": [
+40.199198418344075,
+-5.79904567999563,
+"toponimo"
+]
+},
+"10012053": {
+"clave": "Calle Amberes, 31, Bajo|Cáceres",
+"res": [
+39.470069404805606,
+-6.389538752051638,
+"portal"
+]
+},
+"10012168": {
+"clave": "Avenida de Igualada, S/N|Alcántara",
+"res": [
+39.71244006528004,
+-6.883140031078036,
+"calle"
+]
+},
+"10012193": {
+"clave": "Calle Navas de Tolosa, S/N|Cáceres",
+"res": [
+39.479357324458086,
+-6.378471565496525,
+"calle"
+]
+},
+"10012201": {
+"clave": "Calle Londres, 3|Cáceres",
+"res": [
+39.46920327081452,
+-6.39146362044748,
+"portal"
+]
+},
+"10012235": {
+"clave": "Carretera Rincón del Obispo, S/N|Coria",
+"res": [
+39.964535674552614,
+-6.492188737002058,
+"calle"
+]
+},
+"10012247": {
+"clave": "Calle San Isidro, 31|Rosalejo",
+"res": [
+39.99575227600761,
+-5.458556489620539,
+"portal"
+]
+},
+"10012259": {
+"clave": "Calle L, 16|Losar de la Vera",
+"res": [
+40.11891723640794,
+-5.60353738276575,
+"calle"
+]
+},
+"10012272": {
+"clave": "Calle Évora, 14|Cáceres",
+"res": [
+39.45582363426302,
+-6.380347176340145,
+"calle"
+]
+},
+"10012284": {
+"clave": "Calle Antonio Machado, S/N|Plasencia",
+"res": null
+},
+"10012363": {
+"clave": "Avenida de Portugal, 4 Local, 13|Cáceres",
+"res": [
+39.46724444802603,
+-6.379252596575232,
+"portal"
+]
+},
+"10012491": {
+"clave": "Calle San Marcos, 44|Arroyo de la Luz",
+"res": [
+39.487355826714825,
+-6.585137574926663,
+"toponimo"
+]
+},
+"10012508": {
+"clave": "Calle Ejido de Abajo, 18|Casar de Cáceres",
+"res": [
+39.56134042919775,
+-6.415088966353055,
+"toponimo"
+]
+},
+"10012511": {
+"clave": "Calle Fabián de Monroy, 2|Plasencia",
+"res": [
+40.04279110563314,
+-6.076680788849865,
+"toponimo"
+]
+},
+"10012521": {
+"clave": "Avenida del Valle, 23|Plasencia",
+"res": [
+40.03316338314953,
+-6.08474362573545,
+"portal"
+]
+},
+"10012545": {
+"clave": "Calle Cáceres, S/N|Cuacos de Yuste",
+"res": [
+40.102389746474756,
+-5.720258577096855,
+"toponimo"
+]
+},
+"10012557": {
+"clave": "Travesia Buenavista, 55|Sierra de Fuentes",
+"res": [
+39.439716315165356,
+-6.273533410621136,
+"calle"
+]
+},
+"10012569": {
+"clave": "Calle Jose Mª González, 8|Torre de Don Miguel",
+"res": null
+},
+"10012570": {
+"clave": "Calle Maestro Vicente Serrano, 2|El Torno",
+"res": [
+40.13593000661819,
+-5.944939099137701,
+"toponimo"
+]
+},
+"10012582": {
+"clave": "Carretera Casas Castañar, S/N|Casas del Castañar",
+"res": [
+40.09374547509535,
+-5.974086715105084,
+"calle"
+]
+},
+"10012594": {
+"clave": "Calle Colladillo, 1|Barrado",
+"res": [
+40.083961746648335,
+-5.881680518192534,
+"portal"
+]
+},
+"10012600": {
+"clave": "Calle Fernanco Bullón Endrinal, S/N|Cabezuela del Valle",
+"res": [
+40.190767197140254,
+-5.807676815251392,
+"calle"
+]
+},
+"10012612": {
+"clave": "Calle Vega del Molino, S.N|Navaconcejo",
+"res": [
+40.17559408533761,
+-5.835327426816673,
+"calle"
+]
+},
+"10012624": {
+"clave": "Calle Escuelas, S/N|Rebollar",
+"res": [
+40.153261317974895,
+-5.899628497800024,
+"calle"
+]
+},
+"10012636": {
+"clave": "Calle Santo Cristo, 30|Zarza la Mayor",
+"res": null
+},
+"10012648": {
+"clave": "Paseo del Canchal, S/N|Cabrero",
+"res": [
+40.113232934483804,
+-5.893385500064592,
+"calle"
+]
+},
+"10012651": {
+"clave": "Calle Vao, S/N|Jerte",
+"res": [
+40.220025297839214,
+-5.750958970588312,
+"calle"
+]
+},
+"10012661": {
+"clave": "Avenida Barjola, 9|Malpartida de Cáceres",
+"res": [
+39.444036196143315,
+-6.5097614646470685,
+"toponimo"
+]
+},
+"10012673": {
+"clave": "Calle San Marcos, 42|Almoharín",
+"res": [
+39.17596570769607,
+-6.042401487841655,
+"portal"
+]
+},
+"10012685": {
+"clave": "Calle Hernán Cortés, 23|Arroyomolinos",
+"res": [
+39.184510286427574,
+-6.164089648070283,
+"portal"
+]
+},
+"10012697": {
+"clave": "Calle San Bartolomé, 7|Valencia de Alcántara",
+"res": [
+39.412287454040396,
+-7.243647434879685,
+"portal"
+]
+},
+"10012703": {
+"clave": "Paseo de San Agustín, 9|Serradilla",
+"res": [
+39.825574947428066,
+-6.1401092823175,
+"calle"
+]
+},
+"10012715": {
+"clave": "Calle el Barrio, 50|Villanueva de la Vera",
+"res": [
+40.12743820621454,
+-5.464009137389233,
+"portal"
+]
+},
+"10012727": {
+"clave": "Avenida de Conde de Barcelona, 6|Guadalupe",
+"res": [
+39.45113277784724,
+-5.325171952092068,
+"calle"
+]
+},
+"10012739": {
+"clave": "Plaza del Molinillo, S/N|Trujillo",
+"res": [
+39.453956751852814,
+-5.883782493491966,
+"calle"
+]
+},
+"10012740": {
+"clave": "Calle Olalla, S/N|Trujillo",
+"res": [
+39.47506065283053,
+-5.874812827955531,
+"calle"
+]
+},
+"10012752": {
+"clave": "Avenida de la Constitucion, 33|Alcuéscar",
+"res": [
+39.18022530693657,
+-6.230673199452707,
+"portal"
+]
+},
+"10012764": {
+"clave": "Camino de Berrocalejo, 1|Peraleda de la Mata",
+"res": [
+39.85070348285118,
+-5.457321076816293,
+"portal"
+]
+},
+"10012776": {
+"clave": "Calle San Isidro, 31|Rosalejo",
+"res": [
+39.99575227600761,
+-5.458556489620539,
+"portal"
+]
+},
+"10012788": {
+"clave": "Paseo de Extremadura, 6|Cañamero",
+"res": [
+39.37883481028815,
+-5.390238537955438,
+"calle"
+]
+},
+"10012791": {
+"clave": "Calle Príncipes de España, S/N|Holguera",
+"res": [
+39.89878263037247,
+-6.350188780175589,
+"calle"
+]
+},
+"10012806": {
+"clave": "Calle las Escuelas, 3|Tiétar",
+"res": [
+40.030487894000004,
+-5.482913584499955,
+"calle"
+]
+},
+"10012818": {
+"clave": "Avenida de la Constitucion, S/N|Zorita",
+"res": [
+39.282491464394155,
+-5.701381930270927,
+"calle"
+]
+},
+"10012821": {
+"clave": "Calle Lagar, 6|Casatejada",
+"res": [
+39.88761837227136,
+-5.681687834941999,
+"calle"
+]
+},
+"10012831": {
+"clave": "Calle Carrascal, S/N|Castañar de Ibor",
+"res": [
+39.62962938379203,
+-5.42054779963026,
+"calle"
+]
+},
+"10012855": {
+"clave": "Plaza de la Constitución, 3|Navas del Madroño",
+"res": [
+39.6234650895491,
+-6.650430258470811,
+"portal"
+]
+},
+"10012867": {
+"clave": "Avenida de los Deportes, 5|Valverde del Fresno",
+"res": [
+40.22204362819377,
+-6.875727583277043,
+"portal"
+]
+},
+"10012879": {
+"clave": "Calle Concejo, 2|Santiago de Alcántara",
+"res": null
+},
+"10012880": {
+"clave": "Plaza del Tamborilero, S/N|Aceituna",
+"res": null
+},
+"10012892": {
+"clave": "Plaza Eduardo Rubio, S/N|Aldeanueva del Camino",
+"res": [
+40.25886979449965,
+-5.927044163618818,
+"calle"
+]
+},
+"10012909": {
+"clave": "Calle Callao, S/N|Campo Lugar",
+"res": [
+39.15177996454648,
+-5.792868794561796,
+"calle"
+]
+},
+"10012910": {
+"clave": "Avenida Félix Rodríguez de la Fuente, S/N|Casas de Millán",
+"res": null
+},
+"10012922": {
+"clave": "Crta. Segura, S/N|Casas del Monte",
+"res": null
+},
+"10012934": {
+"clave": "Calle Carretera, S/N|La Granja",
+"res": [
+40.23761106483926,
+-5.998170133585915,
+"calle"
+]
+},
+"10012946": {
+"clave": "Calle Rosa Vellón, S/N|Madrigalejo",
+"res": [
+39.13566734050005,
+-5.626800820499965,
+"calle"
+]
+},
+"10012958": {
+"clave": "Plaza Mayor, 9|Mohedas de Granadilla",
+"res": [
+40.26796174026472,
+-6.20158997680406,
+"portal"
+]
+},
+"10012961": {
+"clave": "Calle Don Juan Casares, S/N|Monroy",
+"res": [
+39.63808978552548,
+-6.211951777740819,
+"calle"
+]
+},
+"10012971": {
+"clave": "Calle Cerca de las Torres, S/N|Montánchez",
+"res": [
+39.225349728042396,
+-6.149193672882658,
+"calle"
+]
+},
+"10012983": {
+"clave": "Calle Diego de Santiago, S/N|San Martín de Trevejo",
+"res": [
+40.20994040210763,
+-6.79473092972299,
+"calle"
+]
+},
+"10013008": {
+"clave": "Ronda de la Parada, 4|Vegaviana",
+"res": [
+40.03761673772602,
+-6.717259590496647,
+"portal"
+]
+},
+"10013011": {
+"clave": "Avenida Donantes de Sangre, S/N|Garrovillas de Alconétar",
+"res": [
+39.71136731891953,
+-6.54797124245149,
+"calle"
+]
+},
+"10013021": {
+"clave": "Calle Jesús Sánchez Rodríguez, S/N|Hervás",
+"res": [
+40.27366877905268,
+-5.861955036799906,
+"toponimo"
+]
+},
+"10013033": {
+"clave": "Calle Jaras, 2|Malpartida de Plasencia",
+"res": [
+39.97242371342285,
+-6.0405645222837645,
+"portal"
+]
+},
+"10013045": {
+"clave": "Calle Nueva, 1|Membrío",
+"res": [
+39.52669897170331,
+-7.0540092740266775,
+"portal"
+]
+},
+"10013057": {
+"clave": "Calle Virgen de la Jarrera, S/N|Mirabel",
+"res": [
+39.863705237600115,
+-6.231613465447088,
+"calle"
+]
+},
+"10013069": {
+"clave": "Avenida de Extremadura, 43|Torrejoncillo",
+"res": [
+39.89668596365832,
+-6.474852607827481,
+"toponimo"
+]
+},
+"10013070": {
+"clave": "Calle Campo Arañuelo, 8|Majadas",
+"res": [
+39.94250965031717,
+-5.746566918638602,
+"calle"
+]
+},
+"10013082": {
+"clave": "Calle Solano, 12|Valdastillas",
+"res": [
+40.13316968632472,
+-5.879385877910295,
+"portal"
+]
+},
+"10013094": {
+"clave": "Avenida Juan de Morales, 64- a|Acehúche",
+"res": [
+39.803176350914356,
+-6.63302670509096,
+"calle"
+]
+},
+"10013100": {
+"clave": "Calle Eras, S/N|Baños de Montemayor",
+"res": null
+},
+"10013112": {
+"clave": "Avenida de las Hurdes, 8|Caminomorisco",
+"res": null
+},
+"10013124": {
+"clave": "Calle Grupo Escolar, S/N|La Pesga",
+"res": null
+},
+"10013136": {
+"clave": "Calle Valencia, S/N|Madroñera",
+"res": [
+39.42484812053608,
+-5.7595752937947395,
+"calle"
+]
+},
+"10013148": {
+"clave": "Carretera Nueva, S/N|Torrecillas de la Tiesa",
+"res": [
+39.56875208740166,
+-5.740876355895923,
+"calle"
+]
+},
+"10013151": {
+"clave": "Calle las Cruces, S/N|Zarza de Granadilla",
+"res": null
+},
+"10013161": {
+"clave": "Avenida de Juan Carlos I, S/N|Abadía",
+"res": [
+40.25945291976764,
+-5.976572212899247,
+"calle"
+]
+},
+"10013173": {
+"clave": "Calle Ribera, S/N|Aliseda",
+"res": [
+39.42453353047572,
+-6.69035053929157,
+"calle"
+]
+},
+"10013185": {
+"clave": "Calle San Pedro, 31|Brozas",
+"res": [
+39.61098982380735,
+-6.780674016141447,
+"portal"
+]
+},
+"10013197": {
+"clave": "Calle Palacio, S/N|Salorino",
+"res": [
+39.47762450544506,
+-7.008798551072296,
+"toponimo"
+]
+},
+"10013203": {
+"clave": "Avenida de Todos los Emigrantes, S/N|Ceclavín",
+"res": [
+39.824566545635825,
+-6.773086951925541,
+"calle"
+]
+},
+"10013215": {
+"clave": "Calle Escuelas, S/N|Tornavacas",
+"res": null
+},
+"10013227": {
+"clave": "Calle Alameda, S/N|Zarza de Montánchez",
+"res": [
+39.25970069629454,
+-6.032175846049194,
+"toponimo"
+]
+},
+"10013239": {
+"clave": "Calle Sierra de la Mosca, S/N (Bda. la Cañada)|Cáceres",
+"res": [
+39.4441283089971,
+-6.38956919350435,
+"calle"
+]
+},
+"10013240": {
+"clave": "Calle Lobera, 17|Cilleros",
+"res": [
+40.116728012785956,
+-6.792266731031224,
+"portal"
+]
+},
+"10013252": {
+"clave": "Travesía Calle Laureles, S/N|Pozuelo de Zarzón",
+"res": null
+},
+"10013264": {
+"clave": "Calle Gabriel y Galán, S/N|Torrejón el Rubio",
+"res": [
+39.76985066853271,
+-6.015173264921393,
+"calle"
+]
+},
+"10013276": {
+"clave": "Calle Juan Ramón Jiménez, 1 (Bj)|Torreorgaz",
+"res": [
+39.384076807372615,
+-6.250315223142804,
+"portal"
+]
+},
+"10013288": {
+"clave": "Calle Heras, S/N|Villanueva de la Sierra",
+"res": [
+40.19984066343237,
+-6.405192799851098,
+"calle"
+]
+},
+"10013291": {
+"clave": "Calle Olivo, S/N|Pinofranqueado",
+"res": [
+40.3035690240001,
+-6.330338692499935,
+"calle"
+]
+},
+"10013306": {
+"clave": "Travesía Hernán Cortés, S/N|El Gordo",
+"res": null
+},
+"10013318": {
+"clave": "Avenida de Extremadura, S/N|Valdefuentes",
+"res": [
+39.281066890118645,
+-6.1253152700728,
+"calle"
+]
+},
+"10013321": {
+"clave": "Calle Derechos Humanos, 6|Aldeanueva de la Vera",
+"res": [
+40.128097043632636,
+-5.701399453538194,
+"portal"
+]
+},
+"10013331": {
+"clave": "Paraje Santa Marina, S/N|Ahigal",
+"res": null
+},
+"10013343": {
+"clave": "Calle Carlos Corbachos, S/N|Guijo de Galisteo",
+"res": [
+39.972671850488275,
+-6.37968691776941,
+"calle"
+]
+},
+"10013355": {
+"clave": "Travesía Avenida de Alemania, 2|Torrequemada",
+"res": null
+},
+"10013367": {
+"clave": "Calle San Roque, 23|Cañaveral",
+"res": [
+39.791278202240754,
+-6.39431563229861,
+"portal"
+]
+},
+"10013379": {
+"clave": "Calle Rafael Alberti, 35|Escurial",
+"res": [
+39.166860984719705,
+-5.884781726386168,
+"calle"
+]
+},
+"10013380": {
+"clave": "Avenida del Valle, 10|Piornal",
+"res": [
+40.1176087770626,
+-5.849428240189281,
+"portal"
+]
+},
+"10013392": {
+"clave": "Calle Santa Marina, 34 Izq.|Eljas",
+"res": [
+40.216239503421754,
+-6.848329345194965,
+"portal"
+]
+},
+"10013409": {
+"clave": "Ronda de San Francisco, S/N|Cáceres",
+"res": [
+39.46640657727849,
+-6.367298465026324,
+"calle"
+]
+},
+"10013410": {
+"clave": "Calle Brasil, S/N|Coria",
+"res": [
+39.98896456953837,
+-6.530211881714522,
+"toponimo"
+]
+},
+"10013422": {
+"clave": "Avenida Pierre de Coubertain, S/N Pab. Multiusos \"Ciudad de Cáceres)|Cáceres",
+"res": null
+},
+"10013434": {
+"clave": "Calle Sargento Serrano Leite 2, Bajo|Cáceres",
+"res": [
+39.46556934123296,
+-6.375847186347331,
+"portal"
+]
+},
+"10013446": {
+"clave": "Plaza de España, 1|Coria",
+"res": [
+39.98324524525453,
+-6.53628340922482,
+"portal"
+]
+},
+"10013458": {
+"clave": "Calle Calvario, S/N|Hoyos",
+"res": [
+40.16883273496002,
+-6.7180687517973166,
+"toponimo"
+]
+},
+"10013513": {
+"clave": "Calle Fernán Pérez Monroy, 4|Valverde de la Vera",
+"res": [
+40.12008136126774,
+-5.499360231443453,
+"toponimo"
+]
+},
+"10013537": {
+"clave": "Calle Pedro Romero de Mendoza, 18 Local, 3|Cáceres",
+"res": [
+39.486294835027124,
+-6.365523003508599,
+"portal"
+]
+},
+"10013550": {
+"clave": "Polígono las Capellanías, Avda. 4, Parc, 118|Cáceres",
+"res": [
+39.49519032165717,
+-6.418884336600121,
+"calle"
+]
+},
+"10013562": {
+"clave": "Gil Cordero, 17|Cáceres",
+"res": [
+39.46899129718762,
+-6.382614726482433,
+"portal"
+]
+},
+"10013574": {
+"clave": "Avenida del Valle, 23|Plasencia",
+"res": [
+40.03316338314953,
+-6.08474362573545,
+"portal"
+]
+},
+"10013586": {
+"clave": "Plaza de San Jorge, 8|Cáceres",
+"res": [
+39.47362628862962,
+-6.3702155435520975,
+"portal"
+]
+},
+"10013598": {
+"clave": "Calle del Pósito de Alía, S/N|Alía",
+"res": [
+39.45013822335656,
+-5.217528486012176,
+"calle"
+]
+},
+"10013604": {
+"clave": "Travesía de la Constitución, 2|Talaván",
+"res": [
+39.715684385168096,
+-6.281671165118613,
+"toponimo"
+]
+},
+"10013616": {
+"clave": "Carretera de Valdeobispo, S/N|Carcaboso",
+"res": [
+40.05174946706763,
+-6.215843471368596,
+"calle"
+]
+},
+"10013628": {
+"clave": "Avenida de la Constitución, 8|Aldea del Cano",
+"res": [
+39.28471734440022,
+-6.316408369990332,
+"toponimo"
+]
+},
+"10013631": {
+"clave": "Avenida de la Montaña, 14|Cáceres",
+"res": [
+39.47035108469571,
+-6.375666695460889,
+"portal"
+]
+},
+"10013641": {
+"clave": "Calle Virgen de Guadalupe, 32|Cáceres",
+"res": null
+},
+"10013653": {
+"clave": "Carretera de Circunvalación, 12a|Santibáñez el Bajo",
+"res": [
+40.17764343546022,
+-6.224069298147731,
+"calle"
+]
+},
+"10013665": {
+"clave": "Calle los Maestros, 2|Logrosán",
+"res": [
+39.33755609769122,
+-5.489425479285632,
+"toponimo"
+]
+},
+"10013677": {
+"clave": "Calle Claudio Ptolomeo, 11-13|Cáceres",
+"res": [
+39.50238465502206,
+-6.365374839148475,
+"portal"
+]
+},
+"10013689": {
+"clave": "Avenida de la Hispanidad, S/N|Cáceres",
+"res": [
+39.4613353420272,
+-6.374957217513893,
+"calle"
+]
+},
+"10013690": {
+"clave": "Avenida Hernán Cortés, 3|Cáceres",
+"res": [
+39.47351264061968,
+-6.37900967874526,
+"portal"
+]
+},
+"10013707": {
+"clave": "Calle Cerca del Hospital, S/N|Almaraz",
+"res": [
+39.81369178829447,
+-5.679022276688429,
+"calle"
+]
+},
+"10013720": {
+"clave": "Calle San Pedro de Alcántara, 9|Cáceres",
+"res": [
+39.47094194908632,
+-6.379516822851559,
+"calle"
+]
+},
+"10013732": {
+"clave": "Calle Profesor Tierno Galván, S/N|Herreruela",
+"res": [
+39.46155491069624,
+-6.906033180769204,
+"calle"
+]
+},
+"10013744": {
+"clave": "Avenida Sierra de Gata, S/N|Perales del Puerto",
+"res": [
+40.156617234009744,
+-6.681349630637491,
+"calle"
+]
+},
+"10013756": {
+"clave": "Calle Antonio Concha, 59|Navalmoral de la Mata",
+"res": [
+39.890319542944376,
+-5.535743973093498,
+"portal"
+]
+},
+"10013768": {
+"clave": "Plaza Doctor Durán, 2|Cáceres",
+"res": [
+39.47318043557753,
+-6.373520894765958,
+"portal"
+]
+},
+"10600649": {
+"clave": "Carretera Mérida/cáceres, Km., 5|Cáceres",
+"res": [
+39.4699460584341,
+-6.379825041472284,
+"toponimo"
+]
+}
+}

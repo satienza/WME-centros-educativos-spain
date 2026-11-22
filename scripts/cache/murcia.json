@@ -1,0 +1,690 @@
+{
+"30001898": {
+"clave": "Trabajo, 4|La Aljorra",
+"res": null
+},
+"30008421": {
+"clave": "Alameda de los Tristes, S/N|Lorca",
+"res": [
+37.66939476222885,
+-1.6947862693770657,
+"toponimo"
+]
+},
+"30012513": {
+"clave": "Avenida de Lorca, 60|Totana",
+"res": [
+37.76274703732276,
+-1.5037041418693284,
+"portal"
+]
+},
+"30013736": {
+"clave": "Avenida de la Aviación Española, S/N|San Javier",
+"res": [
+37.80236817760134,
+-0.8244010027900993,
+"calle"
+]
+},
+"30019027": {
+"clave": "Calle Jesús Esteban, Bº Nuevo San Basilio|Murcia",
+"res": null
+},
+"30019088": {
+"clave": "Calle Donantes de Sangre, 2|Cieza",
+"res": [
+38.24298996736598,
+-1.4236665116201552,
+"calle"
+]
+},
+"30020893": {
+"clave": "Avenida Alfonso X el Sabio, 4 (Murcia) 300 08 (Colegio Jesús María)|Murcia",
+"res": [
+37.995199293620075,
+-1.1256197431628692,
+"toponimo"
+]
+},
+"30020959": {
+"clave": "Camino Viejo de Lorca, S/N|Puerto Lumbreras",
+"res": [
+37.60387961681981,
+-1.7589897840882152,
+"calle"
+]
+},
+"30020960": {
+"clave": "Subida al Valle Perdido, 1|Murcia",
+"res": [
+37.928468148458414,
+-1.1455172507281721,
+"calle"
+]
+},
+"30020972": {
+"clave": "Calle Doctor Pascual Parrilla Paricio, 12 Murcia C.P., 30007|Murcia",
+"res": [
+38.00441652220004,
+-1.1371513734972847,
+"calle"
+]
+},
+"30020984": {
+"clave": "Calle Jara Carrillo, 1-A (Bajo).|Molina de Segura",
+"res": [
+38.05158786050163,
+-1.214955323983878,
+"portal"
+]
+},
+"30020996": {
+"clave": "Calle Alonso de Ojeda, 2 Murcia|Murcia",
+"res": [
+37.99251807200948,
+-1.1217993331883571,
+"portal"
+]
+},
+"30021009": {
+"clave": "Calle Faro, 7, Espinardo.|Murcia",
+"res": [
+38.02756809494848,
+-1.1674396325952003,
+"portal"
+]
+},
+"30021010": {
+"clave": "Paseo del Malecón, 25|Murcia",
+"res": [
+37.98071614191906,
+-1.139788773753816,
+"portal"
+]
+},
+"30021022": {
+"clave": "Calle del Collado, S/n, Urbanización Mirador de Agridulce.|Molina de Segura",
+"res": null
+},
+"30021034": {
+"clave": "Calle Alcalde Gaspar de la Peña, 27 Murcia|Murcia",
+"res": [
+37.98082633282721,
+-1.1418331666123287,
+"portal"
+]
+},
+"30021058": {
+"clave": "Carretera de Alicante, Km 9, 50|Murcia",
+"res": [
+38.053156194149516,
+-1.0743827061827211,
+"calle"
+]
+},
+"30021061": {
+"clave": "Paseo Malecón, 25|Murcia",
+"res": [
+37.98074830272195,
+-1.1402727718673444,
+"toponimo"
+]
+},
+"30021071": {
+"clave": "Avenida de la Liberta, 7 Bajo|Murcia",
+"res": [
+38.00710474523231,
+-1.100197172842421,
+"calle"
+]
+},
+"30021083": {
+"clave": "Paseo Joaquín Garrigues Walker, 8 Bajo|Murcia",
+"res": [
+38.002829396313125,
+-1.1397118338281318,
+"calle"
+]
+},
+"30021095": {
+"clave": "Carretera de Aguilas - Esquina Ronda Sur, S/N|Lorca",
+"res": null
+},
+"30021101": {
+"clave": "Camino de las Brönte, S/N|Murcia",
+"res": null
+},
+"30021113": {
+"clave": "Senda de Granada, 166 Cabezo de Torres|Murcia",
+"res": [
+38.01170402510903,
+-1.1250327996934375,
+"portal"
+]
+},
+"30021125": {
+"clave": "Calle Gabriel Miro, 4 Bajo|Murcia",
+"res": [
+37.97779293714424,
+-1.120127531081501,
+"portal"
+]
+},
+"30021137": {
+"clave": "Calle Pío Baroja, 30 - Bajo|Yecla",
+"res": [
+38.61656203904338,
+-1.1214552754147151,
+"portal"
+]
+},
+"30021149": {
+"clave": "Calle José Javier, 12 Bajo, Murcia|Murcia",
+"res": [
+37.994518596254125,
+-1.140440933655902,
+"portal"
+]
+},
+"30021150": {
+"clave": "Calle Arcipreste Esteban Díaz, 86 Bajo|Yecla",
+"res": [
+38.61020620374338,
+-1.107612199431264,
+"calle"
+]
+},
+"30021174": {
+"clave": "Calle Juan Alarcón Borja, 5 Bajo|Murcia",
+"res": [
+38.00554303105357,
+-1.115353590256702,
+"calle"
+]
+},
+"30021186": {
+"clave": "Calle Navegante Juan Fernández, 4 - Bajo, la Flota 30007 Murcuia|Murcia",
+"res": [
+37.99488616303393,
+-1.12318160423225,
+"portal"
+]
+},
+"30021198": {
+"clave": "Carril de la Amistad, 12|Murcia",
+"res": [
+37.988089365426966,
+-1.1006197386732937,
+"portal"
+]
+},
+"30021216": {
+"clave": "Calle Miró, 1|Santomera",
+"res": [
+38.058530293227314,
+-1.0505105205618712,
+"portal"
+]
+},
+"30021228": {
+"clave": "Calle Paseo de la Fuente, 16 Bajo|Murcia",
+"res": null
+},
+"30021241": {
+"clave": "Avenida Constitución, 16 Guadalupe|Murcia",
+"res": [
+37.99903572156496,
+-1.1749191252063873,
+"portal"
+]
+},
+"30021253": {
+"clave": "Calle Peña de la Almazara, S/N|Las Torres de Cotillas",
+"res": [
+38.02693301825416,
+-1.2410468266293655,
+"calle"
+]
+},
+"30021265": {
+"clave": "Calle Ronda de Garay, 14 Murcia|Murcia",
+"res": [
+37.9858994867359,
+-1.1228756046008999,
+"portal"
+]
+},
+"30021277": {
+"clave": "Calle Grecia, 56, Cartagena|Cartagena",
+"res": [
+37.614152986499015,
+-0.9757783867978274,
+"calle"
+]
+},
+"30021289": {
+"clave": "Calle Ramón del Valle Inclán, 7, el Puntal, Murcia|El Puntal",
+"res": null
+},
+"30021290": {
+"clave": "Calle Alfonso X el Sabio, 21|Cartagena",
+"res": [
+37.61117614039239,
+-0.9908667878795695,
+"portal"
+]
+},
+"30021307": {
+"clave": "Avenida Miguel de Cervantes, 3|Murcia",
+"res": [
+37.994929050310944,
+-1.142470052466017,
+"portal"
+]
+},
+"30021319": {
+"clave": "Calle Catedrático Fernando Piñuela, 5, Bajo|Murcia",
+"res": [
+38.00041162357495,
+-1.1400237653098269,
+"portal"
+]
+},
+"30021320": {
+"clave": "Finca la Gregoria, 2, Pozo Estrecho|Cartagena",
+"res": [
+37.69570397821784,
+-0.9988823227007381,
+"portal"
+]
+},
+"30021332": {
+"clave": "Calle Sierra de la Fuensanta, S/N|Murcia",
+"res": [
+37.93557804350733,
+-1.1519484204713406,
+"calle"
+]
+},
+"30021356": {
+"clave": "Calle Menorca, 2 Bajo.|Alcantarilla",
+"res": [
+37.96801925689731,
+-1.2181340957673004,
+"portal"
+]
+},
+"30021381": {
+"clave": "Paseo Científico Gabriel Ciscar, 22. la Flota|Murcia",
+"res": [
+37.996877504582756,
+-1.1211756040119654,
+"portal"
+]
+},
+"30021393": {
+"clave": "Pol.Ind.O, Av..Principal, Parc.26/13 (San Ginés)yc/ Perú, Parc.5/1(Alcantarilla)|Murcia",
+"res": null
+},
+"30021401": {
+"clave": "Calle la Iglesia, 47|Murcia",
+"res": [
+37.93070955150804,
+-1.2052232006843653,
+"portal"
+]
+},
+"30021423": {
+"clave": "Calle Aragón, 55|San Pedro del Pinatar",
+"res": [
+37.824031600342025,
+-0.7827869391243301,
+"portal"
+]
+},
+"30021435": {
+"clave": "Calle Molina de Segura|Murcia",
+"res": null
+},
+"30021447": {
+"clave": "Calle Rosaos|Murcia",
+"res": [
+37.944453913989555,
+-1.1157748472997193,
+"calle"
+]
+},
+"30021460": {
+"clave": "Calle los Cerezos, 3|Alhama de Murcia",
+"res": [
+37.850821553690835,
+-1.4145232401280856,
+"portal"
+]
+},
+"30021472": {
+"clave": "Calle Massotti Escuder, 43|Las Torres de Cotillas",
+"res": [
+38.02205389700734,
+-1.2413352958698998,
+"portal"
+]
+},
+"30021484": {
+"clave": "Calle Sierra del Taibilla, 12, la Alcayna|Molina de Segura",
+"res": [
+38.087791775406274,
+-1.155141610795246,
+"portal"
+]
+},
+"30021496": {
+"clave": "Calle del Este, 14|Santomera",
+"res": [
+38.06319265989699,
+-1.0427941557373137,
+"calle"
+]
+},
+"30021502": {
+"clave": "Calle Maestra Maruja Madrigal, 35,|Murcia",
+"res": [
+38.005534370282376,
+-1.1124163400578595,
+"calle"
+]
+},
+"30021514": {
+"clave": "Calle Galicia, S/N|Bullas",
+"res": [
+38.043327460929056,
+-1.6631466016814063,
+"calle"
+]
+},
+"30021526": {
+"clave": "Calle Valencia, 23|Las Torres de Cotillas",
+"res": [
+38.01740525583937,
+-1.2389510257535563,
+"portal"
+]
+},
+"30021538": {
+"clave": "Calle Paseo del Portón, 2 A, Urb. Portón de los Jerónimos|La Ñora",
+"res": null
+},
+"30021541": {
+"clave": "Calle Don Eloy, 98|Ceutí",
+"res": [
+38.07932236597277,
+-1.2773147005268894,
+"portal"
+]
+},
+"30021563": {
+"clave": "Calle Santa Flora, S/N|Totana",
+"res": null
+},
+"30021575": {
+"clave": "Calle Ricote, 2|Totana",
+"res": [
+37.76472892303035,
+-1.5039847835071605,
+"portal"
+]
+},
+"30021587": {
+"clave": "Calle Santa Flora, S/N|Totana",
+"res": null
+},
+"30021599": {
+"clave": "Calle Juan Ramón Jiménez, S/N|Pliego",
+"res": [
+37.99299027570378,
+-1.5078862934894477,
+"calle"
+]
+},
+"30021605": {
+"clave": "Esquina Calle Montevideo Con Calle Virgen de Guadalupe|Cartagena",
+"res": null
+},
+"30021617": {
+"clave": "Calle Huerto Cadenas, 3|Murcia",
+"res": [
+37.988994620627224,
+-1.1375004361371137,
+"portal"
+]
+},
+"30021629": {
+"clave": "Calle Cervantes S/N Con C/ Reina Sofía, S/N|Blanca",
+"res": [
+38.17794426748226,
+-1.375053764913401,
+"calle"
+]
+},
+"30021630": {
+"clave": "Calle Cervantes S/N Con C/ Reina Sofía, S/N|Blanca",
+"res": [
+38.17794426748226,
+-1.375053764913401,
+"calle"
+]
+},
+"30021654": {
+"clave": "Calle de la Alberca, 11|Murcia",
+"res": [
+37.94230718025568,
+-1.1603962840873636,
+"portal"
+]
+},
+"30021666": {
+"clave": "Parking Monteromero (Edificio 5) S/N (Campus de Espinardo)|Murcia",
+"res": null
+},
+"30021678": {
+"clave": "Calle Actor José Guardiola, 6|Jumilla",
+"res": [
+38.47530885648092,
+-1.3148971268413099,
+"portal"
+]
+},
+"30021681": {
+"clave": "Calle Híspalis, 9|La Aljorra",
+"res": null
+},
+"30021691": {
+"clave": "Calle Nectarina, S/N|La Palma",
+"res": null
+},
+"30021708": {
+"clave": "Avenida Vasco Núñez de Balboa, 2|Cartagena",
+"res": [
+37.71052552474284,
+-0.9967398721755323,
+"calle"
+]
+},
+"30021711": {
+"clave": "Calle Acequia, 14|Santomera",
+"res": [
+38.058840474167965,
+-1.04766702700821,
+"calle"
+]
+},
+"30021721": {
+"clave": "Avenida Juan XXIII, 56|Cieza",
+"res": [
+38.241330710654445,
+-1.4176551048681807,
+"portal"
+]
+},
+"30021733": {
+"clave": "Calle Poetisa Eladia Bautista S/n-Bajo|Mula",
+"res": [
+38.03321870853622,
+-1.4969425072542264,
+"calle"
+]
+},
+"30021757": {
+"clave": "Avenida Mariano Rojas, 5 - Puente Tocinos|Murcia",
+"res": [
+38.00064792447335,
+-1.146546603014164,
+"portal"
+]
+},
+"30021769": {
+"clave": "Calle Embalse de Valdeinfierno, 24|La Hoya",
+"res": null
+},
+"30021770": {
+"clave": "Calle Cañada del Aljibe, 9|La Paca",
+"res": null
+},
+"30021782": {
+"clave": "Calle Serrano, 10|Murcia",
+"res": [
+38.005646040023365,
+-1.1407982922279525,
+"portal"
+]
+},
+"30021812": {
+"clave": "Calle Francisco Palazón, 4|Mula",
+"res": null
+},
+"30021824": {
+"clave": "Calle Pablo Casals|Puerto Lumbreras",
+"res": [
+37.56555872398421,
+-1.8094310883182023,
+"calle"
+]
+},
+"30021836": {
+"clave": "Calle San Javier, 1|Puerto Lumbreras",
+"res": [
+37.568067228790625,
+-1.7969282608712895,
+"portal"
+]
+},
+"30021848": {
+"clave": "Calle San Javier, 1|Puerto Lumbreras",
+"res": [
+37.568067228790625,
+-1.7969282608712895,
+"portal"
+]
+},
+"30021851": {
+"clave": "Carretera de la Estación, S/N|Puerto Lumbreras",
+"res": null
+},
+"30021861": {
+"clave": "Calle Cura Párroco César García, Bajo, Esc. 1, Puerta, 1|Murcia",
+"res": null
+},
+"30021873": {
+"clave": "Calle la Vía, S/N|Fuente Álamo de Murcia",
+"res": null
+},
+"30021885": {
+"clave": "Paraje la Cerca, S/N|Ricote",
+"res": null
+},
+"30021897": {
+"clave": "Calle Hospicio, 5|Moratalla",
+"res": null
+},
+"30021903": {
+"clave": "Calle Puerto Escondido, 27|Cartagena",
+"res": [
+37.63144982799867,
+-1.0450392328093572,
+"portal"
+]
+},
+"30021915": {
+"clave": "Calle Deportista Jesús Hernández Tito, 1|Murcia",
+"res": [
+38.006450063856526,
+-1.1464087388963948,
+"calle"
+]
+},
+"30021927": {
+"clave": "Avenida Nueva Condomina, 11|Murcia",
+"res": [
+38.0436653740039,
+-1.1436530900565525,
+"calle"
+]
+},
+"30021939": {
+"clave": "Calle Alcalá de Henares, 173 - Santiago D|San Javier",
+"res": [
+37.81091567293308,
+-0.8056348906808002,
+"portal"
+]
+},
+"30021940": {
+"clave": "Calle Laureados de España S/N - el Mirador|El Mirador",
+"res": null
+},
+"30021952": {
+"clave": "Camino de la Calera, 4 (La Algaida-Archena)|Algaida",
+"res": null
+},
+"30021964": {
+"clave": "Calle Huerta Vieja, 1|Villanueva del Río Segura",
+"res": null
+},
+"30021976": {
+"clave": "Calle Reina Sofia, S/N|Caravaca de la Cruz",
+"res": null
+},
+"30021988": {
+"clave": "Calle Concejal Miguel Ángel Blanco, Esq. Jesús Fernández, S/N|Caravaca de la Cruz",
+"res": [
+38.103934098379796,
+-1.8709162565569792,
+"calle"
+]
+},
+"30021991": {
+"clave": "Plaza del Arco Número 1, 30400, de Barra|Caravaca de la Cruz",
+"res": null
+},
+"30022041": {
+"clave": "Calle Alto de las Atalayas, 6 Bajo|Murcia",
+"res": [
+38.02442948915615,
+-1.130395782565399,
+"portal"
+]
+},
+"30022099": {
+"clave": "Avenida Santa Catalina 275 Bajo, 1|Murcia",
+"res": null
+},
+"30700338": {
+"clave": "Avenida Teniente Montesinos, 7 Espinardo|Murcia",
+"res": [
+38.003553085597744,
+-1.1471697995234986,
+"portal"
+]
+}
+}
