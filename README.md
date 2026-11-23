@@ -36,7 +36,7 @@ Cada comunidad tiene un `centros_<comunidad>.geojson` (WGS84), con el mismo nomb
 | `poblacion` | `Segovia` | localidad |
 | `municipio` | `Segovia` | |
 | `codigo_postal` | `40001` | texto de 5 cifras |
-| `latitud`, `longitud` | `40.94623`, `-4.11764` | |
+| `latitud`, `longitud` | `40.94623`, `-4.11764` | texto, para que WME Geometries pueda usarlas como etiqueta |
 | `tipo_centro` | `Colegio de Educación Infantil y Primaria` | sin abreviar |
 | `codigo` | `40008561` | código oficial del centro |
 | `curso` | `2026` | opcional, solo si la fuente lo trae |
