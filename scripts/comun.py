@@ -285,8 +285,9 @@ def feature(codigo, nombre, direccion, poblacion, municipio, codigo_postal, lat,
         "poblacion": poblacion,
         "municipio": municipio,
         "codigo_postal": (codigo_postal or "").strip().zfill(5) if (codigo_postal or "").strip() else "",
-        "latitud": lat,
-        "longitud": lon,
+        # texto: WME Geometries solo etiqueta con propiedades string (las numéricas salen "undefined")
+        "latitud": str(lat),
+        "longitud": str(lon),
         "tipo_centro": tipo_centro,
         "codigo": codigo,
     }

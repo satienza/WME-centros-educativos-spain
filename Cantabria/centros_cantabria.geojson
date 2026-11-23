@@ -19,8 +19,8 @@
     "poblacion": "Cobreces",
     "municipio": "Alfoz de Lloredo",
     "codigo_postal": "39320",
-    "latitud": 43.38687991135889,
-    "longitud": -4.214475839424195,
+    "latitud": "43.38687991135889",
+    "longitud": "-4.214475839424195",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39000064"
    }
@@ -40,8 +40,8 @@
     "poblacion": "Ampuero",
     "municipio": "Ampuero",
     "codigo_postal": "39840",
-    "latitud": 43.34304924521933,
-    "longitud": -3.414665182851565,
+    "latitud": "43.34304924521933",
+    "longitud": "-3.414665182851565",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39000180"
    }
@@ -61,8 +61,8 @@
     "poblacion": "Serna, la",
     "municipio": "Arenas de Iguña",
     "codigo_postal": "39440",
-    "latitud": 43.169937220174425,
-    "longitud": -4.043699172971699,
+    "latitud": "43.169937220174425",
+    "longitud": "-4.043699172971699",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39000431"
    }
@@ -82,8 +82,8 @@
     "poblacion": "Argoños",
     "municipio": "Argoños",
     "codigo_postal": "39197",
-    "latitud": 43.4550736,
-    "longitud": -3.4945764,
+    "latitud": "43.4550736",
+    "longitud": "-3.4945764",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39000453"
    }
@@ -103,8 +103,8 @@
     "poblacion": "Isla",
     "municipio": "Arnuero",
     "codigo_postal": "39195",
-    "latitud": 43.49447410941536,
-    "longitud": -3.549581746113395,
+    "latitud": "43.49447410941536",
+    "longitud": "-3.549581746113395",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39000507"
    }
@@ -124,8 +124,8 @@
     "poblacion": "Astillero (El)",
     "municipio": "Astillero (El)",
     "codigo_postal": "39610",
-    "latitud": 43.401117447234526,
-    "longitud": -3.8181398723074254,
+    "latitud": "43.401117447234526",
+    "longitud": "-3.8181398723074254",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39000571"
    }
@@ -145,8 +145,8 @@
     "poblacion": "Astillero (El)",
     "municipio": "Astillero (El)",
     "codigo_postal": "39611",
-    "latitud": 43.40012006157062,
-    "longitud": -3.8268088154329782,
+    "latitud": "43.40012006157062",
+    "longitud": "-3.8268088154329782",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39000593"
    }
@@ -166,8 +166,8 @@
     "poblacion": "Astillero (El)",
     "municipio": "Astillero (El)",
     "codigo_postal": "39610",
-    "latitud": 43.40056038889723,
-    "longitud": -3.822452266603312,
+    "latitud": "43.40056038889723",
+    "longitud": "-3.822452266603312",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39000601"
    }
@@ -187,8 +187,8 @@
     "poblacion": "Guarnizo",
     "municipio": "Astillero (El)",
     "codigo_postal": "39611",
-    "latitud": 43.40204158997186,
-    "longitud": -3.83666728635061,
+    "latitud": "43.40204158997186",
+    "longitud": "-3.83666728635061",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39000611"
    }
@@ -208,8 +208,8 @@
     "poblacion": "Guarnizo",
     "municipio": "Astillero (El)",
     "codigo_postal": "39611",
-    "latitud": 43.393100579131065,
-    "longitud": -3.8546844990610776,
+    "latitud": "43.393100579131065",
+    "longitud": "-3.8546844990610776",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39000659"
    }
@@ -229,8 +229,8 @@
     "poblacion": "Ajo",
     "municipio": "Bareyo",
     "codigo_postal": "39170",
-    "latitud": 43.476323193318905,
-    "longitud": -3.6120141126228074,
+    "latitud": "43.476323193318905",
+    "longitud": "-3.6120141126228074",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39000817"
    }
@@ -250,8 +250,8 @@
     "poblacion": "Cabezon de la Sal",
     "municipio": "Cabezon de la Sal",
     "codigo_postal": "39500",
-    "latitud": 43.3093211,
-    "longitud": -4.2291201,
+    "latitud": "43.3093211",
+    "longitud": "-4.2291201",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39000881"
    }
@@ -271,8 +271,8 @@
     "poblacion": "Cabezon de la Sal",
     "municipio": "Cabezon de la Sal",
     "codigo_postal": "39500",
-    "latitud": 43.3066389,
-    "longitud": -4.236083333333333,
+    "latitud": "43.3066389",
+    "longitud": "-4.236083333333333",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39000908"
    }
@@ -292,8 +292,8 @@
     "poblacion": "Casar de Periedo",
     "municipio": "Cabezon de la Sal",
     "codigo_postal": "39591",
-    "latitud": 43.33330831635518,
-    "longitud": -4.179408805876168,
+    "latitud": "43.33330831635518",
+    "longitud": "-4.179408805876168",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39000945"
    }
@@ -313,8 +313,8 @@
     "poblacion": "Escobedo",
     "municipio": "Camargo",
     "codigo_postal": "39609",
-    "latitud": 43.403733149105854,
-    "longitud": -3.9054180643929013,
+    "latitud": "43.403733149105854",
+    "longitud": "-3.9054180643929013",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39001317"
    }
@@ -334,8 +334,8 @@
     "poblacion": "Maliaño",
     "municipio": "Camargo",
     "codigo_postal": "39600",
-    "latitud": 43.416001438599544,
-    "longitud": -3.837619969283714,
+    "latitud": "43.416001438599544",
+    "longitud": "-3.837619969283714",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39001366"
    }
@@ -355,8 +355,8 @@
     "poblacion": "Maliaño",
     "municipio": "Camargo",
     "codigo_postal": "39600",
-    "latitud": 43.41534427615876,
-    "longitud": -3.8218200724357394,
+    "latitud": "43.41534427615876",
+    "longitud": "-3.8218200724357394",
     "tipo_centro": "Centro de Educación Especial",
     "codigo": "39001391"
    }
@@ -376,8 +376,8 @@
     "poblacion": "Revilla",
     "municipio": "Camargo",
     "codigo_postal": "39600",
-    "latitud": 43.40805065987617,
-    "longitud": -3.8574112596442274,
+    "latitud": "43.40805065987617",
+    "longitud": "-3.8574112596442274",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39001421"
    }
@@ -397,8 +397,8 @@
     "poblacion": "Muriedas",
     "municipio": "Camargo",
     "codigo_postal": "39600",
-    "latitud": 43.416149344967195,
-    "longitud": -3.846724775395476,
+    "latitud": "43.416149344967195",
+    "longitud": "-3.846724775395476",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39001433"
    }
@@ -418,8 +418,8 @@
     "poblacion": "Revilla",
     "municipio": "Camargo",
     "codigo_postal": "39600",
-    "latitud": 43.40556754310419,
-    "longitud": -3.8594922080747254,
+    "latitud": "43.40556754310419",
+    "longitud": "-3.8594922080747254",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39001445"
    }
@@ -439,8 +439,8 @@
     "poblacion": "Cartes",
     "municipio": "Cartes",
     "codigo_postal": "39311",
-    "latitud": 43.32739034441739,
-    "longitud": -4.068170949869962,
+    "latitud": "43.32739034441739",
+    "longitud": "-4.068170949869962",
     "tipo_centro": "Centro público",
     "codigo": "39001585"
    }
@@ -460,8 +460,8 @@
     "poblacion": "Santiago de Cartes",
     "municipio": "Cartes",
     "codigo_postal": "39311",
-    "latitud": 43.3376111,
-    "longitud": -4.066111111111111,
+    "latitud": "43.3376111",
+    "longitud": "-4.066111111111111",
     "tipo_centro": "Escuela Infantil",
     "codigo": "39001664"
    }
@@ -481,8 +481,8 @@
     "poblacion": "Villabañez",
     "municipio": "Castañeda",
     "codigo_postal": "39660",
-    "latitud": 43.3137826,
-    "longitud": -3.9524445,
+    "latitud": "43.3137826",
+    "longitud": "-3.9524445",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39001691"
    }
@@ -502,8 +502,8 @@
     "poblacion": "San Mateo",
     "municipio": "Corrales de Buelna (Los)",
     "codigo_postal": "39408",
-    "latitud": 43.26726366210487,
-    "longitud": -4.073117993410175,
+    "latitud": "43.26726366210487",
+    "longitud": "-4.073117993410175",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39001780"
    }
@@ -523,8 +523,8 @@
     "poblacion": "Castro-Urdiales",
     "municipio": "Castro-Urdiales",
     "codigo_postal": "39700",
-    "latitud": 43.384224832555006,
-    "longitud": -3.2193672884749955,
+    "latitud": "43.384224832555006",
+    "longitud": "-3.2193672884749955",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39001846"
    }
@@ -544,8 +544,8 @@
     "poblacion": "Castro-Urdiales",
     "municipio": "Castro-Urdiales",
     "codigo_postal": "39700",
-    "latitud": 43.37928609132456,
-    "longitud": -3.217138184438573,
+    "latitud": "43.37928609132456",
+    "longitud": "-3.217138184438573",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39001895"
    }
@@ -565,8 +565,8 @@
     "poblacion": "Castro-Urdiales",
     "municipio": "Castro-Urdiales",
     "codigo_postal": "39700",
-    "latitud": 43.36949346011385,
-    "longitud": -3.2171105865735936,
+    "latitud": "43.36949346011385",
+    "longitud": "-3.2171105865735936",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39001901"
    }
@@ -586,8 +586,8 @@
     "poblacion": "Castro-Urdiales",
     "municipio": "Castro-Urdiales",
     "codigo_postal": "39700",
-    "latitud": 43.383485046428575,
-    "longitud": -3.223499012470464,
+    "latitud": "43.383485046428575",
+    "longitud": "-3.223499012470464",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39001913"
    }
@@ -607,8 +607,8 @@
     "poblacion": "Colindres",
     "municipio": "Colindres",
     "codigo_postal": "39750",
-    "latitud": 43.39452809322329,
-    "longitud": -3.4509348289606154,
+    "latitud": "43.39452809322329",
+    "longitud": "-3.4509348289606154",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39002309"
    }
@@ -628,8 +628,8 @@
     "poblacion": "Comillas",
     "municipio": "Comillas",
     "codigo_postal": "39520",
-    "latitud": 43.3805941,
-    "longitud": -4.2895291,
+    "latitud": "43.3805941",
+    "longitud": "-4.2895291",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39002334"
    }
@@ -649,8 +649,8 @@
     "poblacion": "Corrales, los",
     "municipio": "Corrales de Buelna (Los)",
     "codigo_postal": "39400",
-    "latitud": 43.25725129928984,
-    "longitud": -4.069475139515832,
+    "latitud": "43.25725129928984",
+    "longitud": "-4.069475139515832",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39002450"
    }
@@ -670,8 +670,8 @@
     "poblacion": "Corrales, los",
     "municipio": "Corrales de Buelna (Los)",
     "codigo_postal": "39400",
-    "latitud": 43.2605558811267,
-    "longitud": -4.067470471453567,
+    "latitud": "43.2605558811267",
+    "longitud": "-4.067470471453567",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39002474"
    }
@@ -691,8 +691,8 @@
     "poblacion": "Corrales, los",
     "municipio": "Corrales de Buelna (Los)",
     "codigo_postal": "39400",
-    "latitud": 43.26890322497378,
-    "longitud": -4.061945344547777,
+    "latitud": "43.26890322497378",
+    "longitud": "-4.061945344547777",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39002504"
    }
@@ -712,8 +712,8 @@
     "poblacion": "Somahoz",
     "municipio": "Los Corrales de Buelna",
     "codigo_postal": "39400",
-    "latitud": 43.24827866718884,
-    "longitud": -4.063833023454354,
+    "latitud": "43.24827866718884",
+    "longitud": "-4.063833023454354",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39002531"
    }
@@ -733,8 +733,8 @@
     "poblacion": "Alceda",
     "municipio": "Corvera de Toranzo",
     "codigo_postal": "39680",
-    "latitud": 43.196790839423386,
-    "longitud": -3.9191386816845384,
+    "latitud": "43.196790839423386",
+    "longitud": "-3.9191386816845384",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39002565"
    }
@@ -754,8 +754,8 @@
     "poblacion": "Matamorosa",
     "municipio": "Campoo de Enmedio",
     "codigo_postal": "39200",
-    "latitud": 42.984866434167316,
-    "longitud": -4.147696956819937,
+    "latitud": "42.984866434167316",
+    "longitud": "-4.147696956819937",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39002784"
    }
@@ -775,8 +775,8 @@
     "poblacion": "Entrambasaguas",
     "municipio": "Entrambasaguas",
     "codigo_postal": "39715",
-    "latitud": 43.37607211777993,
-    "longitud": -3.6817352550549,
+    "latitud": "43.37607211777993",
+    "longitud": "-3.6817352550549",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39002905"
    }
@@ -796,8 +796,8 @@
     "poblacion": "Escalante",
     "municipio": "Escalante",
     "codigo_postal": "39795",
-    "latitud": 43.43756645124393,
-    "longitud": -3.513573683705847,
+    "latitud": "43.43756645124393",
+    "longitud": "-3.513573683705847",
     "tipo_centro": "Escuela Infantil",
     "codigo": "39002991"
    }
@@ -817,8 +817,8 @@
     "poblacion": "Hazas de Cesto",
     "municipio": "Hazas de Cesto",
     "codigo_postal": "39738",
-    "latitud": 43.395596223420874,
-    "longitud": -3.5905868746643237,
+    "latitud": "43.395596223420874",
+    "longitud": "-3.5905868746643237",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39003119"
    }
@@ -838,8 +838,8 @@
     "poblacion": "Paracuelles",
     "municipio": "Hermandad de Campoo de Suso",
     "codigo_postal": "39211",
-    "latitud": 43.02115055444158,
-    "longitud": -4.215582659474723,
+    "latitud": "43.02115055444158",
+    "longitud": "-4.215582659474723",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39003201"
    }
@@ -859,8 +859,8 @@
     "poblacion": "Laredo",
     "municipio": "Laredo",
     "codigo_postal": "39770",
-    "latitud": 43.40773229519803,
-    "longitud": -3.4164144146306,
+    "latitud": "43.40773229519803",
+    "longitud": "-3.4164144146306",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39003375"
    }
@@ -880,8 +880,8 @@
     "poblacion": "Laredo",
     "municipio": "Laredo",
     "codigo_postal": "39770",
-    "latitud": 43.41105,
-    "longitud": -3.41576,
+    "latitud": "43.41105",
+    "longitud": "-3.41576",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39003387"
    }
@@ -901,8 +901,8 @@
     "poblacion": "Laredo",
     "municipio": "Laredo",
     "codigo_postal": "39770",
-    "latitud": 43.3636089452227,
-    "longitud": -3.4250803163004293,
+    "latitud": "43.3636089452227",
+    "longitud": "-3.4250803163004293",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39003417"
    }
@@ -922,8 +922,8 @@
     "poblacion": "Laredo",
     "municipio": "Laredo",
     "codigo_postal": "39770",
-    "latitud": 43.408047166340246,
-    "longitud": -3.4146447017280237,
+    "latitud": "43.408047166340246",
+    "longitud": "-3.4146447017280237",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39003429"
    }
@@ -943,8 +943,8 @@
     "poblacion": "Hazas",
     "municipio": "Liendo",
     "codigo_postal": "39776",
-    "latitud": 43.3933697,
-    "longitud": -3.3781484,
+    "latitud": "43.3933697",
+    "longitud": "-3.3781484",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39003430"
    }
@@ -964,8 +964,8 @@
     "poblacion": "Limpias",
     "municipio": "Limpias",
     "codigo_postal": "39820",
-    "latitud": 43.361284185835224,
-    "longitud": -3.4256332442692554,
+    "latitud": "43.361284185835224",
+    "longitud": "-3.4256332442692554",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39003545"
    }
@@ -985,8 +985,8 @@
     "poblacion": "Anaz",
     "municipio": "Medio Cudeyo",
     "codigo_postal": "39718",
-    "latitud": 43.362953982128516,
-    "longitud": -3.7522313184068414,
+    "latitud": "43.362953982128516",
+    "longitud": "-3.7522313184068414",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39003910"
    }
@@ -1006,8 +1006,8 @@
     "poblacion": "Ceceñas",
     "municipio": "Medio Cudeyo",
     "codigo_postal": "39724",
-    "latitud": 43.37615,
-    "longitud": -3.718608,
+    "latitud": "43.37615",
+    "longitud": "-3.718608",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39003922"
    }
@@ -1027,8 +1027,8 @@
     "poblacion": "Heras",
     "municipio": "Medio Cudeyo",
     "codigo_postal": "39792",
-    "latitud": 43.403750929142326,
-    "longitud": -3.764682010367905,
+    "latitud": "43.403750929142326",
+    "longitud": "-3.764682010367905",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39003983"
    }
@@ -1048,8 +1048,8 @@
     "poblacion": "Valdecilla",
     "municipio": "Medio Cudeyo",
     "codigo_postal": "39724",
-    "latitud": 43.37920854226739,
-    "longitud": -3.737475013474734,
+    "latitud": "43.37920854226739",
+    "longitud": "-3.737475013474734",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39004033"
    }
@@ -1069,8 +1069,8 @@
     "poblacion": "Mogro",
     "municipio": "Miengo",
     "codigo_postal": "39310",
-    "latitud": 43.4268258162958,
-    "longitud": -3.971257086596939,
+    "latitud": "43.4268258162958",
+    "longitud": "-3.971257086596939",
     "tipo_centro": "Escuela Infantil",
     "codigo": "39004197"
    }
@@ -1090,8 +1090,8 @@
     "poblacion": "Noja",
     "municipio": "Noja",
     "codigo_postal": "39180",
-    "latitud": 43.4811718,
-    "longitud": -3.5285348,
+    "latitud": "43.4811718",
+    "longitud": "-3.5285348",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39004379"
    }
@@ -1111,8 +1111,8 @@
     "poblacion": "Arce",
     "municipio": "Pielagos",
     "codigo_postal": "39478",
-    "latitud": 43.414909354454394,
-    "longitud": -3.9429049197093127,
+    "latitud": "43.414909354454394",
+    "longitud": "-3.9429049197093127",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39004598"
    }
@@ -1132,8 +1132,8 @@
     "poblacion": "Parbayon",
     "municipio": "Pielagos",
     "codigo_postal": "39612",
-    "latitud": 43.37592749141066,
-    "longitud": -3.89323913616195,
+    "latitud": "43.37592749141066",
+    "longitud": "-3.89323913616195",
     "tipo_centro": "Escuela Infantil",
     "codigo": "39004707"
    }
@@ -1153,8 +1153,8 @@
     "poblacion": "Vioño",
     "municipio": "Piélagos",
     "codigo_postal": "39479",
-    "latitud": 43.35780808277842,
-    "longitud": -3.968247444442298,
+    "latitud": "43.35780808277842",
+    "longitud": "-3.968247444442298",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39004859"
    }
@@ -1174,8 +1174,8 @@
     "poblacion": "Zurita",
     "municipio": "Piélagos",
     "codigo_postal": "39479",
-    "latitud": 43.34917801200057,
-    "longitud": -3.9854951601010873,
+    "latitud": "43.34917801200057",
+    "longitud": "-3.9854951601010873",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39004872"
    }
@@ -1195,8 +1195,8 @@
     "poblacion": "Puente Pumar",
     "municipio": "Polaciones",
     "codigo_postal": "39556",
-    "latitud": 43.10957938238158,
-    "longitud": -4.403105980550788,
+    "latitud": "43.10957938238158",
+    "longitud": "-4.403105980550788",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39004896"
    }
@@ -1216,8 +1216,8 @@
     "poblacion": "Polanco",
     "municipio": "Polanco",
     "codigo_postal": "39313",
-    "latitud": 43.38668070775194,
-    "longitud": -4.016486819308393,
+    "latitud": "43.38668070775194",
+    "longitud": "-4.016486819308393",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39004999"
    }
@@ -1237,8 +1237,8 @@
     "poblacion": "Requejada",
     "municipio": "Polanco",
     "codigo_postal": "39312",
-    "latitud": 43.38738349795406,
-    "longitud": -4.028696123394894,
+    "latitud": "43.38738349795406",
+    "longitud": "-4.028696123394894",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39005001"
    }
@@ -1258,8 +1258,8 @@
     "poblacion": "Potes",
     "municipio": "Potes",
     "codigo_postal": "39570",
-    "latitud": 43.155055,
-    "longitud": -4.622469,
+    "latitud": "43.155055",
+    "longitud": "-4.622469",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39005062"
    }
@@ -1279,8 +1279,8 @@
     "poblacion": "Reinosa",
     "municipio": "Reinosa",
     "codigo_postal": "39200",
-    "latitud": 42.9983306,
-    "longitud": -4.14083,
+    "latitud": "42.9983306",
+    "longitud": "-4.14083",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39005323"
    }
@@ -1300,8 +1300,8 @@
     "poblacion": "Reinosa",
     "municipio": "Reinosa",
     "codigo_postal": "39200",
-    "latitud": 43.00030454972056,
-    "longitud": -4.141042059619521,
+    "latitud": "43.00030454972056",
+    "longitud": "-4.141042059619521",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39005335"
    }
@@ -1321,8 +1321,8 @@
     "poblacion": "Puente San Miguel",
     "municipio": "Reocín",
     "codigo_postal": "39530",
-    "latitud": 43.362691663732335,
-    "longitud": -4.0844104496725375,
+    "latitud": "43.362691663732335",
+    "longitud": "-4.0844104496725375",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39005499"
    }
@@ -1342,8 +1342,8 @@
     "poblacion": "Hoz de Anero",
     "municipio": "Ribamontan al Monte",
     "codigo_postal": "39794",
-    "latitud": 43.40113582275854,
-    "longitud": -3.6667100143068456,
+    "latitud": "43.40113582275854",
+    "longitud": "-3.6667100143068456",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39005797"
    }
@@ -1363,8 +1363,8 @@
     "poblacion": "Cavada, la",
     "municipio": "Riotuerto",
     "codigo_postal": "39720",
-    "latitud": 43.34821491148874,
-    "longitud": -3.7017917668674505,
+    "latitud": "43.34821491148874",
+    "longitud": "-3.7017917668674505",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39006029"
    }
@@ -1384,8 +1384,8 @@
     "poblacion": "Iglesia, la",
     "municipio": "Ruiloba",
     "codigo_postal": "39527",
-    "latitud": 43.380862,
-    "longitud": -4.256398,
+    "latitud": "43.380862",
+    "longitud": "-4.256398",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39006224"
    }
@@ -1405,8 +1405,8 @@
     "poblacion": "Rivero",
     "municipio": "San Felices de Buelna",
     "codigo_postal": "39409",
-    "latitud": 43.27485795595237,
-    "longitud": -4.050721483453914,
+    "latitud": "43.27485795595237",
+    "longitud": "-4.050721483453914",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39006297"
    }
@@ -1426,8 +1426,8 @@
     "poblacion": "San Pedro del Romeral",
     "municipio": "San Pedro del Romeral",
     "codigo_postal": "39686",
-    "latitud": 43.1118646,
-    "longitud": -3.8208279,
+    "latitud": "43.1118646",
+    "longitud": "-3.8208279",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39006352"
    }
@@ -1447,8 +1447,8 @@
     "poblacion": "Santa Cruz de Bezana",
     "municipio": "Santa Cruz de Bezana",
     "codigo_postal": "39100",
-    "latitud": 43.44137336291569,
-    "longitud": -3.904204101696312,
+    "latitud": "43.44137336291569",
+    "longitud": "-3.904204101696312",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39006509"
    }
@@ -1468,8 +1468,8 @@
     "poblacion": "Soto de la Marina",
     "municipio": "Santa Cruz de Bezana",
     "codigo_postal": "39110",
-    "latitud": 43.463652310212154,
-    "longitud": -3.89506230186279,
+    "latitud": "43.463652310212154",
+    "longitud": "-3.89506230186279",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39006510"
    }
@@ -1489,8 +1489,8 @@
     "poblacion": "Monte",
     "municipio": "Santander",
     "codigo_postal": "39012",
-    "latitud": 43.47172643800864,
-    "longitud": -3.8306974856133675,
+    "latitud": "43.47172643800864",
+    "longitud": "-3.8306974856133675",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39006790"
    }
@@ -1510,8 +1510,8 @@
     "poblacion": "Peñacastillo",
     "municipio": "Santander",
     "codigo_postal": "39011",
-    "latitud": 43.44757412333137,
-    "longitud": -3.8611681693163247,
+    "latitud": "43.44757412333137",
+    "longitud": "-3.8611681693163247",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39006901"
    }
@@ -1531,8 +1531,8 @@
     "poblacion": "San Roman",
     "municipio": "Santander",
     "codigo_postal": "39012",
-    "latitud": 43.464069,
-    "longitud": -3.866515,
+    "latitud": "43.464069",
+    "longitud": "-3.866515",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39006947"
    }
@@ -1552,8 +1552,8 @@
     "poblacion": "San Roman",
     "municipio": "Santander",
     "codigo_postal": "39011",
-    "latitud": 43.4612501,
-    "longitud": -3.846985,
+    "latitud": "43.4612501",
+    "longitud": "-3.846985",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39006960"
    }
@@ -1573,8 +1573,8 @@
     "poblacion": "San Roman",
     "municipio": "Santander",
     "codigo_postal": "39012",
-    "latitud": 43.46677500000004,
-    "longitud": -3.8538433175892703,
+    "latitud": "43.46677500000004",
+    "longitud": "-3.8538433175892703",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39006996"
    }
@@ -1594,8 +1594,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39011",
-    "latitud": 43.45572456362709,
-    "longitud": -3.835502502691351,
+    "latitud": "43.45572456362709",
+    "longitud": "-3.835502502691351",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39007071"
    }
@@ -1615,8 +1615,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39005",
-    "latitud": 43.47097454333273,
-    "longitud": -3.7910224653648172,
+    "latitud": "43.47097454333273",
+    "longitud": "-3.7910224653648172",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39007095"
    }
@@ -1636,8 +1636,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39007",
-    "latitud": 43.46211227452416,
-    "longitud": -3.827187017319491,
+    "latitud": "43.46211227452416",
+    "longitud": "-3.827187017319491",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39007149"
    }
@@ -1657,8 +1657,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39003",
-    "latitud": 43.46391560515931,
-    "longitud": -3.8004189129681647,
+    "latitud": "43.46391560515931",
+    "longitud": "-3.8004189129681647",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39007162"
    }
@@ -1678,8 +1678,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39007",
-    "latitud": 43.46251537552566,
-    "longitud": -3.817514850081707,
+    "latitud": "43.46251537552566",
+    "longitud": "-3.817514850081707",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39007174"
    }
@@ -1699,8 +1699,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39007",
-    "latitud": 43.46240525880589,
-    "longitud": -3.817923749861215,
+    "latitud": "43.46240525880589",
+    "longitud": "-3.817923749861215",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39007186"
    }
@@ -1720,8 +1720,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39008",
-    "latitud": 43.45978459733337,
-    "longitud": -3.814719617144264,
+    "latitud": "43.45978459733337",
+    "longitud": "-3.814719617144264",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39007241"
    }
@@ -1741,8 +1741,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39005",
-    "latitud": 43.47087791663952,
-    "longitud": -3.791602917453964,
+    "latitud": "43.47087791663952",
+    "longitud": "-3.791602917453964",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39007289"
    }
@@ -1762,8 +1762,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39004",
-    "latitud": 43.46537724481208,
-    "longitud": -3.7924799324134026,
+    "latitud": "43.46537724481208",
+    "longitud": "-3.7924799324134026",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39007319"
    }
@@ -1783,8 +1783,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39004",
-    "latitud": 43.467602,
-    "longitud": -3.788349,
+    "latitud": "43.467602",
+    "longitud": "-3.788349",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39007356"
    }
@@ -1804,8 +1804,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39009",
-    "latitud": 43.45763384824775,
-    "longitud": -3.8104629694464376,
+    "latitud": "43.45763384824775",
+    "longitud": "-3.8104629694464376",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39007368"
    }
@@ -1825,8 +1825,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39001",
-    "latitud": 43.46553952479782,
-    "longitud": -3.8108248577606387,
+    "latitud": "43.46553952479782",
+    "longitud": "-3.8108248577606387",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39007393"
    }
@@ -1846,8 +1846,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39006",
-    "latitud": 43.46872,
-    "longitud": -3.79872,
+    "latitud": "43.46872",
+    "longitud": "-3.79872",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39007423"
    }
@@ -1867,8 +1867,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39006",
-    "latitud": 43.467306,
-    "longitud": -3.80908,
+    "latitud": "43.467306",
+    "longitud": "-3.80908",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39007447"
    }
@@ -1888,8 +1888,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39007",
-    "latitud": 43.4642442,
-    "longitud": -3.8200041,
+    "latitud": "43.4642442",
+    "longitud": "-3.8200041",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39007459"
    }
@@ -1909,8 +1909,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39007",
-    "latitud": 43.463128,
-    "longitud": -3.824654,
+    "latitud": "43.463128",
+    "longitud": "-3.824654",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39007472"
    }
@@ -1930,8 +1930,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39004",
-    "latitud": 43.463936152973446,
-    "longitud": -3.7928650890807685,
+    "latitud": "43.463936152973446",
+    "longitud": "-3.7928650890807685",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39007514"
    }
@@ -1951,8 +1951,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39004",
-    "latitud": 43.46475,
-    "longitud": -3.7946,
+    "latitud": "43.46475",
+    "longitud": "-3.7946",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39007605"
    }
@@ -1972,8 +1972,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39001",
-    "latitud": 43.46462,
-    "longitud": -3.8098,
+    "latitud": "43.46462",
+    "longitud": "-3.8098",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39007681"
    }
@@ -1993,8 +1993,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39004",
-    "latitud": 43.48615042837793,
-    "longitud": -3.7957238653056478,
+    "latitud": "43.48615042837793",
+    "longitud": "-3.7957238653056478",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39007708"
    }
@@ -2014,8 +2014,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39011",
-    "latitud": 43.4565597696321,
-    "longitud": -3.839121988466193,
+    "latitud": "43.4565597696321",
+    "longitud": "-3.839121988466193",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39007711"
    }
@@ -2035,8 +2035,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39007",
-    "latitud": 43.46302196594116,
-    "longitud": -3.818736825563467,
+    "latitud": "43.46302196594116",
+    "longitud": "-3.818736825563467",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39007800"
    }
@@ -2056,8 +2056,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39001",
-    "latitud": 43.46482650099148,
-    "longitud": -3.808619544447708,
+    "latitud": "43.46482650099148",
+    "longitud": "-3.808619544447708",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39007824"
    }
@@ -2077,8 +2077,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39005",
-    "latitud": 43.47811079835523,
-    "longitud": -3.7928704939064635,
+    "latitud": "43.47811079835523",
+    "longitud": "-3.7928704939064635",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39007964"
    }
@@ -2098,8 +2098,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39012",
-    "latitud": 43.48084548334841,
-    "longitud": -3.7894782870859474,
+    "latitud": "43.48084548334841",
+    "longitud": "-3.7894782870859474",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39007988"
    }
@@ -2119,8 +2119,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39001",
-    "latitud": 43.463754606054984,
-    "longitud": -3.8050283815515487,
+    "latitud": "43.463754606054984",
+    "longitud": "-3.8050283815515487",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39007991"
    }
@@ -2140,8 +2140,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39007",
-    "latitud": 43.46395931576949,
-    "longitud": -3.8227765786924977,
+    "latitud": "43.46395931576949",
+    "longitud": "-3.8227765786924977",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39008041"
    }
@@ -2161,8 +2161,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39001",
-    "latitud": 43.4634335034354,
-    "longitud": -3.8078682417325824,
+    "latitud": "43.4634335034354",
+    "longitud": "-3.8078682417325824",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39008051"
    }
@@ -2182,8 +2182,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39005",
-    "latitud": 43.46937419930138,
-    "longitud": -3.7899982374714556,
+    "latitud": "43.46937419930138",
+    "longitud": "-3.7899982374714556",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39008063"
    }
@@ -2203,8 +2203,8 @@
     "poblacion": "San Roman",
     "municipio": "Santander",
     "codigo_postal": "39011",
-    "latitud": 43.461468,
-    "longitud": -3.848598,
+    "latitud": "43.461468",
+    "longitud": "-3.848598",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39008075"
    }
@@ -2224,8 +2224,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39011",
-    "latitud": 43.44804744310372,
-    "longitud": -3.8511361779116333,
+    "latitud": "43.44804744310372",
+    "longitud": "-3.8511361779116333",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39008087"
    }
@@ -2245,8 +2245,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39005",
-    "latitud": 43.46775437838679,
-    "longitud": -3.7793228213318617,
+    "latitud": "43.46775437838679",
+    "longitud": "-3.7793228213318617",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39008105"
    }
@@ -2266,8 +2266,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39004",
-    "latitud": 43.46630955425769,
-    "longitud": -3.7929612867667024,
+    "latitud": "43.46630955425769",
+    "longitud": "-3.7929612867667024",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39008117"
    }
@@ -2287,8 +2287,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39009",
-    "latitud": 43.45370375225319,
-    "longitud": -3.8245450606811873,
+    "latitud": "43.45370375225319",
+    "longitud": "-3.8245450606811873",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39008154"
    }
@@ -2308,8 +2308,8 @@
     "poblacion": "Santillana del Mar",
     "municipio": "Santillana del Mar",
     "codigo_postal": "39330",
-    "latitud": 43.390707258226,
-    "longitud": -4.106268233134829,
+    "latitud": "43.390707258226",
+    "longitud": "-4.106268233134829",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39008233"
    }
@@ -2329,8 +2329,8 @@
     "poblacion": "Villasevil de Toranzo",
     "municipio": "Santiurde de Toranzo",
     "codigo_postal": "39698",
-    "latitud": 43.2638325645604,
-    "longitud": -3.933252096238309,
+    "latitud": "43.2638325645604",
+    "longitud": "-3.933252096238309",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39008440"
    }
@@ -2350,8 +2350,8 @@
     "poblacion": "Santoña",
     "municipio": "Santoña",
     "codigo_postal": "39740",
-    "latitud": 43.441432929564776,
-    "longitud": -3.4518829676308047,
+    "latitud": "43.441432929564776",
+    "longitud": "-3.4518829676308047",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39008488"
    }
@@ -2371,8 +2371,8 @@
     "poblacion": "Santoña",
     "municipio": "Santoña",
     "codigo_postal": "39740",
-    "latitud": 43.440194,
-    "longitud": -3.455194,
+    "latitud": "43.440194",
+    "longitud": "-3.455194",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39008518"
    }
@@ -2392,8 +2392,8 @@
     "poblacion": "Santoña",
     "municipio": "Santoña",
     "codigo_postal": "39740",
-    "latitud": 43.44430396816921,
-    "longitud": -3.4556266665458635,
+    "latitud": "43.44430396816921",
+    "longitud": "-3.4556266665458635",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39008531"
    }
@@ -2413,8 +2413,8 @@
     "poblacion": "San Vicente de la Barquera",
     "municipio": "San Vicente de la Barquera",
     "codigo_postal": "39540",
-    "latitud": 43.38285505051873,
-    "longitud": -4.401622611706832,
+    "latitud": "43.38285505051873",
+    "longitud": "-4.401622611706832",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39008658"
    }
@@ -2434,8 +2434,8 @@
     "poblacion": "San Vicente de la Barquera",
     "municipio": "San Vicente de la Barquera",
     "codigo_postal": "39540",
-    "latitud": 43.38362518691543,
-    "longitud": -4.400920977246182,
+    "latitud": "43.38362518691543",
+    "longitud": "-4.400920977246182",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39008661"
    }
@@ -2455,8 +2455,8 @@
     "poblacion": "San Vicente de la Barquera",
     "municipio": "San Vicente de la Barquera",
     "codigo_postal": "39540",
-    "latitud": 43.38419554778701,
-    "longitud": -4.403199634451696,
+    "latitud": "43.38419554778701",
+    "longitud": "-4.403199634451696",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39008671"
    }
@@ -2476,8 +2476,8 @@
     "poblacion": "Selaya",
     "municipio": "Selaya",
     "codigo_postal": "39696",
-    "latitud": 43.2188776,
-    "longitud": -3.8114446,
+    "latitud": "43.2188776",
+    "longitud": "-3.8114446",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39008725"
    }
@@ -2497,8 +2497,8 @@
     "poblacion": "Selaya",
     "municipio": "Selaya",
     "codigo_postal": "39696",
-    "latitud": 43.215049902249014,
-    "longitud": -3.8054358302563958,
+    "latitud": "43.215049902249014",
+    "longitud": "-3.8054358302563958",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39008737"
    }
@@ -2518,8 +2518,8 @@
     "poblacion": "Quintana",
     "municipio": "Soba",
     "codigo_postal": "39806",
-    "latitud": 43.18711828684694,
-    "longitud": -3.5702088455531653,
+    "latitud": "43.18711828684694",
+    "longitud": "-3.5702088455531653",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39008828"
    }
@@ -2539,8 +2539,8 @@
     "poblacion": "Barreda",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.36602957057769,
-    "longitud": -4.044278917457597,
+    "latitud": "43.36602957057769",
+    "longitud": "-4.044278917457597",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39009122"
    }
@@ -2560,8 +2560,8 @@
     "poblacion": "Campuzano",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.346400605821124,
-    "longitud": -4.063290048169032,
+    "latitud": "43.346400605821124",
+    "longitud": "-4.063290048169032",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39009146"
    }
@@ -2581,8 +2581,8 @@
     "poblacion": "Campuzano",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.34410637168103,
-    "longitud": -4.062425592721793,
+    "latitud": "43.34410637168103",
+    "longitud": "-4.062425592721793",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39009161"
    }
@@ -2602,8 +2602,8 @@
     "poblacion": "Ganzo",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.359968426295374,
-    "longitud": -4.066335144847262,
+    "latitud": "43.359968426295374",
+    "longitud": "-4.066335144847262",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39009195"
    }
@@ -2623,8 +2623,8 @@
     "poblacion": "Sierrapando",
     "municipio": "Torrelavega",
     "codigo_postal": "39317",
-    "latitud": 43.34317373570739,
-    "longitud": -4.036427982253754,
+    "latitud": "43.34317373570739",
+    "longitud": "-4.036427982253754",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39009225"
    }
@@ -2644,8 +2644,8 @@
     "poblacion": "Torrelavega",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.3464399216826,
-    "longitud": -4.043135474698335,
+    "latitud": "43.3464399216826",
+    "longitud": "-4.043135474698335",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39009249"
    }
@@ -2665,8 +2665,8 @@
     "poblacion": "Tanos",
     "municipio": "Torrelavega",
     "codigo_postal": "39316",
-    "latitud": 43.33704762953821,
-    "longitud": -4.041894246957452,
+    "latitud": "43.33704762953821",
+    "longitud": "-4.041894246957452",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39009286"
    }
@@ -2686,8 +2686,8 @@
     "poblacion": "Tanos",
     "municipio": "Torrelavega",
     "codigo_postal": "39316",
-    "latitud": 43.3408201,
-    "longitud": -4.0493471,
+    "latitud": "43.3408201",
+    "longitud": "-4.0493471",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39009298"
    }
@@ -2707,8 +2707,8 @@
     "poblacion": "Torrelavega",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.346001927533955,
-    "longitud": -4.046878537372953,
+    "latitud": "43.346001927533955",
+    "longitud": "-4.046878537372953",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39009316"
    }
@@ -2728,8 +2728,8 @@
     "poblacion": "Torrelavega",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.355202794081414,
-    "longitud": -4.045395912492451,
+    "latitud": "43.355202794081414",
+    "longitud": "-4.045395912492451",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39009328"
    }
@@ -2749,8 +2749,8 @@
     "poblacion": "Torrelavega",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.34841375241864,
-    "longitud": -4.054657670552224,
+    "latitud": "43.34841375241864",
+    "longitud": "-4.054657670552224",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39009331"
    }
@@ -2770,8 +2770,8 @@
     "poblacion": "Torrelavega",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.346007544618,
-    "longitud": -4.044610823544464,
+    "latitud": "43.346007544618",
+    "longitud": "-4.044610823544464",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39009377"
    }
@@ -2791,8 +2791,8 @@
     "poblacion": "Torrelavega",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.350738496874,
-    "longitud": -4.050589283253289,
+    "latitud": "43.350738496874",
+    "longitud": "-4.050589283253289",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39009390"
    }
@@ -2812,8 +2812,8 @@
     "poblacion": "Torrelavega",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.345506,
-    "longitud": -4.044885,
+    "latitud": "43.345506",
+    "longitud": "-4.044885",
     "tipo_centro": "Centro Concertado de Educación Especial",
     "codigo": "39009444"
    }
@@ -2833,8 +2833,8 @@
     "poblacion": "Torres",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.353972999659355,
-    "longitud": -4.064073027327698,
+    "latitud": "43.353972999659355",
+    "longitud": "-4.064073027327698",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39009456"
    }
@@ -2854,8 +2854,8 @@
     "poblacion": "Torrelavega",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.34810403590984,
-    "longitud": -4.050746570468722,
+    "latitud": "43.34810403590984",
+    "longitud": "-4.050746570468722",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39009468"
    }
@@ -2875,8 +2875,8 @@
     "poblacion": "Torrelavega",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.35246292906261,
-    "longitud": -4.062491646063771,
+    "latitud": "43.35246292906261",
+    "longitud": "-4.062491646063771",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39009471"
    }
@@ -2896,8 +2896,8 @@
     "poblacion": "Torrelavega",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.353025,
-    "longitud": -4.047848,
+    "latitud": "43.353025",
+    "longitud": "-4.047848",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39009493"
    }
@@ -2917,8 +2917,8 @@
     "poblacion": "Viernoles",
     "municipio": "Torrelavega",
     "codigo_postal": "39315",
-    "latitud": 43.322683840394504,
-    "longitud": -4.049403486128841,
+    "latitud": "43.322683840394504",
+    "longitud": "-4.049403486128841",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39009535"
    }
@@ -2938,8 +2938,8 @@
     "poblacion": "Llano, el",
     "municipio": "Udias",
     "codigo_postal": "39507",
-    "latitud": 43.33365252375905,
-    "longitud": -4.241391381215027,
+    "latitud": "43.33365252375905",
+    "longitud": "-4.241391381215027",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39009675"
    }
@@ -2959,8 +2959,8 @@
     "poblacion": "Mataporquera",
     "municipio": "Valdeolea",
     "codigo_postal": "39410",
-    "latitud": 42.876745870212034,
-    "longitud": -4.160650763723507,
+    "latitud": "42.876745870212034",
+    "longitud": "-4.160650763723507",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39009845"
    }
@@ -2980,8 +2980,8 @@
     "poblacion": "Polientes",
     "municipio": "Valderredible",
     "codigo_postal": "39220",
-    "latitud": 42.8059375,
-    "longitud": -3.9420271,
+    "latitud": "42.8059375",
+    "longitud": "-3.9420271",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39009997"
    }
@@ -3001,8 +3001,8 @@
     "poblacion": "Vega de Pas",
     "municipio": "Vega de Pas",
     "codigo_postal": "39685",
-    "latitud": 43.15808997676989,
-    "longitud": -3.786227737429754,
+    "latitud": "43.15808997676989",
+    "longitud": "-3.786227737429754",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39010446"
    }
@@ -3022,8 +3022,8 @@
     "poblacion": "Villacarriedo",
     "municipio": "Villacarriedo",
     "codigo_postal": "39640",
-    "latitud": 43.23093565145733,
-    "longitud": -3.805386678959618,
+    "latitud": "43.23093565145733",
+    "longitud": "-3.805386678959618",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39010598"
    }
@@ -3043,8 +3043,8 @@
     "poblacion": "Concha, la",
     "municipio": "Villaescusa",
     "codigo_postal": "39690",
-    "latitud": 43.37122982460704,
-    "longitud": -3.857783369155713,
+    "latitud": "43.37122982460704",
+    "longitud": "-3.857783369155713",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39010616"
    }
@@ -3064,8 +3064,8 @@
     "poblacion": "Potes",
     "municipio": "Potes",
     "codigo_postal": "39570",
-    "latitud": 43.15572328234247,
-    "longitud": -4.622769107177084,
+    "latitud": "43.15572328234247",
+    "longitud": "-4.622769107177084",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39010951"
    }
@@ -3085,8 +3085,8 @@
     "poblacion": "Muriedas",
     "municipio": "Camargo",
     "codigo_postal": "39600",
-    "latitud": 43.4134413660412,
-    "longitud": -3.855023655590969,
+    "latitud": "43.4134413660412",
+    "longitud": "-3.855023655590969",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39011001"
    }
@@ -3106,8 +3106,8 @@
     "poblacion": "Ramales de la Victoria",
     "municipio": "Ramales de la Victoria",
     "codigo_postal": "39800",
-    "latitud": 43.258754,
-    "longitud": -3.4657959,
+    "latitud": "43.258754",
+    "longitud": "-3.4657959",
     "tipo_centro": "Centro público",
     "codigo": "39011037"
    }
@@ -3127,8 +3127,8 @@
     "poblacion": "Teran",
     "municipio": "Cabuerniga (Valle De)",
     "codigo_postal": "39511",
-    "latitud": 43.21987057851815,
-    "longitud": -4.297003932328309,
+    "latitud": "43.21987057851815",
+    "longitud": "-4.297003932328309",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011177"
    }
@@ -3148,8 +3148,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39007",
-    "latitud": 43.46183405709044,
-    "longitud": -3.8173087765564575,
+    "latitud": "43.46183405709044",
+    "longitud": "-3.8173087765564575",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011189"
    }
@@ -3169,8 +3169,8 @@
     "poblacion": "Cabezon de la Sal",
     "municipio": "Cabezon de la Sal",
     "codigo_postal": "39500",
-    "latitud": 43.30601673169648,
-    "longitud": -4.238388985631384,
+    "latitud": "43.30601673169648",
+    "longitud": "-4.238388985631384",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39011190"
    }
@@ -3190,8 +3190,8 @@
     "poblacion": "Castro-Urdiales",
     "municipio": "Castro-Urdiales",
     "codigo_postal": "39700",
-    "latitud": 43.380751055823254,
-    "longitud": -3.2213845129664667,
+    "latitud": "43.380751055823254",
+    "longitud": "-3.2213845129664667",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011220"
    }
@@ -3211,8 +3211,8 @@
     "poblacion": "San Pantaleon de Aras",
     "municipio": "Voto",
     "codigo_postal": "39766",
-    "latitud": 43.343550199521836,
-    "longitud": -3.5013963401961776,
+    "latitud": "43.343550199521836",
+    "longitud": "-3.5013963401961776",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011271"
    }
@@ -3232,8 +3232,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39007",
-    "latitud": 43.46287749740119,
-    "longitud": -3.82200335351438,
+    "latitud": "43.46287749740119",
+    "longitud": "-3.82200335351438",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39011293"
    }
@@ -3253,8 +3253,8 @@
     "poblacion": "Solares",
     "municipio": "Medio Cudeyo",
     "codigo_postal": "39710",
-    "latitud": 43.40917453059162,
-    "longitud": -3.735947151232743,
+    "latitud": "43.40917453059162",
+    "longitud": "-3.735947151232743",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39011301"
    }
@@ -3274,8 +3274,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39012",
-    "latitud": 43.46357540600486,
-    "longitud": -3.8368946557268817,
+    "latitud": "43.46357540600486",
+    "longitud": "-3.8368946557268817",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39011323"
    }
@@ -3295,8 +3295,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39004",
-    "latitud": 43.46458,
-    "longitud": -3.79557,
+    "latitud": "43.46458",
+    "longitud": "-3.79557",
     "tipo_centro": "Centro Concertado de Educación Especial",
     "codigo": "39011347"
    }
@@ -3316,8 +3316,8 @@
     "poblacion": "Magdalena, la",
     "municipio": "Guriezo",
     "codigo_postal": "39788",
-    "latitud": 43.354145589144146,
-    "longitud": -3.3349481690989373,
+    "latitud": "43.354145589144146",
+    "longitud": "-3.3349481690989373",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011360"
    }
@@ -3337,8 +3337,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39011",
-    "latitud": 43.457042,
-    "longitud": -3.837122,
+    "latitud": "43.457042",
+    "longitud": "-3.837122",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39011396"
    }
@@ -3358,8 +3358,8 @@
     "poblacion": "Cabezon de la Sal",
     "municipio": "Cabezon de la Sal",
     "codigo_postal": "39500",
-    "latitud": 43.29861793838602,
-    "longitud": -4.23928122469524,
+    "latitud": "43.29861793838602",
+    "longitud": "-4.23928122469524",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39011441"
    }
@@ -3379,8 +3379,8 @@
     "poblacion": "Castillo",
     "municipio": "Arnuero",
     "codigo_postal": "39193",
-    "latitud": 43.4577829,
-    "longitud": -3.5538612,
+    "latitud": "43.4577829",
+    "longitud": "-3.5538612",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011451"
    }
@@ -3400,8 +3400,8 @@
     "poblacion": "Cacicedo",
     "municipio": "Camargo",
     "codigo_postal": "39608",
-    "latitud": 43.43343129663589,
-    "longitud": -3.8724057776641008,
+    "latitud": "43.43343129663589",
+    "longitud": "-3.8724057776641008",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011475"
    }
@@ -3421,8 +3421,8 @@
     "poblacion": "Lierganes",
     "municipio": "Lierganes",
     "codigo_postal": "39722",
-    "latitud": 43.34499034834352,
-    "longitud": -3.7464681480873785,
+    "latitud": "43.34499034834352",
+    "longitud": "-3.7464681480873785",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011487"
    }
@@ -3442,8 +3442,8 @@
     "poblacion": "Ibio",
     "municipio": "Mazcuerras",
     "codigo_postal": "39509",
-    "latitud": 43.316449,
-    "longitud": -4.172933,
+    "latitud": "43.316449",
+    "longitud": "-4.172933",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011499"
    }
@@ -3463,8 +3463,8 @@
     "poblacion": "Cuchia",
     "municipio": "Miengo",
     "codigo_postal": "39318",
-    "latitud": 43.435596764901305,
-    "longitud": -4.016678006469419,
+    "latitud": "43.435596764901305",
+    "longitud": "-4.016678006469419",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011505"
    }
@@ -3484,8 +3484,8 @@
     "poblacion": "Renedo",
     "municipio": "Pielagos",
     "codigo_postal": "39470",
-    "latitud": 43.35510349318409,
-    "longitud": -3.953964475007089,
+    "latitud": "43.35510349318409",
+    "longitud": "-3.953964475007089",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011517"
    }
@@ -3505,8 +3505,8 @@
     "poblacion": "Vargas",
     "municipio": "Puente Viesgo",
     "codigo_postal": "39679",
-    "latitud": 43.32270896348207,
-    "longitud": -3.959240937636816,
+    "latitud": "43.32270896348207",
+    "longitud": "-3.959240937636816",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011529"
    }
@@ -3526,8 +3526,8 @@
     "poblacion": "Somo",
     "municipio": "Ribamontan al Mar",
     "codigo_postal": "39140",
-    "latitud": 43.458726575655966,
-    "longitud": -3.7271883300595263,
+    "latitud": "43.458726575655966",
+    "longitud": "-3.7271883300595263",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011530"
    }
@@ -3547,8 +3547,8 @@
     "poblacion": "Puentenansa",
     "municipio": "Rionansa",
     "codigo_postal": "39554",
-    "latitud": 43.254798718604086,
-    "longitud": -4.40801766772884,
+    "latitud": "43.254798718604086",
+    "longitud": "-4.40801766772884",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011542"
    }
@@ -3568,8 +3568,8 @@
     "poblacion": "Santa Maria de Cayon",
     "municipio": "Santa Maria de Cayon",
     "codigo_postal": "39694",
-    "latitud": 43.30918934139486,
-    "longitud": -3.851855667127866,
+    "latitud": "43.30918934139486",
+    "longitud": "-3.851855667127866",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011554"
    }
@@ -3589,8 +3589,8 @@
     "poblacion": "Cueto",
     "municipio": "Santander",
     "codigo_postal": "39012",
-    "latitud": 43.484959,
-    "longitud": -3.797975,
+    "latitud": "43.484959",
+    "longitud": "-3.797975",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011566"
    }
@@ -3610,8 +3610,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39012",
-    "latitud": 43.46351326375736,
-    "longitud": -3.828861722265953,
+    "latitud": "43.46351326375736",
+    "longitud": "-3.828861722265953",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011578"
    }
@@ -3631,8 +3631,8 @@
     "poblacion": "Santoña",
     "municipio": "Santoña",
     "codigo_postal": "39740",
-    "latitud": 43.44773911851755,
-    "longitud": -3.4564060653261923,
+    "latitud": "43.44773911851755",
+    "longitud": "-3.4564060653261923",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011581"
    }
@@ -3652,8 +3652,8 @@
     "poblacion": "Torrelavega",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.340140908751664,
-    "longitud": -4.052993086344805,
+    "latitud": "43.340140908751664",
+    "longitud": "-4.052993086344805",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011591"
    }
@@ -3673,8 +3673,8 @@
     "poblacion": "Treceño",
     "municipio": "Valdaliga",
     "codigo_postal": "39592",
-    "latitud": 43.3162127881693,
-    "longitud": -4.297332915348096,
+    "latitud": "43.3162127881693",
+    "longitud": "-4.297332915348096",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011608"
    }
@@ -3694,8 +3694,8 @@
     "poblacion": "Pesues",
     "municipio": "Val de San Vicente",
     "codigo_postal": "39548",
-    "latitud": 43.37457136728092,
-    "longitud": -4.48685040646066,
+    "latitud": "43.37457136728092",
+    "longitud": "-4.48685040646066",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011611"
    }
@@ -3715,8 +3715,8 @@
     "poblacion": "Cicero",
     "municipio": "Barcena de Cicero",
     "codigo_postal": "39796",
-    "latitud": 43.411875212655225,
-    "longitud": -3.489229102535829,
+    "latitud": "43.411875212655225",
+    "longitud": "-3.489229102535829",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011621"
    }
@@ -3736,8 +3736,8 @@
     "poblacion": "Colindres",
     "municipio": "Colindres",
     "codigo_postal": "39750",
-    "latitud": 43.3977567349408,
-    "longitud": -3.4552821805842853,
+    "latitud": "43.3977567349408",
+    "longitud": "-3.4552821805842853",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011657"
    }
@@ -3757,8 +3757,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39006",
-    "latitud": 43.46917322905235,
-    "longitud": -3.801981108805453,
+    "latitud": "43.46917322905235",
+    "longitud": "-3.801981108805453",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011670"
    }
@@ -3778,8 +3778,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39011",
-    "latitud": 43.455952,
-    "longitud": -3.846925,
+    "latitud": "43.455952",
+    "longitud": "-3.846925",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39011682"
    }
@@ -3799,8 +3799,8 @@
     "poblacion": "Laredo",
     "municipio": "Laredo",
     "codigo_postal": "39770",
-    "latitud": 43.4064884651805,
-    "longitud": -3.414441996445964,
+    "latitud": "43.4064884651805",
+    "longitud": "-3.414441996445964",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39011700"
    }
@@ -3820,8 +3820,8 @@
     "poblacion": "Arenal",
     "municipio": "Penagos",
     "codigo_postal": "39628",
-    "latitud": 43.334696289281595,
-    "longitud": -3.8185047353723376,
+    "latitud": "43.334696289281595",
+    "longitud": "-3.8185047353723376",
     "tipo_centro": "Escuela Infantil",
     "codigo": "39011748"
    }
@@ -3841,8 +3841,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39004",
-    "latitud": 43.46464713696112,
-    "longitud": -3.7917201997856194,
+    "latitud": "43.46464713696112",
+    "longitud": "-3.7917201997856194",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39011992"
    }
@@ -3862,8 +3862,8 @@
     "poblacion": "Santoña",
     "municipio": "Santoña",
     "codigo_postal": "39740",
-    "latitud": 43.447881,
-    "longitud": -3.457683,
+    "latitud": "43.447881",
+    "longitud": "-3.457683",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39012081"
    }
@@ -3883,8 +3883,8 @@
     "poblacion": "Cueto",
     "municipio": "Santander",
     "codigo_postal": "39012",
-    "latitud": 43.4817277511287,
-    "longitud": -3.7947294702099335,
+    "latitud": "43.4817277511287",
+    "longitud": "-3.7947294702099335",
     "tipo_centro": "Centro Concertado de Educación Especial",
     "codigo": "39012108"
    }
@@ -3904,8 +3904,8 @@
     "poblacion": "Torrelavega",
     "municipio": "Torrelavega",
     "codigo_postal": "39317",
-    "latitud": 43.34140253399696,
-    "longitud": -4.037497319494233,
+    "latitud": "43.34140253399696",
+    "longitud": "-4.037497319494233",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39012121"
    }
@@ -3925,8 +3925,8 @@
     "poblacion": "Herrera",
     "municipio": "Camargo",
     "codigo_postal": "39608",
-    "latitud": 43.4352087,
-    "longitud": -3.8618432,
+    "latitud": "43.4352087",
+    "longitud": "-3.8618432",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39012133"
    }
@@ -3946,8 +3946,8 @@
     "poblacion": "Rubayo",
     "municipio": "Marina de Cudeyo",
     "codigo_postal": "39719",
-    "latitud": 43.422661,
-    "longitud": -3.754901,
+    "latitud": "43.422661",
+    "longitud": "-3.754901",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39012236"
    }
@@ -3967,8 +3967,8 @@
     "poblacion": "Solares",
     "municipio": "Medio Cudeyo",
     "codigo_postal": "39710",
-    "latitud": 43.378048050469005,
-    "longitud": -3.738262682208988,
+    "latitud": "43.378048050469005",
+    "longitud": "-3.738262682208988",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39012248"
    }
@@ -3988,8 +3988,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39009",
-    "latitud": 43.4571895779046,
-    "longitud": -3.8123808751263164,
+    "latitud": "43.4571895779046",
+    "longitud": "-3.8123808751263164",
     "tipo_centro": "Centro Concertado de Educación Especial",
     "codigo": "39012297"
    }
@@ -4009,8 +4009,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39006",
-    "latitud": 43.4660428,
-    "longitud": -3.8160482,
+    "latitud": "43.4660428",
+    "longitud": "-3.8160482",
     "tipo_centro": "Conservatorio Profesional de Música",
     "codigo": "39012364"
    }
@@ -4030,8 +4030,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39006",
-    "latitud": 43.46739,
-    "longitud": -3.81188,
+    "latitud": "43.46739",
+    "longitud": "-3.81188",
     "tipo_centro": "Conservatorio Municipal Profesional de Música",
     "codigo": "39012376"
    }
@@ -4051,8 +4051,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39006",
-    "latitud": 43.46944356102196,
-    "longitud": -3.8050349007397335,
+    "latitud": "43.46944356102196",
+    "longitud": "-3.8050349007397335",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39012467"
    }
@@ -4072,8 +4072,8 @@
     "poblacion": "Torrelavega",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.34573760400429,
-    "longitud": -4.0485189244843625,
+    "latitud": "43.34573760400429",
+    "longitud": "-4.0485189244843625",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39012534"
    }
@@ -4093,8 +4093,8 @@
     "poblacion": "Barreda",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.3664002,
-    "longitud": -4.0427529,
+    "latitud": "43.3664002",
+    "longitud": "-4.0427529",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39012637"
    }
@@ -4114,8 +4114,8 @@
     "poblacion": "Torrelavega",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.345029120734154,
-    "longitud": -4.049028845071617,
+    "latitud": "43.345029120734154",
+    "longitud": "-4.049028845071617",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39012649"
    }
@@ -4135,8 +4135,8 @@
     "poblacion": "Laredo",
     "municipio": "Laredo",
     "codigo_postal": "39770",
-    "latitud": 43.410031,
-    "longitud": -3.434496,
+    "latitud": "43.410031",
+    "longitud": "-3.434496",
     "tipo_centro": "Centro de Educación Especial",
     "codigo": "39012728"
    }
@@ -4156,8 +4156,8 @@
     "poblacion": "Laredo",
     "municipio": "Laredo",
     "codigo_postal": "39770",
-    "latitud": 43.40886681889654,
-    "longitud": -3.4320712942510667,
+    "latitud": "43.40886681889654",
+    "longitud": "-3.4320712942510667",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39012765"
    }
@@ -4177,8 +4177,8 @@
     "poblacion": "Muriedas",
     "municipio": "Camargo",
     "codigo_postal": "39600",
-    "latitud": 43.41387420398421,
-    "longitud": -3.8564803343877223,
+    "latitud": "43.41387420398421",
+    "longitud": "-3.8564803343877223",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39012789"
    }
@@ -4198,8 +4198,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39520",
-    "latitud": 43.458618,
-    "longitud": -3.839378,
+    "latitud": "43.458618",
+    "longitud": "-3.839378",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39012790"
    }
@@ -4219,8 +4219,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39008",
-    "latitud": 43.46027519284188,
-    "longitud": -3.810353073102167,
+    "latitud": "43.46027519284188",
+    "longitud": "-3.810353073102167",
     "tipo_centro": "Centro privado",
     "codigo": "39012856"
    }
@@ -4240,8 +4240,8 @@
     "poblacion": "Ampuero",
     "municipio": "Ampuero",
     "codigo_postal": "39840",
-    "latitud": 43.33587380507876,
-    "longitud": -3.4181620573413793,
+    "latitud": "43.33587380507876",
+    "longitud": "-3.4181620573413793",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39012935"
    }
@@ -4261,8 +4261,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39009",
-    "latitud": 43.45537733166884,
-    "longitud": -3.813374784815492,
+    "latitud": "43.45537733166884",
+    "longitud": "-3.813374784815492",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39012947"
    }
@@ -4282,8 +4282,8 @@
     "poblacion": "Muriedas",
     "municipio": "Camargo",
     "codigo_postal": "39600",
-    "latitud": 43.41471991568684,
-    "longitud": -3.848839890444563,
+    "latitud": "43.41471991568684",
+    "longitud": "-3.848839890444563",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39012960"
    }
@@ -4303,8 +4303,8 @@
     "poblacion": "Torrelavega",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.3490797,
-    "longitud": -4.064472,
+    "latitud": "43.3490797",
+    "longitud": "-4.064472",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39013071"
    }
@@ -4324,8 +4324,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39005",
-    "latitud": 43.47005812468051,
-    "longitud": -3.8090155909423937,
+    "latitud": "43.47005812468051",
+    "longitud": "-3.8090155909423937",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39013083"
    }
@@ -4345,8 +4345,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39005",
-    "latitud": 43.474097026483186,
-    "longitud": -3.7934519540313003,
+    "latitud": "43.474097026483186",
+    "longitud": "-3.7934519540313003",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39013095"
    }
@@ -4366,8 +4366,8 @@
     "poblacion": "San Roman",
     "municipio": "Santander",
     "codigo_postal": "39012",
-    "latitud": 43.45803794576355,
-    "longitud": -3.856083478726086,
+    "latitud": "43.45803794576355",
+    "longitud": "-3.856083478726086",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39013101"
    }
@@ -4387,8 +4387,8 @@
     "poblacion": "Tanos",
     "municipio": "Torrelavega",
     "codigo_postal": "39316",
-    "latitud": 43.33998187250167,
-    "longitud": -4.048778637762068,
+    "latitud": "43.33998187250167",
+    "longitud": "-4.048778637762068",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39013113"
    }
@@ -4408,8 +4408,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39007",
-    "latitud": 43.46265259617902,
-    "longitud": -3.8175583373359143,
+    "latitud": "43.46265259617902",
+    "longitud": "-3.8175583373359143",
     "tipo_centro": "Escuela Oficial de Idiomas",
     "codigo": "39013149"
    }
@@ -4429,8 +4429,8 @@
     "poblacion": "Cueto",
     "municipio": "Santander",
     "codigo_postal": "39012",
-    "latitud": 43.485061578139096,
-    "longitud": -3.7989215174798745,
+    "latitud": "43.485061578139096",
+    "longitud": "-3.7989215174798745",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39013162"
    }
@@ -4450,8 +4450,8 @@
     "poblacion": "Monte",
     "municipio": "Santander",
     "codigo_postal": "39012",
-    "latitud": 43.47249785472177,
-    "longitud": -3.823266700258681,
+    "latitud": "43.47249785472177",
+    "longitud": "-3.823266700258681",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39013277"
    }
@@ -4471,8 +4471,8 @@
     "poblacion": "Los Corrales de Buelna",
     "municipio": "Los Corrales de Buelna",
     "codigo_postal": "39400",
-    "latitud": 43.2655562,
-    "longitud": -4.0635387,
+    "latitud": "43.2655562",
+    "longitud": "-4.0635387",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39013320"
    }
@@ -4492,8 +4492,8 @@
     "poblacion": "Astillero (El)",
     "municipio": "Astillero (El)",
     "codigo_postal": "39610",
-    "latitud": 43.39604009897626,
-    "longitud": -3.823290313348997,
+    "latitud": "43.39604009897626",
+    "longitud": "-3.823290313348997",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39013368"
    }
@@ -4513,8 +4513,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39004",
-    "latitud": 43.46396861456684,
-    "longitud": -3.785969795180048,
+    "latitud": "43.46396861456684",
+    "longitud": "-3.785969795180048",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39013381"
    }
@@ -4534,8 +4534,8 @@
     "poblacion": "San Vicente de la Barquera",
     "municipio": "San Vicente de la Barquera",
     "codigo_postal": "39540",
-    "latitud": 43.383110867107995,
-    "longitud": -4.401940470572063,
+    "latitud": "43.383110867107995",
+    "longitud": "-4.401940470572063",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39013393"
    }
@@ -4555,8 +4555,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39010",
-    "latitud": 43.46090615357083,
-    "longitud": -3.819258086596132,
+    "latitud": "43.46090615357083",
+    "longitud": "-3.819258086596132",
     "tipo_centro": "Centro privado",
     "codigo": "39013459"
    }
@@ -4576,8 +4576,8 @@
     "poblacion": "Torrelavega",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.3544296,
-    "longitud": -4.0647051,
+    "latitud": "43.3544296",
+    "longitud": "-4.0647051",
     "tipo_centro": "Escuela Oficial de Idiomas",
     "codigo": "39013496"
    }
@@ -4597,8 +4597,8 @@
     "poblacion": "Colindres",
     "municipio": "Colindres",
     "codigo_postal": "39750",
-    "latitud": 43.39704019389771,
-    "longitud": -3.4571625992883632,
+    "latitud": "43.39704019389771",
+    "longitud": "-3.4571625992883632",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39013575"
    }
@@ -4618,8 +4618,8 @@
     "poblacion": "Viernoles",
     "municipio": "Torrelavega",
     "codigo_postal": "39315",
-    "latitud": 43.321852610697135,
-    "longitud": -4.0500049764848525,
+    "latitud": "43.321852610697135",
+    "longitud": "-4.0500049764848525",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39013587"
    }
@@ -4639,8 +4639,8 @@
     "poblacion": "Peñacastillo",
     "municipio": "Santander",
     "codigo_postal": "39011",
-    "latitud": 43.44703123084221,
-    "longitud": -3.852578800269327,
+    "latitud": "43.44703123084221",
+    "longitud": "-3.852578800269327",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39013599"
    }
@@ -4660,8 +4660,8 @@
     "poblacion": "Villabañez",
     "municipio": "Castañeda",
     "codigo_postal": "39660",
-    "latitud": 43.31505607042053,
-    "longitud": -3.953041494886039,
+    "latitud": "43.31505607042053",
+    "longitud": "-3.953041494886039",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39013630"
    }
@@ -4681,8 +4681,8 @@
     "poblacion": "Mogro",
     "municipio": "Miengo",
     "codigo_postal": "39310",
-    "latitud": 43.430484763871014,
-    "longitud": -3.9670951039631692,
+    "latitud": "43.430484763871014",
+    "longitud": "-3.9670951039631692",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39013678"
    }
@@ -4702,8 +4702,8 @@
     "poblacion": "Limpias",
     "municipio": "Limpias",
     "codigo_postal": "39820",
-    "latitud": 43.360865433556384,
-    "longitud": -3.4212758186369334,
+    "latitud": "43.360865433556384",
+    "longitud": "-3.4212758186369334",
     "tipo_centro": "Colegio Rural Agrupado",
     "codigo": "39013691"
    }
@@ -4723,8 +4723,8 @@
     "poblacion": "Heras",
     "municipio": "Medio Cudeyo",
     "codigo_postal": "39792",
-    "latitud": 43.39705852828255,
-    "longitud": -3.766154956717154,
+    "latitud": "43.39705852828255",
+    "longitud": "-3.766154956717154",
     "tipo_centro": "Colegio Rural Agrupado",
     "codigo": "39013711"
    }
@@ -4744,8 +4744,8 @@
     "poblacion": "Peñacastillo",
     "municipio": "Santander",
     "codigo_postal": "39011",
-    "latitud": 43.4394058,
-    "longitud": -3.8454831,
+    "latitud": "43.4394058",
+    "longitud": "-3.8454831",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39013769"
    }
@@ -4765,8 +4765,8 @@
     "poblacion": "Santibañez",
     "municipio": "Villacarriedo",
     "codigo_postal": "39649",
-    "latitud": 43.236142448472734,
-    "longitud": -3.846765364834746,
+    "latitud": "43.236142448472734",
+    "longitud": "-3.846765364834746",
     "tipo_centro": "Colegio Rural Agrupado",
     "codigo": "39013770"
    }
@@ -4786,8 +4786,8 @@
     "poblacion": "Espinama",
     "municipio": "Camaleño",
     "codigo_postal": "39570",
-    "latitud": 43.128233,
-    "longitud": -4.7891175,
+    "latitud": "43.128233",
+    "longitud": "-4.7891175",
     "tipo_centro": "Colegio Rural Agrupado",
     "codigo": "39013782"
    }
@@ -4807,8 +4807,8 @@
     "poblacion": "Villasuso",
     "municipio": "Cieza",
     "codigo_postal": "39407",
-    "latitud": 43.231898369505224,
-    "longitud": -4.06953598862628,
+    "latitud": "43.231898369505224",
+    "longitud": "-4.06953598862628",
     "tipo_centro": "Escuela Infantil",
     "codigo": "39013824"
    }
@@ -4828,8 +4828,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39007",
-    "latitud": 43.46044630479337,
-    "longitud": -3.826026230772872,
+    "latitud": "43.46044630479337",
+    "longitud": "-3.826026230772872",
     "tipo_centro": "Centro privado",
     "codigo": "39013836"
    }
@@ -4849,8 +4849,8 @@
     "poblacion": "Peñacastillo",
     "municipio": "Santander",
     "codigo_postal": "39011",
-    "latitud": 43.44717548316526,
-    "longitud": -3.84843792707148,
+    "latitud": "43.44717548316526",
+    "longitud": "-3.84843792707148",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39013873"
    }
@@ -4870,8 +4870,8 @@
     "poblacion": "Maliaño",
     "municipio": "Camargo",
     "codigo_postal": "39600",
-    "latitud": 43.419540484683495,
-    "longitud": -3.8417954788439457,
+    "latitud": "43.419540484683495",
+    "longitud": "-3.8417954788439457",
     "tipo_centro": "Centro privado",
     "codigo": "39013897"
    }
@@ -4891,8 +4891,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39011",
-    "latitud": 43.3408201,
-    "longitud": -4.049371,
+    "latitud": "43.3408201",
+    "longitud": "-4.049371",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39013915"
    }
@@ -4912,8 +4912,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39011",
-    "latitud": 43.45682907906561,
-    "longitud": -3.840484915602959,
+    "latitud": "43.45682907906561",
+    "longitud": "-3.840484915602959",
     "tipo_centro": "Centro privado",
     "codigo": "39014099"
    }
@@ -4933,8 +4933,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39009",
-    "latitud": 43.45215286505068,
-    "longitud": -3.8176667290953104,
+    "latitud": "43.45215286505068",
+    "longitud": "-3.8176667290953104",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39014105"
    }
@@ -4954,8 +4954,8 @@
     "poblacion": "Puente San Miguel",
     "municipio": "Reocin",
     "codigo_postal": "39530",
-    "latitud": 43.356874371608,
-    "longitud": -4.093200096084439,
+    "latitud": "43.356874371608",
+    "longitud": "-4.093200096084439",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39014129"
    }
@@ -4975,8 +4975,8 @@
     "poblacion": "Santa María de Cayón",
     "municipio": "Santa María de Cayón",
     "codigo_postal": "39694",
-    "latitud": 43.31013828398981,
-    "longitud": -3.851451673048176,
+    "latitud": "43.31013828398981",
+    "longitud": "-3.851451673048176",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39014130"
    }
@@ -4996,8 +4996,8 @@
     "poblacion": "Alceda",
     "municipio": "Corvera de Toranzo",
     "codigo_postal": "39680",
-    "latitud": 43.1969,
-    "longitud": -3.9189,
+    "latitud": "43.1969",
+    "longitud": "-3.9189",
     "tipo_centro": "Instituto de Educación Secundaria Obligatoria",
     "codigo": "39014154"
    }
@@ -5017,8 +5017,8 @@
     "poblacion": "San Miguel de Meruelo",
     "municipio": "Meruelo",
     "codigo_postal": "39192",
-    "latitud": 43.456302377681915,
-    "longitud": -3.5725765591929677,
+    "latitud": "43.456302377681915",
+    "longitud": "-3.5725765591929677",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39014178"
    }
@@ -5038,8 +5038,8 @@
     "poblacion": "Renedo",
     "municipio": "Pielagos",
     "codigo_postal": "39470",
-    "latitud": 43.35859722118178,
-    "longitud": -3.9542114010391995,
+    "latitud": "43.35859722118178",
+    "longitud": "-3.9542114010391995",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39014211"
    }
@@ -5059,8 +5059,8 @@
     "poblacion": "Santa Cruz de Bezana",
     "municipio": "Santa Cruz de Bezana",
     "codigo_postal": "39100",
-    "latitud": 43.44495857877516,
-    "longitud": -3.9013739555031015,
+    "latitud": "43.44495857877516",
+    "longitud": "-3.9013739555031015",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39014221"
    }
@@ -5080,8 +5080,8 @@
     "poblacion": "Cortiguera",
     "municipio": "Suances",
     "codigo_postal": "39340",
-    "latitud": 43.41677631727399,
-    "longitud": -4.041280611111126,
+    "latitud": "43.41677631727399",
+    "longitud": "-4.041280611111126",
     "tipo_centro": "Instituto de Educación Secundaria Obligatoria",
     "codigo": "39014233"
    }
@@ -5101,8 +5101,8 @@
     "poblacion": "Muriedas",
     "municipio": "Camargo",
     "codigo_postal": "39600",
-    "latitud": 43.4238986,
-    "longitud": -3.8549861,
+    "latitud": "43.4238986",
+    "longitud": "-3.8549861",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39014270"
    }
@@ -5122,8 +5122,8 @@
     "poblacion": "Reinosa",
     "municipio": "Reinosa",
     "codigo_postal": "39200",
-    "latitud": 43.00061,
-    "longitud": -4.14234,
+    "latitud": "43.00061",
+    "longitud": "-4.14234",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39014282"
    }
@@ -5143,8 +5143,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39011",
-    "latitud": 43.457570912941,
-    "longitud": -3.8505922154315333,
+    "latitud": "43.457570912941",
+    "longitud": "-3.8505922154315333",
     "tipo_centro": "Centro privado",
     "codigo": "39014294"
    }
@@ -5164,8 +5164,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39010",
-    "latitud": 43.46032814344217,
-    "longitud": -3.8194002886184015,
+    "latitud": "43.46032814344217",
+    "longitud": "-3.8194002886184015",
     "tipo_centro": "Centro privado",
     "codigo": "39014324"
    }
@@ -5185,8 +5185,8 @@
     "poblacion": "Colindres",
     "municipio": "Colindres",
     "codigo_postal": "39750",
-    "latitud": 43.3963295359791,
-    "longitud": -3.455191475128421,
+    "latitud": "43.3963295359791",
+    "longitud": "-3.455191475128421",
     "tipo_centro": "Centro privado",
     "codigo": "39014336"
    }
@@ -5206,8 +5206,8 @@
     "poblacion": "Santa Cruz de Bezana",
     "municipio": "Santa Cruz de Bezana",
     "codigo_postal": "39100",
-    "latitud": 43.44135421890445,
-    "longitud": -3.8973468884440248,
+    "latitud": "43.44135421890445",
+    "longitud": "-3.8973468884440248",
     "tipo_centro": "Centro privado",
     "codigo": "39014403"
    }
@@ -5227,8 +5227,8 @@
     "poblacion": "Suances",
     "municipio": "Suances",
     "codigo_postal": "39340",
-    "latitud": 43.42137319849741,
-    "longitud": -4.038551552125363,
+    "latitud": "43.42137319849741",
+    "longitud": "-4.038551552125363",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39014415"
    }
@@ -5248,8 +5248,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39011",
-    "latitud": 43.45628446285911,
-    "longitud": -3.851571776191091,
+    "latitud": "43.45628446285911",
+    "longitud": "-3.851571776191091",
     "tipo_centro": "Centro Concertado de Educación Especial",
     "codigo": "39014427"
    }
@@ -5269,8 +5269,8 @@
     "poblacion": "Valdecilla",
     "municipio": "Medio Cudeyo",
     "codigo_postal": "39724",
-    "latitud": 43.383796506298985,
-    "longitud": -3.7327925156054858,
+    "latitud": "43.383796506298985",
+    "longitud": "-3.7327925156054858",
     "tipo_centro": "Centro privado",
     "codigo": "39014439"
    }
@@ -5290,8 +5290,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39009",
-    "latitud": 43.4523152997966,
-    "longitud": -3.8169658174546504,
+    "latitud": "43.4523152997966",
+    "longitud": "-3.8169658174546504",
     "tipo_centro": "Centro privado",
     "codigo": "39018457"
    }
@@ -5311,8 +5311,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39010",
-    "latitud": 43.45902163519297,
-    "longitud": -3.8241549328063553,
+    "latitud": "43.45902163519297",
+    "longitud": "-3.8241549328063553",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39018482"
    }
@@ -5332,8 +5332,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39003",
-    "latitud": 43.4668591382943,
-    "longitud": -3.8038695874540456,
+    "latitud": "43.4668591382943",
+    "longitud": "-3.8038695874540456",
     "tipo_centro": "Centro de Educación de Personas Adultas",
     "codigo": "39018494"
    }
@@ -5353,8 +5353,8 @@
     "poblacion": "Laredo",
     "municipio": "Laredo",
     "codigo_postal": "39770",
-    "latitud": 43.40808,
-    "longitud": -3.41465,
+    "latitud": "43.40808",
+    "longitud": "-3.41465",
     "tipo_centro": "Centro de Educación de Personas Adultas",
     "codigo": "39018500"
    }
@@ -5374,8 +5374,8 @@
     "poblacion": "Torrelavega",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.3518017,
-    "longitud": -4.0461355,
+    "latitud": "43.3518017",
+    "longitud": "-4.0461355",
     "tipo_centro": "Centro de Educación de Personas Adultas",
     "codigo": "39018512"
    }
@@ -5395,8 +5395,8 @@
     "poblacion": "Astillero (El)",
     "municipio": "Astillero (El)",
     "codigo_postal": "39610",
-    "latitud": 43.396258578185815,
-    "longitud": -3.823794033273221,
+    "latitud": "43.396258578185815",
+    "longitud": "-3.823794033273221",
     "tipo_centro": "Centro de Educación de Personas Adultas",
     "codigo": "39018524"
    }
@@ -5416,8 +5416,8 @@
     "poblacion": "Cabezon de la Sal",
     "municipio": "Cabezon de la Sal",
     "codigo_postal": "39500",
-    "latitud": 43.304203896191815,
-    "longitud": -4.237532961250555,
+    "latitud": "43.304203896191815",
+    "longitud": "-4.237532961250555",
     "tipo_centro": "Centro de Educación de Personas Adultas",
     "codigo": "39018536"
    }
@@ -5437,8 +5437,8 @@
     "poblacion": "Muriedas",
     "municipio": "Camargo",
     "codigo_postal": "39600",
-    "latitud": 43.00061,
-    "longitud": -4.14234,
+    "latitud": "43.00061",
+    "longitud": "-4.14234",
     "tipo_centro": "Centro de Educación de Personas Adultas",
     "codigo": "39018548"
    }
@@ -5458,8 +5458,8 @@
     "poblacion": "Castro-Urdiales",
     "municipio": "Castro-Urdiales",
     "codigo_postal": "39600",
-    "latitud": 43.37944137810412,
-    "longitud": -3.2172355664844856,
+    "latitud": "43.37944137810412",
+    "longitud": "-3.2172355664844856",
     "tipo_centro": "Centro de Educación de Personas Adultas",
     "codigo": "39018551"
    }
@@ -5479,8 +5479,8 @@
     "poblacion": "Corrales, los",
     "municipio": "Corrales, los",
     "codigo_postal": "39400",
-    "latitud": 43.2592836,
-    "longitud": -4.0627984,
+    "latitud": "43.2592836",
+    "longitud": "-4.0627984",
     "tipo_centro": "Centro de Educación de Personas Adultas",
     "codigo": "39018561"
    }
@@ -5500,8 +5500,8 @@
     "poblacion": "Potes",
     "municipio": "Potes",
     "codigo_postal": "39570",
-    "latitud": 43.155055,
-    "longitud": -4.622469,
+    "latitud": "43.155055",
+    "longitud": "-4.622469",
     "tipo_centro": "Centro de Educación de Personas Adultas",
     "codigo": "39018573"
    }
@@ -5521,8 +5521,8 @@
     "poblacion": "Reinosa",
     "municipio": "Reinosa",
     "codigo_postal": "39200",
-    "latitud": 43.0013306,
-    "longitud": -4.1440025,
+    "latitud": "43.0013306",
+    "longitud": "-4.1440025",
     "tipo_centro": "Centro de Educación de Personas Adultas",
     "codigo": "39018585"
    }
@@ -5542,8 +5542,8 @@
     "poblacion": "Santoña",
     "municipio": "Santoña",
     "codigo_postal": "39740",
-    "latitud": 43.447819129636095,
-    "longitud": -3.4563956286862094,
+    "latitud": "43.447819129636095",
+    "longitud": "-3.4563956286862094",
     "tipo_centro": "Centro de Educación de Personas Adultas",
     "codigo": "39018597"
    }
@@ -5563,8 +5563,8 @@
     "poblacion": "Castro Urdiales",
     "municipio": "Castro Urdiales",
     "codigo_postal": "39700",
-    "latitud": 43.37170516937975,
-    "longitud": -3.2101418028965347,
+    "latitud": "43.37170516937975",
+    "longitud": "-3.2101418028965347",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39018603"
    }
@@ -5584,8 +5584,8 @@
     "poblacion": "San Andres",
     "municipio": "Luena",
     "codigo_postal": "39687",
-    "latitud": 43.10954416278636,
-    "longitud": -3.898828517585778,
+    "latitud": "43.10954416278636",
+    "longitud": "-3.898828517585778",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39018615"
    }
@@ -5605,8 +5605,8 @@
     "poblacion": "San Miguel de Meruelo",
     "municipio": "Meruelo",
     "codigo_postal": "39192",
-    "latitud": 43.44737028797762,
-    "longitud": -3.5589800021110625,
+    "latitud": "43.44737028797762",
+    "longitud": "-3.5589800021110625",
     "tipo_centro": "Escuela Municipal de Educación Infantil",
     "codigo": "39018627"
    }
@@ -5626,8 +5626,8 @@
     "poblacion": "Castro-Urdiales",
     "municipio": "Castro-Urdiales",
     "codigo_postal": "39700",
-    "latitud": 43.372435825386894,
-    "longitud": -3.2135999759105642,
+    "latitud": "43.372435825386894",
+    "longitud": "-3.2135999759105642",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39018664"
    }
@@ -5647,8 +5647,8 @@
     "poblacion": "Castro-Urdiales",
     "municipio": "Castro-Urdiales",
     "codigo_postal": "39700",
-    "latitud": 43.377106247711986,
-    "longitud": -3.214636057762849,
+    "latitud": "43.377106247711986",
+    "longitud": "-3.214636057762849",
     "tipo_centro": "Escuela Municipal de Danza",
     "codigo": "39018676"
    }
@@ -5668,8 +5668,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39004",
-    "latitud": 43.465096369977864,
-    "longitud": -3.7923211751260206,
+    "latitud": "43.465096369977864",
+    "longitud": "-3.7923211751260206",
     "tipo_centro": "Centro privado",
     "codigo": "39018721"
    }
@@ -5689,8 +5689,8 @@
     "poblacion": "Campuzano",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.341890524018844,
-    "longitud": -4.057157610309834,
+    "latitud": "43.341890524018844",
+    "longitud": "-4.057157610309834",
     "tipo_centro": "Conservatorio Profesional de Música",
     "codigo": "39018731"
    }
@@ -5710,8 +5710,8 @@
     "poblacion": "Castro-Urdiales",
     "municipio": "Castro-Urdiales",
     "codigo_postal": "39700",
-    "latitud": 43.378020097594586,
-    "longitud": -3.2213679411370753,
+    "latitud": "43.378020097594586",
+    "longitud": "-3.2213679411370753",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39018743"
    }
@@ -5731,8 +5731,8 @@
     "poblacion": "Suances",
     "municipio": "Suances",
     "codigo_postal": "39340",
-    "latitud": 43.425459303901064,
-    "longitud": -4.041522930947739,
+    "latitud": "43.425459303901064",
+    "longitud": "-4.041522930947739",
     "tipo_centro": "Escuela Municipal de Educación Infantil",
     "codigo": "39018792"
    }
@@ -5752,8 +5752,8 @@
     "poblacion": "Mataporquera",
     "municipio": "Valdeolea",
     "codigo_postal": "39410",
-    "latitud": 42.876179604697576,
-    "longitud": -4.161270133603553,
+    "latitud": "42.876179604697576",
+    "longitud": "-4.161270133603553",
     "tipo_centro": "Escuela Municipal de Música",
     "codigo": "39018809"
    }
@@ -5773,8 +5773,8 @@
     "poblacion": "Colindres",
     "municipio": "Colindres",
     "codigo_postal": "39750",
-    "latitud": 43.39216842586922,
-    "longitud": -3.452197792448779,
+    "latitud": "43.39216842586922",
+    "longitud": "-3.452197792448779",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39018810"
    }
@@ -5794,8 +5794,8 @@
     "poblacion": "Liencres",
     "municipio": "Pielagos",
     "codigo_postal": "39120",
-    "latitud": 43.4629008547151,
-    "longitud": -3.9338173995829355,
+    "latitud": "43.4629008547151",
+    "longitud": "-3.9338173995829355",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39018822"
    }
@@ -5815,8 +5815,8 @@
     "poblacion": "Muriedas",
     "municipio": "Camargo",
     "codigo_postal": "39600",
-    "latitud": 43.429552396940174,
-    "longitud": -3.853670674374093,
+    "latitud": "43.429552396940174",
+    "longitud": "-3.853670674374093",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39018834"
    }
@@ -5836,8 +5836,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39011",
-    "latitud": 43.44280701088404,
-    "longitud": -3.84940371592525,
+    "latitud": "43.44280701088404",
+    "longitud": "-3.84940371592525",
     "tipo_centro": "Centro privado",
     "codigo": "39018846"
    }
@@ -5857,8 +5857,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39008",
-    "latitud": 43.4850213,
-    "longitud": -3.7977317,
+    "latitud": "43.4850213",
+    "longitud": "-3.7977317",
     "tipo_centro": "Centro Concertado de Educación Especial",
     "codigo": "39018861"
    }
@@ -5878,8 +5878,8 @@
     "poblacion": "Castro-Urdiales",
     "municipio": "Castro-Urdiales",
     "codigo_postal": "39700",
-    "latitud": 43.38070425583052,
-    "longitud": -3.2171521730687056,
+    "latitud": "43.38070425583052",
+    "longitud": "-3.2171521730687056",
     "tipo_centro": "Escuela Municipal de Música",
     "codigo": "39018871"
    }
@@ -5899,8 +5899,8 @@
     "poblacion": "Cuchia",
     "municipio": "Miengo",
     "codigo_postal": "39318",
-    "latitud": 43.44818134875935,
-    "longitud": -4.018996738198589,
+    "latitud": "43.44818134875935",
+    "longitud": "-4.018996738198589",
     "tipo_centro": "Escuela Municipal de Educación Infantil",
     "codigo": "39018883"
    }
@@ -5920,8 +5920,8 @@
     "poblacion": "Peñacastillo",
     "municipio": "Santander",
     "codigo_postal": "39011",
-    "latitud": 43.444188071589565,
-    "longitud": -3.862280130773259,
+    "latitud": "43.444188071589565",
+    "longitud": "-3.862280130773259",
     "tipo_centro": "Centro privado",
     "codigo": "39018901"
    }
@@ -5941,8 +5941,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39011",
-    "latitud": 43.447246020675614,
-    "longitud": -3.851001246290716,
+    "latitud": "43.447246020675614",
+    "longitud": "-3.851001246290716",
     "tipo_centro": "Centro Integrado de Formación Profesional",
     "codigo": "39018913"
    }
@@ -5962,8 +5962,8 @@
     "poblacion": "Santoña",
     "municipio": "Santoña",
     "codigo_postal": "39740",
-    "latitud": 43.46079681923042,
-    "longitud": -3.4573249511621382,
+    "latitud": "43.46079681923042",
+    "longitud": "-3.4573249511621382",
     "tipo_centro": "Centro de Educación de Personas Adultas",
     "codigo": "39018949"
    }
@@ -5983,8 +5983,8 @@
     "poblacion": "Somo",
     "municipio": "Ribamontan al Mar",
     "codigo_postal": "39140",
-    "latitud": 43.45035519990952,
-    "longitud": -3.73226134629063,
+    "latitud": "43.45035519990952",
+    "longitud": "-3.73226134629063",
     "tipo_centro": "Escuela Municipal de Educación Infantil",
     "codigo": "39018962"
    }
@@ -6004,8 +6004,8 @@
     "poblacion": "Astillero (El)",
     "municipio": "Astillero (El)",
     "codigo_postal": "39610",
-    "latitud": 43.39681979676939,
-    "longitud": -3.8241152635513727,
+    "latitud": "43.39681979676939",
+    "longitud": "-3.8241152635513727",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39018986"
    }
@@ -6025,8 +6025,8 @@
     "poblacion": "Laredo",
     "municipio": "Laredo",
     "codigo_postal": "39770",
-    "latitud": 43.408523,
-    "longitud": -3.413305,
+    "latitud": "43.408523",
+    "longitud": "-3.413305",
     "tipo_centro": "Escuela Oficial de Idiomas",
     "codigo": "39018998"
    }
@@ -6046,8 +6046,8 @@
     "poblacion": "Puente San Miguel",
     "municipio": "Reocin",
     "codigo_postal": "39530",
-    "latitud": 43.397053139396746,
-    "longitud": -4.08860987561399,
+    "latitud": "43.397053139396746",
+    "longitud": "-4.08860987561399",
     "tipo_centro": "Escuela de Arte",
     "codigo": "39019024"
    }
@@ -6067,8 +6067,8 @@
     "poblacion": "Liencres",
     "municipio": "Pielagos",
     "codigo_postal": "39120",
-    "latitud": 43.46560592786876,
-    "longitud": -3.9258788517137266,
+    "latitud": "43.46560592786876",
+    "longitud": "-3.9258788517137266",
     "tipo_centro": "Escuela Municipal de Danza",
     "codigo": "39019036"
    }
@@ -6088,8 +6088,8 @@
     "poblacion": "Bielva",
     "municipio": "Herrerias",
     "codigo_postal": "39550",
-    "latitud": 43.31499,
-    "longitud": -4.46013,
+    "latitud": "43.31499",
+    "longitud": "-4.46013",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39019051"
    }
@@ -6109,8 +6109,8 @@
     "poblacion": "Reinosa",
     "municipio": "Reinosa",
     "codigo_postal": "39200",
-    "latitud": 43.0003084,
-    "longitud": -4.1438372,
+    "latitud": "43.0003084",
+    "longitud": "-4.1438372",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39019061"
    }
@@ -6130,8 +6130,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39001",
-    "latitud": 43.46575473210735,
-    "longitud": -3.811184375126004,
+    "latitud": "43.46575473210735",
+    "longitud": "-3.811184375126004",
     "tipo_centro": "Centro privado",
     "codigo": "39019085"
    }
@@ -6151,8 +6151,8 @@
     "poblacion": "Soto de la Marina",
     "municipio": "Santa Cruz de Bezana",
     "codigo_postal": "39110",
-    "latitud": 43.468334515073266,
-    "longitud": -3.877811188618135,
+    "latitud": "43.468334515073266",
+    "longitud": "-3.877811188618135",
     "tipo_centro": "Centro privado",
     "codigo": "39019103"
    }
@@ -6172,8 +6172,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39012",
-    "latitud": 43.47955835442982,
-    "longitud": -3.8018010021830047,
+    "latitud": "43.47955835442982",
+    "longitud": "-3.8018010021830047",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39019115"
    }
@@ -6193,8 +6193,8 @@
     "poblacion": "Unquera",
     "municipio": "Val de San Vicente",
     "codigo_postal": "39560",
-    "latitud": 43.37225,
-    "longitud": -4.519135,
+    "latitud": "43.37225",
+    "longitud": "-4.519135",
     "tipo_centro": "Centro público",
     "codigo": "39019127"
    }
@@ -6214,8 +6214,8 @@
     "poblacion": "Limpias",
     "municipio": "Limpias",
     "codigo_postal": "39820",
-    "latitud": 43.36139529502733,
-    "longitud": -3.4213154636560206,
+    "latitud": "43.36139529502733",
+    "longitud": "-3.4213154636560206",
     "tipo_centro": "Escuela Municipal de Educación Infantil",
     "codigo": "39019152"
    }
@@ -6235,8 +6235,8 @@
     "poblacion": "La Veguilla",
     "municipio": "Reocin",
     "codigo_postal": "39538",
-    "latitud": 43.356403122312834,
-    "longitud": -4.092276688453775,
+    "latitud": "43.356403122312834",
+    "longitud": "-4.092276688453775",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39019164"
    }
@@ -6256,8 +6256,8 @@
     "poblacion": "Mompía",
     "municipio": "Santa Cruz de Bezana",
     "codigo_postal": "39108",
-    "latitud": 43.4314813659433,
-    "longitud": -3.9217131274348205,
+    "latitud": "43.4314813659433",
+    "longitud": "-3.9217131274348205",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39019176"
    }
@@ -6277,8 +6277,8 @@
     "poblacion": "Saron",
     "municipio": "Santa Maria de Cayon",
     "codigo_postal": "39620",
-    "latitud": 43.343765093752914,
-    "longitud": -3.851918834713508,
+    "latitud": "43.343765093752914",
+    "longitud": "-3.851918834713508",
     "tipo_centro": "Centro privado",
     "codigo": "39019191"
    }
@@ -6298,8 +6298,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39011",
-    "latitud": 43.41586717139642,
-    "longitud": -3.8223965462917926,
+    "latitud": "43.41586717139642",
+    "longitud": "-3.8223965462917926",
     "tipo_centro": "Escuela Municipal de Educación Infantil",
     "codigo": "39019206"
    }
@@ -6319,8 +6319,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39005",
-    "latitud": 43.47035659044085,
-    "longitud": -3.8091016886180706,
+    "latitud": "43.47035659044085",
+    "longitud": "-3.8091016886180706",
     "tipo_centro": "Escuela Infantil",
     "codigo": "39019218"
    }
@@ -6340,8 +6340,8 @@
     "poblacion": "Mompía",
     "municipio": "Santa Cruz de Bezana",
     "codigo_postal": "39108",
-    "latitud": 43.43460512322956,
-    "longitud": -3.917001375127059,
+    "latitud": "43.43460512322956",
+    "longitud": "-3.917001375127059",
     "tipo_centro": "Centro privado",
     "codigo": "39019279"
    }
@@ -6361,8 +6361,8 @@
     "poblacion": "Torrelavega",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.348856314987536,
-    "longitud": -4.049759444269572,
+    "latitud": "43.348856314987536",
+    "longitud": "-4.049759444269572",
     "tipo_centro": "Centro privado",
     "codigo": "39019292"
    }
@@ -6382,8 +6382,8 @@
     "poblacion": "Maliaño",
     "municipio": "Camargo",
     "codigo_postal": "39600",
-    "latitud": 43.46212885510847,
-    "longitud": -3.810110568119213,
+    "latitud": "43.46212885510847",
+    "longitud": "-3.810110568119213",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39019310"
    }
@@ -6403,8 +6403,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39009",
-    "latitud": 43.45487103232929,
-    "longitud": -3.8157211867670817,
+    "latitud": "43.45487103232929",
+    "longitud": "-3.8157211867670817",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39019358"
    }
@@ -6424,8 +6424,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39005",
-    "latitud": 43.47171914241048,
-    "longitud": -3.791708788618007,
+    "latitud": "43.47171914241048",
+    "longitud": "-3.791708788618007",
     "tipo_centro": "Centro privado",
     "codigo": "39019361"
    }
@@ -6445,8 +6445,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39012",
-    "latitud": 43.4608731910671,
-    "longitud": -3.8514257751261782,
+    "latitud": "43.4608731910671",
+    "longitud": "-3.8514257751261782",
     "tipo_centro": "Centro privado",
     "codigo": "39019371"
    }
@@ -6466,8 +6466,8 @@
     "poblacion": "Heras",
     "municipio": "Medio Cudeyo",
     "codigo_postal": "39792",
-    "latitud": 43.4033,
-    "longitud": -3.76415,
+    "latitud": "43.4033",
+    "longitud": "-3.76415",
     "tipo_centro": "Centro Integrado de Formación Profesional",
     "codigo": "39019383"
    }
@@ -6487,8 +6487,8 @@
     "poblacion": "La Molina",
     "municipio": "Camaleño",
     "codigo_postal": "39587",
-    "latitud": 43.15696197674402,
-    "longitud": -4.636485200269565,
+    "latitud": "43.15696197674402",
+    "longitud": "-4.636485200269565",
     "tipo_centro": "Centro privado",
     "codigo": "39019401"
    }
@@ -6508,8 +6508,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39001",
-    "latitud": 43.463747034096436,
-    "longitud": -3.8058856884434626,
+    "latitud": "43.463747034096436",
+    "longitud": "-3.8058856884434626",
     "tipo_centro": "Centro privado",
     "codigo": "39019413"
    }
@@ -6529,8 +6529,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39008",
-    "latitud": 43.45818884769584,
-    "longitud": -3.821703317454415,
+    "latitud": "43.45818884769584",
+    "longitud": "-3.821703317454415",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39019425"
    }
@@ -6550,8 +6550,8 @@
     "poblacion": "Tanos",
     "municipio": "Torrelavega",
     "codigo_postal": "39316",
-    "latitud": 43.33661205182703,
-    "longitud": -4.049462317458613,
+    "latitud": "43.33661205182703",
+    "longitud": "-4.049462317458613",
     "tipo_centro": "Centro privado",
     "codigo": "39019449"
    }
@@ -6571,8 +6571,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39004",
-    "latitud": 43.462398735718054,
-    "longitud": -3.7907471309464755,
+    "latitud": "43.462398735718054",
+    "longitud": "-3.7907471309464755",
     "tipo_centro": "Centro público municipal",
     "codigo": "39019474"
    }
@@ -6592,8 +6592,8 @@
     "poblacion": "Astillero (El)",
     "municipio": "Astillero (El)",
     "codigo_postal": "39610",
-    "latitud": 43.39667639389108,
-    "longitud": -3.816888217456523,
+    "latitud": "43.39667639389108",
+    "longitud": "-3.816888217456523",
     "tipo_centro": "Centro privado",
     "codigo": "39019486"
    }
@@ -6613,8 +6613,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39011",
-    "latitud": 43.45647322050311,
-    "longitud": -3.8544428597826093,
+    "latitud": "43.45647322050311",
+    "longitud": "-3.8544428597826093",
     "tipo_centro": "Centro privado",
     "codigo": "39019498"
    }
@@ -6634,8 +6634,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "SANTANDER",
-    "latitud": 43.45447641001669,
-    "longitud": -3.83518510396233,
+    "latitud": "43.45447641001669",
+    "longitud": "-3.83518510396233",
     "tipo_centro": "Centro privado",
     "codigo": "39019504"
    }
@@ -6655,8 +6655,8 @@
     "poblacion": "Castro-Urdiales",
     "municipio": "Castro-Urdiales",
     "codigo_postal": "39700",
-    "latitud": 43.36937,
-    "longitud": -3.201727,
+    "latitud": "43.36937",
+    "longitud": "-3.201727",
     "tipo_centro": "Instituto de Educación Secundaria",
     "codigo": "39019516"
    }
@@ -6676,8 +6676,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39004",
-    "latitud": 43.46434244009548,
-    "longitud": -3.7908404465559733,
+    "latitud": "43.46434244009548",
+    "longitud": "-3.7908404465559733",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39019528"
    }
@@ -6697,8 +6697,8 @@
     "poblacion": "Cuchia",
     "municipio": "Miengo",
     "codigo_postal": "39318",
-    "latitud": 43.4344208058513,
-    "longitud": -4.013699601938147,
+    "latitud": "43.4344208058513",
+    "longitud": "-4.013699601938147",
     "tipo_centro": "Centro privado",
     "codigo": "39019531"
    }
@@ -6718,8 +6718,8 @@
     "poblacion": "Ramales de la Victoria",
     "municipio": "Ramales de la Victoria",
     "codigo_postal": "39850",
-    "latitud": 43.47831866769459,
-    "longitud": -3.8565271409697566,
+    "latitud": "43.47831866769459",
+    "longitud": "-3.8565271409697566",
     "tipo_centro": "Centro privado",
     "codigo": "39019577"
    }
@@ -6739,8 +6739,8 @@
     "poblacion": "Reinosa",
     "municipio": "Reinosa",
     "codigo_postal": "39200",
-    "latitud": 43.00028885664871,
-    "longitud": -4.141020601948831,
+    "latitud": "43.00028885664871",
+    "longitud": "-4.141020601948831",
     "tipo_centro": "Centro privado",
     "codigo": "39019590"
    }
@@ -6760,8 +6760,8 @@
     "poblacion": "Villanueva",
     "municipio": "Villaescusa",
     "codigo_postal": "39690",
-    "latitud": 43.36867666138773,
-    "longitud": -3.8627834886215706,
+    "latitud": "43.36867666138773",
+    "longitud": "-3.8627834886215706",
     "tipo_centro": "Centro privado",
     "codigo": "39019607"
    }
@@ -6781,8 +6781,8 @@
     "poblacion": "Revilla de Camargo",
     "municipio": "Camargo",
     "codigo_postal": "39600",
-    "latitud": 43.40710823350326,
-    "longitud": -3.862344088596606,
+    "latitud": "43.40710823350326",
+    "longitud": "-3.862344088596606",
     "tipo_centro": "Colegio Concertado",
     "codigo": "39019619"
    }
@@ -6802,8 +6802,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39001",
-    "latitud": 43.465368213569235,
-    "longitud": -3.810883866355023,
+    "latitud": "43.465368213569235",
+    "longitud": "-3.810883866355023",
     "tipo_centro": "Centro privado",
     "codigo": "39019632"
    }
@@ -6823,8 +6823,8 @@
     "poblacion": "Quijano",
     "municipio": "Piélagos",
     "codigo_postal": "39477",
-    "latitud": 43.35608990703298,
-    "longitud": -3.9563251732782887,
+    "latitud": "43.35608990703298",
+    "longitud": "-3.9563251732782887",
     "tipo_centro": "Escuela Municipal de Música",
     "codigo": "39019644"
    }
@@ -6844,8 +6844,8 @@
     "poblacion": "Mortera",
     "municipio": "Pielagos",
     "codigo_postal": "39120",
-    "latitud": 43.35612111081513,
-    "longitud": -3.9564002751297935,
+    "latitud": "43.35612111081513",
+    "longitud": "-3.9564002751297935",
     "tipo_centro": "Escuela Municipal de Música",
     "codigo": "39019656"
    }
@@ -6865,8 +6865,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39008",
-    "latitud": 43.45857876387422,
-    "longitud": -3.822486305785176,
+    "latitud": "43.45857876387422",
+    "longitud": "-3.822486305785176",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39019668"
    }
@@ -6886,8 +6886,8 @@
     "poblacion": "Castro-Urdiales",
     "municipio": "Castro-Urdiales",
     "codigo_postal": "39700",
-    "latitud": 43.397755864786426,
-    "longitud": -3.4602430751283553,
+    "latitud": "43.397755864786426",
+    "longitud": "-3.4602430751283553",
     "tipo_centro": "Centro privado",
     "codigo": "39019671"
    }
@@ -6907,8 +6907,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39011",
-    "latitud": 43.46426625226528,
-    "longitud": -3.8662083405329306,
+    "latitud": "43.46426625226528",
+    "longitud": "-3.8662083405329306",
     "tipo_centro": "Centro privado",
     "codigo": "39019681"
    }
@@ -6928,8 +6928,8 @@
     "poblacion": "Rada",
     "municipio": "Voto",
     "codigo_postal": "39766",
-    "latitud": 43.32143682965566,
-    "longitud": -4.338923911638759,
+    "latitud": "43.32143682965566",
+    "longitud": "-4.338923911638759",
     "tipo_centro": "Centro privado",
     "codigo": "39019693"
    }
@@ -6949,8 +6949,8 @@
     "poblacion": "Quijano",
     "municipio": "Pielagos",
     "codigo_postal": "39470",
-    "latitud": 43.361337867303035,
-    "longitud": -3.9574666458882217,
+    "latitud": "43.361337867303035",
+    "longitud": "-3.9574666458882217",
     "tipo_centro": "Colegio de Educación Infantil y Primaria",
     "codigo": "39019711"
    }
@@ -6970,8 +6970,8 @@
     "poblacion": "Renedo",
     "municipio": "Pielagos",
     "codigo_postal": "39470",
-    "latitud": 43.357183,
-    "longitud": -3.953279,
+    "latitud": "43.357183",
+    "longitud": "-3.953279",
     "tipo_centro": "Centro de Educación de Personas Adultas",
     "codigo": "39019735"
    }
@@ -6991,8 +6991,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39011",
-    "latitud": 43.45195701747938,
-    "longitud": -3.873841073274972,
+    "latitud": "43.45195701747938",
+    "longitud": "-3.873841073274972",
     "tipo_centro": "Centro privado",
     "codigo": "39019747"
    }
@@ -7012,8 +7012,8 @@
     "poblacion": "Torrelavega",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.341382933773446,
-    "longitud": -4.051551693362977,
+    "latitud": "43.341382933773446",
+    "longitud": "-4.051551693362977",
     "tipo_centro": "Escuela Municipal de Educación Infantil",
     "codigo": "39019784"
    }
@@ -7033,8 +7033,8 @@
     "poblacion": "Laredo",
     "municipio": "Laredo",
     "codigo_postal": "39770",
-    "latitud": 43.413502,
-    "longitud": -3.414884,
+    "latitud": "43.413502",
+    "longitud": "-3.414884",
     "tipo_centro": "Centro Integrado de Formación Profesional",
     "codigo": "39019851"
    }
@@ -7054,8 +7054,8 @@
     "poblacion": "Noja",
     "municipio": "Noja",
     "codigo_postal": "39180",
-    "latitud": 43.479788727002614,
-    "longitud": -3.5294200160236326,
+    "latitud": "43.479788727002614",
+    "longitud": "-3.5294200160236326",
     "tipo_centro": "Escuela Municipal de Educación Infantil",
     "codigo": "39019942"
    }
@@ -7075,8 +7075,8 @@
     "poblacion": "Ampuero",
     "municipio": "Ampuero",
     "codigo_postal": "39840",
-    "latitud": 43.349630191832986,
-    "longitud": -3.4217484179552526,
+    "latitud": "43.349630191832986",
+    "longitud": "-3.4217484179552526",
     "tipo_centro": "Centro privado",
     "codigo": "39600000"
    }
@@ -7096,8 +7096,8 @@
     "poblacion": "Maliaño",
     "municipio": "Camargo",
     "codigo_postal": "39600",
-    "latitud": 43.43209786965412,
-    "longitud": -3.825332188697867,
+    "latitud": "43.43209786965412",
+    "longitud": "-3.825332188697867",
     "tipo_centro": "Centro privado",
     "codigo": "39600001"
    }
@@ -7117,8 +7117,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39012",
-    "latitud": 43.463762218095674,
-    "longitud": -3.8390103309464476,
+    "latitud": "43.463762218095674",
+    "longitud": "-3.8390103309464476",
     "tipo_centro": "Centro privado",
     "codigo": "39600003"
    }
@@ -7138,8 +7138,8 @@
     "poblacion": "Castro-Urdiales",
     "municipio": "Castro-Urdiales",
     "codigo_postal": "39700",
-    "latitud": 43.3820120451288,
-    "longitud": -3.2195876627000093,
+    "latitud": "43.3820120451288",
+    "longitud": "-3.2195876627000093",
     "tipo_centro": "Centro público municipal",
     "codigo": "39600007"
    }
@@ -7159,8 +7159,8 @@
     "poblacion": "Renedo",
     "municipio": "Pielagos",
     "codigo_postal": "39470",
-    "latitud": 43.35612111081513,
-    "longitud": -3.9563037156064293,
+    "latitud": "43.35612111081513",
+    "longitud": "-3.9563037156064293",
     "tipo_centro": "Centro público municipal",
     "codigo": "39600008"
    }
@@ -7180,8 +7180,8 @@
     "poblacion": "Santander",
     "municipio": "Santander",
     "codigo_postal": "39009",
-    "latitud": 43.462380823077844,
-    "longitud": -3.8099311579308925,
+    "latitud": "43.462380823077844",
+    "longitud": "-3.8099311579308925",
     "tipo_centro": "Centro público municipal",
     "codigo": "39600010"
    }
@@ -7201,8 +7201,8 @@
     "poblacion": "Torrelavega",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.3494754262151,
-    "longitud": -4.050827930950389,
+    "latitud": "43.3494754262151",
+    "longitud": "-4.050827930950389",
     "tipo_centro": "Centro público municipal",
     "codigo": "39600011"
    }
@@ -7222,8 +7222,8 @@
     "poblacion": "Torrelavega",
     "municipio": "Torrelavega",
     "codigo_postal": "39300",
-    "latitud": 43.46224796187398,
-    "longitud": -3.8086264182120626,
+    "latitud": "43.46224796187398",
+    "longitud": "-3.8086264182120626",
     "tipo_centro": "Centro privado",
     "codigo": "39600019"
    }
@@ -7243,8 +7243,8 @@
     "poblacion": "Maliaño",
     "municipio": "Camargo",
     "codigo_postal": "39600",
-    "latitud": 43.41534427615876,
-    "longitud": -3.8218200724357394,
+    "latitud": "43.41534427615876",
+    "longitud": "-3.8218200724357394",
     "tipo_centro": "Centro de Recursos de Educación Especial",
     "codigo": "39700231"
    }
@@ -7264,8 +7264,8 @@
     "poblacion": "Laredo",
     "municipio": "Laredo",
     "codigo_postal": "39770",
-    "latitud": 43.410031,
-    "longitud": -3.434496,
+    "latitud": "43.410031",
+    "longitud": "-3.434496",
     "tipo_centro": "Centro de Recursos de Educación Especial",
     "codigo": "39700232"
    }
@@ -7285,8 +7285,8 @@
     "poblacion": "Cabezon de la Sal",
     "municipio": "Cabezon de la Sal",
     "codigo_postal": "39500",
-    "latitud": 43.3093211,
-    "longitud": -4.2291201,
+    "latitud": "43.3093211",
+    "longitud": "-4.2291201",
     "tipo_centro": "Centro de Recursos de Educación Especial",
     "codigo": "39700234"
    }
