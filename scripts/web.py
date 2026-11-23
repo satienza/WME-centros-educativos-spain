@@ -24,6 +24,8 @@ def tamano(b):
 def main():
     shutil.rmtree(SITE, ignore_errors=True)
     os.makedirs(SITE)
+    for f in ("icono.svg", "icono.png", "favicon.svg"):
+        shutil.copy(os.path.join(RAIZ, f), SITE)
     filas, total = [], 0
     with zipfile.ZipFile(os.path.join(SITE, ZIP), "w", zipfile.ZIP_DEFLATED) as z:
         for ruta in sorted(glob.glob(os.path.join(RAIZ, "*", "centros_*.geojson"))):
@@ -47,6 +49,7 @@ def main():
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Centros educativos de España para WME</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
 <style>
 :root {{ color-scheme: light dark; --acento: #0b6bcb; }}
 body {{ font: 16px/1.5 system-ui, sans-serif; max-width: 52rem; margin: 0 auto; padding: 1.5rem 1rem; }}
